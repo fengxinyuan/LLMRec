@@ -73,14 +73,3 @@ def llm_categorize_and_recommend(user_info, candidates_with_meta):
         return data
     except (json.JSONDecodeError, AttributeError, KeyError):
         return {}
-
-# response = client.chat.completions.create(
-#     model="deepseek-chat",
-#     messages=[
-#         {"role": "system", "content": "You are a helpful assistant"},
-#         {"role": "user", "content": "Hello"},
-#     ],
-#     stream=False
-# )
-#
-# print(response.choices[0].message.content)

@@ -69,8 +69,8 @@ def optimize_knowledge_resources(knowledge_data):
 
 def main():
     """主函数：加载、优化并保存知识资源"""
-    input_filepath = 'knowledge.json'
-    output_filepath = 'knowledge_processed.json'
+    input_filepath = 'data/knowledge.json'
+    output_filepath = 'data/knowledge_processed.json'
 
     knowledge_data = load_json_data(input_filepath)
     if knowledge_data:

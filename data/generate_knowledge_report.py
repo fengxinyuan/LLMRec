@@ -43,8 +43,8 @@ def save_html_content(html_string, filepath):
 
 def main():
     """主函数：以迭代、增量的方式扩展知识库并生成报告"""
-    processed_knowledge_filepath = 'knowledge_processed.json'
-    articles_dir = 'articles'
+    processed_knowledge_filepath = 'data/knowledge_processed.json'
+    articles_dir = 'data/articles'
     total_new_resources_to_generate = 200
     batch_size = 5  # 每次调用LLM生成的数量
 

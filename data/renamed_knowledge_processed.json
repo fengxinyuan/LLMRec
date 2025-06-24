@@ -1,0 +1,5850 @@
+[
+  {
+    "resource_id": "RES001",
+    "title": "小麦赤霉病AI预警与绿色防控决策系统",
+    "resource_type": "物联网系统",
+    "content_type": "交互式应用",
+    "source": "国家农业信息化工程技术研究中心",
+    "publish_date": "2023-03-15",
+    "last_updated": "2024-02-20",
+    "language": [
+      "中文"
+    ],
+    "target_crops": [
+      "小麦"
+    ],
+    "applicable_regions": [
+      "长江中下游",
+      "黄淮海"
+    ],
+    "technical_domain": "病虫害防治",
+    "knowledge_level": "中级",
+    "description": "本系统整合气象数据、田间传感器与AI模型，为小麦抽穗扬花期的赤霉病提供精准施药决策支持，旨在减少农药使用，实现增产增收。",
+    "author_affiliation": "国家级科研机构",
+    "technical_innovation": "物联网+AI预测模型",
+    "practicality_rating": 9.2,
+    "authority_rating": 9.5,
+    "difficulty_level": "中等",
+    "time_commitment": "1小时/周",
+    "required_equipment": [
+      "智能终端",
+      "田间传感器"
+    ],
+    "cost_level": "中",
+    "applicable_scales": [
+      "50亩以上规模"
+    ],
+    "seasonal_relevance": [
+      "抽穗扬花期"
+    ],
+    "urgency_level": "高",
+    "delivery_platforms": [
+      "Web",
+      "iOS",
+      "Android"
+    ],
+    "interactivity_level": "高",
+    "update_frequency": "实时数据",
+    "user_rating": 4.8,
+    "usage_metrics": 3250,
+    "related_policies": [
+      "小麦重大病虫害防控"
+    ],
+    "scientific_basis": "5年田间验证数据",
+    "environmental_impact": "减少农药使用30%",
+    "economic_benefit": "亩增收200-400元",
+    "success_stories": [
+      "江苏农垦应用案例"
+    ],
+    "limitations": "需基础硬件投入",
+    "prerequisites": [
+      "基本植保知识"
+    ],
+    "tags": [
+      "智慧农业",
+      "赤霉病",
+      "AI预警",
+      "精准植保",
+      "小麦",
+      "物联网",
+      "绿色防控"
+    ],
+    "access_method": "订阅服务",
+    "distribution_channels": [
+      "官网",
+      "农技推广站"
+    ],
+    "related_resources": [
+      "RES002",
+      "RES010"
+    ],
+    "summary": "这是一款面向规模化小麦种植户的智慧农业应用。它利用物联网和人工智能技术，实时监测和预测小麦赤霉病的发生风险，并提供科学的绿色防控方案。该系统能显著降低30%的农药使用量，帮助用户每亩增收200-400元，是实现精准植保、降本增效的有力工具。使用该系统需要具备一定的硬件基础和植保知识。"
+  },
+  {
+    "resource_id": "RES002",
+    "title": "水稻机插秧同步侧深施肥技术标准",
+    "resource_type": "技术标准",
+    "content_type": "图文手册",
+    "source": "农业农村部南京农机化研究所",
+    "publish_date": "2022-04-10",
+    "last_updated": "2023-11-05",
+    "language": [
+      "中文"
+    ],
+    "target_crops": [
+      "水稻"
+    ],
+    "applicable_regions": [
+      "全国稻区"
+    ],
+    "technical_domain": "机械化种植",
+    "knowledge_level": "初级",
+    "description": "本技术规范详细规定了水稻机插秧同步侧深施肥的技术参数、操作流程及注意事项，旨在实现农机农艺融合，提高施肥效率，减少肥料浪费。",
+    "author_affiliation": "部属科研机构",
+    "technical_innovation": "农机农艺融合",
+    "practicality_rating": 9.0,
+    "authority_rating": 9.3,
+    "difficulty_level": "初级",
+    "time_commitment": "2小时",
+    "required_equipment": [
+      "侧深施肥插秧机"
+    ],
+    "cost_level": "中",
+    "applicable_scales": [
+      "30亩以上"
+    ],
+    "seasonal_relevance": [
+      "插秧季"
+    ],
+    "urgency_level": "中",
+    "delivery_platforms": [
+      "PDF"
+    ],
+    "interactivity_level": "中",
+    "update_frequency": "两年一更",
+    "user_rating": 4.6,
+    "usage_metrics": 7820,
+    "related_policies": [
+      "水稻机械化推广补贴"
+    ],
+    "scientific_basis": "10省区试验数据",
+    "environmental_impact": "减肥15%不减产",
+    "economic_benefit": "亩节本150元",
+    "success_stories": [
+      "湖南益阳示范区"
+    ],
+    "limitations": "需专用设备",
+    "prerequisites": [
+      "基本机械操作"
+    ],
+    "tags": [
+      "水稻",
+      "机械插秧",
+      "精准施肥",
+      "农机农艺",
+      "节本增效"
+    ],
+    "access_method": "免费公开",
+    "distribution_channels": [
+      "政府官网"
+    ],
+    "related_resources": [
+      "RES003",
+      "RES020"
+    ],
+    "summary": "本技术规范详细介绍了水稻机插秧同步侧深施肥的技术要点，适用于全国稻区30亩以上的规模化种植户。该技术通过农机农艺融合，实现精准施肥，可减少15%的肥料使用而不影响产量，每亩节约成本约150元。使用该技术需配备侧深施肥插秧机，并具备基本机械操作能力。该规范基于10省区的试验数据，已在湖南益阳等示范区成功应用，是水稻机械化种植的重要技术支撑。"
+  },
+  {
+    "resource_id": "RES003",
+    "title": "玉米密植高产数字决策系统",
+    "resource_type": "数字工具",
+    "content_type": "移动应用",
+    "source": "中国农科院作物科学研究所",
+    "publish_date": "2023-01-20",
+    "last_updated": "2024-01-15",
+    "language": [
+      "中文"
+    ],
+    "target_crops": [
+      "玉米"
+    ],
+    "applicable_regions": [
+      "东北",
+      "黄淮海"
+    ],
+    "technical_domain": "精准农业",
+    "knowledge_level": "中级",
+    "description": "该系统基于土壤数据和玉米品种特性，通过品种-密度-产量模型生成最优密植方案，并提供产量预测功能，适用于规模化玉米种植的精准决策支持。",
+    "author_affiliation": "国家级研究所",
+    "technical_innovation": "品种-密度-产量模型",
+    "practicality_rating": 8.8,
+    "authority_rating": 9.2,
+    "difficulty_level": "中高",
+    "time_commitment": "3小时学习",
+    "required_equipment": [
+      "智能手机",
+      "土壤检测数据"
+    ],
+    "cost_level": "低",
+    "applicable_scales": [
+      "100亩以上"
+    ],
+    "seasonal_relevance": [
+      "播种前"
+    ],
+    "urgency_level": "中",
+    "delivery_platforms": [
+      "Android",
+      "iOS"
+    ],
+    "interactivity_level": "高",
+    "update_frequency": "季度更新",
+    "user_rating": 4.7,
+    "usage_metrics": 4560,
+    "related_policies": [
+      "玉米单产提升工程"
+    ],
+    "scientific_basis": "国家玉米产业体系数据",
+    "environmental_impact": "优化肥料利用",
+    "economic_benefit": "亩增产8-12%",
+    "success_stories": [
+      "吉林公主岭基地"
+    ],
+    "limitations": "需基础数据输入",
+    "prerequisites": [
+      "数字农业基础"
+    ],
+    "tags": [
+      "玉米密植",
+      "数字农业",
+      "产量预测",
+      "精准种植",
+      "农业决策支持"
+    ],
+    "access_method": "免费+增值服务",
+    "distribution_channels": [
+      "应用商店"
+    ],
+    "related_resources": [
+      "RES004",
+      "RES030"
+    ],
+    "summary": "玉米密植高产数字决策系统是一款面向规模化玉米种植户的移动应用，由中国农科院作物科学研究所开发。该系统基于国家玉米产业体系数据，通过品种-密度-产量模型，结合用户提供的土壤检测数据，生成最优密植方案并预测产量。适用于东北和黄淮海等主要玉米产区，能帮助用户实现亩增产8-12%，同时优化肥料利用效率。使用该系统需要具备数字农业基础知识和土壤检测数据输入能力。"
+  },
+  {
+    "resource_id": "RES004",
+    "title": "大豆根瘤菌剂应用技术全流程视频教程",
+    "resource_type": "培训课程",
+    "content_type": "系列视频",
+    "source": "中国农业大学根瘤菌研究中心",
+    "publish_date": "2022-08-05",
+    "last_updated": "2023-09-10",
+    "language": [
+      "中文"
+    ],
+    "target_crops": [
+      "大豆"
+    ],
+    "applicable_regions": [
+      "东北",
+      "黄淮海"
+    ],
+    "technical_domain": "生物固氮",
+    "knowledge_level": "初级",
+    "description": "本视频教程详细讲解大豆根瘤菌剂的选择标准、接种方法及效果评估技术，提供从理论到实践的完整指导，适用于大豆种植区的农户和技术人员。",
+    "author_affiliation": "双一流高校",
+    "technical_innovation": "高效菌株应用",
+    "practicality_rating": 8.5,
+    "authority_rating": 9.0,
+    "difficulty_level": "初级",
+    "time_commitment": "1.5小时",
+    "required_equipment": [
+      "播放设备"
+    ],
+    "cost_level": "无",
+    "applicable_scales": [
+      "所有规模"
+    ],
+    "seasonal_relevance": [
+      "播种前"
+    ],
+    "urgency_level": "低",
+    "delivery_platforms": [
+      "在线平台"
+    ],
+    "interactivity_level": "中",
+    "update_frequency": "年更",
+    "user_rating": 4.5,
+    "usage_metrics": 6320,
+    "related_policies": [
+      "大豆油料产能提升"
+    ],
+    "scientific_basis": "15年菌种研究",
+    "environmental_impact": "减施氮肥30%",
+    "economic_benefit": "亩节本80-120元",
+    "success_stories": [
+      "黑龙江农垦案例"
+    ],
+    "limitations": "需规范操作",
+    "prerequisites": [
+      "基本种植知识"
+    ],
+    "tags": [
+      "大豆种植",
+      "根瘤菌剂",
+      "生物固氮",
+      "绿色农业",
+      "节本增效"
+    ],
+    "access_method": "免费观看",
+    "distribution_channels": [
+      "农技推广平台"
+    ],
+    "related_resources": [
+      "RES005",
+      "RES040"
+    ],
+    "summary": "本视频教程由中国农业大学根瘤菌研究中心开发，系统介绍大豆根瘤菌剂的应用技术，包括菌剂选择、接种方法和效果评估。基于15年的菌种研究，该技术可减少30%的氮肥使用，实现亩节本80-120元的经济效益，特别适合东北和黄淮海地区的大豆种植户。教程内容简明实用，适合初级水平的用户学习，需具备基本种植知识。通过规范操作，可显著提升大豆的生物固氮效率，促进绿色种植。"
+  },
+  {
+    "resource_id": "RES005",
+    "title": "苹果园智能水肥一体化管理系统",
+    "resource_type": "物联网系统",
+    "content_type": "硬件+软件",
+    "source": "国家苹果产业技术体系",
+    "publish_date": "2023-05-12",
+    "last_updated": "2024-02-28",
+    "language": [
+      "中文"
+    ],
+    "target_crops": [
+      "苹果"
+    ],
+    "applicable_regions": [
+      "渤海湾",
+      "黄土高原"
+    ],
+    "technical_domain": "智慧灌溉",
+    "knowledge_level": "高级",
+    "description": "该系统集成土壤墒情监测、气象数据和果树需水模型，实现苹果园的精准灌溉决策，显著提升水肥利用效率。",
+    "author_affiliation": "国家产业体系",
+    "technical_innovation": "作物需水模型",
+    "practicality_rating": 9.1,
+    "authority_rating": 9.4,
+    "difficulty_level": "中高",
+    "time_commitment": "系统部署+2小时培训",
+    "required_equipment": [
+      "传感器",
+      "控制器"
+    ],
+    "cost_level": "商业解决方案",
+    "applicable_scales": [
+      "20亩以上果园"
+    ],
+    "seasonal_relevance": [
+      "全年"
+    ],
+    "urgency_level": "中",
+    "delivery_platforms": [
+      "iOS/Android APP"
+    ],
+    "interactivity_level": "高",
+    "update_frequency": "月度优化",
+    "user_rating": 4.7,
+    "usage_metrics": 2850,
+    "related_policies": [
+      "果园数字化改造补贴"
+    ],
+    "scientific_basis": "10年定位研究",
+    "environmental_impact": "节水40%",
+    "economic_benefit": "提质增效15%",
+    "success_stories": [
+      "山东烟台示范基地"
+    ],
+    "limitations": "初期投入较大",
+    "prerequisites": [
+      "基本果园管理"
+    ],
+    "tags": [
+      "苹果",
+      "智慧果园",
+      "精准灌溉",
+      "物联网",
+      "水肥一体化",
+      "智能农业"
+    ],
+    "access_method": "商业解决方案",
+    "distribution_channels": [
+      "厂商直销"
+    ],
+    "related_resources": [
+      "RES006",
+      "RES050"
+    ],
+    "summary": "苹果园智能水肥一体化管理系统是一款基于物联网技术的精准灌溉解决方案，适用于20亩以上的规模化苹果园。系统通过实时监测土壤墒情和气象数据，结合果树需水模型，实现自动化、精准化的水肥管理。该系统可节水40%，提升果园经济效益15%，特别适合渤海湾和黄土高原等主要苹果产区。使用该系统需要具备基本的果园管理知识和一定的硬件投入，适合追求提质增效的中大型果园经营者。"
+  },
+  {
+    "resource_id": "RES006",
+    "title": "猕猴桃溃疡病识别与防控可视化挂图",
+    "resource_type": "可视化工具",
+    "content_type": "高清挂图",
+    "source": "中国农科院郑州果树研究所",
+    "publish_date": "2022-09-01",
+    "last_updated": "2023-08-15",
+    "language": [
+      "中文"
+    ],
+    "target_crops": [
+      "猕猴桃"
+    ],
+    "applicable_regions": [
+      "秦岭以南"
+    ],
+    "technical_domain": "病害防治",
+    "knowledge_level": "初级",
+    "description": "本挂图通过可视化方式展示猕猴桃溃疡病的识别特征、发生规律及防控关键期，为种植者提供直观的田间指导。",
+    "author_affiliation": "国家级研究所",
+    "technical_innovation": "防控日历可视化",
+    "practicality_rating": 8.7,
+    "authority_rating": 9.1,
+    "difficulty_level": "初级",
+    "time_commitment": "0.5小时",
+    "required_equipment": [
+      "无"
+    ],
+    "cost_level": "无",
+    "applicable_scales": [
+      "所有规模"
+    ],
+    "seasonal_relevance": [
+      "春秋季"
+    ],
+    "urgency_level": "高发期重要",
+    "delivery_platforms": [
+      "纸质",
+      "电子版"
+    ],
+    "interactivity_level": "低",
+    "update_frequency": "年更",
+    "user_rating": 4.6,
+    "usage_metrics": 12400,
+    "related_policies": [
+      "特色果树病虫害防控"
+    ],
+    "scientific_basis": "5年田间试验",
+    "environmental_impact": "减少盲目用药",
+    "economic_benefit": "降低损失30%",
+    "success_stories": [
+      "陕西周至推广案例"
+    ],
+    "limitations": "需结合当地调整",
+    "prerequisites": [
+      "基本植保知识"
+    ],
+    "tags": [
+      "猕猴桃",
+      "溃疡病",
+      "可视化",
+      "防控日历",
+      "病害识别",
+      "植保技术"
+    ],
+    "access_method": "免费领取",
+    "distribution_channels": [
+      "农技站",
+      "官网下载"
+    ],
+    "related_resources": [
+      "RES007",
+      "RES060"
+    ],
+    "summary": "本挂图由中国农科院郑州果树研究所研发，专为猕猴桃种植者设计，通过直观的可视化方式展示溃疡病的识别特征、发生规律及防控关键期。适用于秦岭以南地区所有规模的猕猴桃种植园，特别适合春秋季高发期使用。基于5年田间试验数据，该挂图能有效减少盲目用药，降低30%的经济损失。使用前提是具备基本植保知识，可通过农技站或官网免费获取。"
+  },
+  {
+    "resource_id": "RES007",
+    "title": "小麦-玉米周年生产智能决策系统",
+    "resource_type": "数字工具",
+    "content_type": "SaaS服务",
+    "source": "国家农业智能装备工程技术研究中心",
+    "publish_date": "2023-07-01",
+    "last_updated": "2024-03-10",
+    "language": [
+      "中文"
+    ],
+    "target_crops": [
+      "小麦",
+      "玉米"
+    ],
+    "applicable_regions": [
+      "黄淮海"
+    ],
+    "technical_domain": "智慧种植",
+    "knowledge_level": "高级",
+    "description": "该系统基于双季作物模型耦合技术，为小麦-玉米周年生产提供茬口优化、资源调配和风险预警的智能决策支持，适用于黄淮海地区规模化种植户。",
+    "author_affiliation": "国家级工程中心",
+    "technical_innovation": "双季作物模型耦合",
+    "practicality_rating": 9.3,
+    "authority_rating": 9.6,
+    "difficulty_level": "中高",
+    "time_commitment": "系统学习4小时",
+    "required_equipment": [
+      "智能终端",
+      "可选传感器"
+    ],
+    "cost_level": "订阅制",
+    "applicable_scales": [
+      "100亩以上"
+    ],
+    "seasonal_relevance": [
+      "全年"
+    ],
+    "urgency_level": "中",
+    "delivery_platforms": [
+      "Web",
+      "移动端"
+    ],
+    "interactivity_level": "高",
+    "update_frequency": "实时更新",
+    "user_rating": 4.8,
+    "usage_metrics": 3870,
+    "related_policies": [
+      "粮食生产数字化试点"
+    ],
+    "scientific_basis": "国家科技支撑计划",
+    "environmental_impact": "优化资源配置",
+    "economic_benefit": "周年亩增效500元",
+    "success_stories": [
+      "河南新乡示范基地"
+    ],
+    "limitations": "需基础数据",
+    "prerequisites": [
+      "双季种植经验"
+    ],
+    "tags": [
+      "智慧农业",
+      "周年生产",
+      "作物模型",
+      "黄淮海",
+      "精准农业",
+      "决策支持"
+    ],
+    "access_method": "按年订阅",
+    "distribution_channels": [
+      "官网注册"
+    ],
+    "related_resources": [
+      "RES001",
+      "RES003"
+    ],
+    "summary": "小麦-玉米周年生产智能决策系统是一款面向黄淮海地区规模化种植户的高级数字工具。该系统通过双季作物模型耦合技术，实现小麦和玉米周年生产的茬口优化、资源调配和风险预警，帮助用户科学决策。系统可带来周年亩增效500元的经济效益，并优化资源配置，减少环境压力。使用该系统需要具备双季种植经验和基础数据支持，适用于100亩以上的规模化种植场景。系统通过Web和移动端提供实时更新的SaaS服务，采用订阅制收费模式。"
+  },
+  {
+    "resource_id": "RES008",
+    "title": "小麦全生育期可视化栽培技术图谱",
+    "resource_type": "可视化工具",
+    "content_type": "彩色图谱",
+    "source": "中国农业科学院作物科学研究所",
+    "publish_date": "2023-05-10",
+    "last_updated": "2024-01-15",
+    "language": [
+      "中文"
+    ],
+    "target_crops": [
+      "小麦"
+    ],
+    "applicable_regions": [
+      "黄淮海冬麦区",
+      "长江中下游麦区"
+    ],
+    "technical_domain": "栽培技术",
+    "knowledge_level": "初级",
+    "description": "本图谱通过图文结合的方式，系统展示小麦各生育期的关键管理技术要点和长势诊断标准，为种植者提供直观的技术指导。",
+    "author_affiliation": "国家级研究所",
+    "technical_innovation": "生育期可视化诊断",
+    "practicality_rating": 9.0,
+    "authority_rating": 9.2,
+    "difficulty_level": "初级",
+    "time_commitment": "1小时",
+    "required_equipment": [
+      "无"
+    ],
+    "cost_level": "低",
+    "applicable_scales": [
+      "所有规模"
+    ],
+    "seasonal_relevance": [
+      "全生育期"
+    ],
+    "urgency_level": "中",
+    "delivery_platforms": [
+      "纸质版",
+      "PDF"
+    ],
+    "interactivity_level": "中",
+    "update_frequency": "两年一更",
+    "user_rating": 4.7,
+    "usage_metrics": 15600,
+    "related_policies": [
+      "小麦绿色高质高效行动"
+    ],
+    "scientific_basis": "国家小麦产业技术体系成果",
+    "environmental_impact": "减少盲目施肥",
+    "economic_benefit": "亩增产5-8%",
+    "success_stories": [
+      "河南周口推广案例"
+    ],
+    "limitations": "需结合当地调整",
+    "prerequisites": [
+      "基本种植知识"
+    ],
+    "tags": [
+      "小麦",
+      "栽培技术",
+      "可视化",
+      "生育期管理",
+      "高产高效",
+      "农业图谱"
+    ],
+    "access_method": "免费领取",
+    "distribution_channels": [
+      "农技推广站",
+      "官网下载"
+    ],
+    "related_resources": [
+      "RES009",
+      "RES110"
+    ],
+    "summary": "本图谱是中国农业科学院作物科学研究所研发的小麦栽培技术可视化工具，适用于黄淮海和长江中下游麦区。它以图文并茂的形式系统展示小麦全生育期的关键管理技术和长势诊断标准，帮助种植者直观掌握技术要点。该资源基于国家小麦产业技术体系成果，具有较高的权威性和实用性，能有效减少盲目施肥，实现亩增产5-8%。适用于所有规模的小麦种植者，使用前需具备基本种植知识，并需结合当地实际情况进行调整。"
+  },
+  {
+    "resource_id": "RES009",
+    "title": "水稻机插秧同步精量施肥技术标准",
+    "resource_type": "技术标准",
+    "content_type": "文本标准",
+    "source": "农业农村部农业机械化总站",
+    "publish_date": "2022-04-05",
+    "last_updated": "2023-03-20",
+    "language": [
+      "中文"
+    ],
+    "target_crops": [
+      "水稻"
+    ],
+    "applicable_regions": [
+      "全国稻作区"
+    ],
+    "technical_domain": "机械化种植",
+    "knowledge_level": "中级",
+    "description": "本标准规定了水稻机插秧同步精量施肥的作业参数、质量要求和检测方法，适用于全国稻作区50亩以上规模的水稻种植。通过农机农艺深度融合，实现减肥15%、亩节本增效200元的目标。",
+    "author_affiliation": "部属技术机构",
+    "technical_innovation": "农机农艺深度融合",
+    "practicality_rating": 8.8,
+    "authority_rating": 9.3,
+    "difficulty_level": "中级",
+    "time_commitment": "2小时",
+    "required_equipment": [
+      "带施肥装置插秧机"
+    ],
+    "cost_level": "中",
+    "applicable_scales": [
+      "50亩以上"
+    ],
+    "seasonal_relevance": [
+      "插秧季节"
+    ],
+    "urgency_level": "中",
+    "delivery_platforms": [
+      "PDF"
+    ],
+    "interactivity_level": "低",
+    "update_frequency": "三年一更",
+    "user_rating": 4.6,
+    "usage_metrics": 8920,
+    "related_policies": [
+      "水稻机械化种植补贴"
+    ],
+    "scientific_basis": "10省区试验验证",
+    "environmental_impact": "减肥15%",
+    "economic_benefit": "亩节本增效200元",
+    "success_stories": [
+      "湖南益阳示范区"
+    ],
+    "limitations": "需专用设备",
+    "prerequisites": [
+      "机械操作基础"
+    ],
+    "tags": [
+      "水稻",
+      "机械化种植",
+      "精准施肥",
+      "农机农艺",
+      "节本增效"
+    ],
+    "access_method": "免费公开",
+    "distribution_channels": [
+      "政府官网"
+    ],
+    "related_resources": [
+      "RES010",
+      "RES120"
+    ],
+    "summary": "本标准详细规定了水稻机插秧同步精量施肥的技术规程，适用于全国稻作区50亩以上规模的水稻种植。通过农机农艺深度融合，实现精准施肥，减少15%的肥料使用，同时每亩节本增效200元。该技术已在湖南益阳等示范区成功应用，具有显著的经济和环境效益。使用该技术需要配备带施肥装置的插秧机，并具备基本的机械操作知识。"
+  },
+  {
+    "resource_id": "RES010",
+    "title": "玉米密植高产精准调控技术集成方案",
+    "resource_type": "技术方案",
+    "content_type": "图文报告",
+    "source": "中国农业科学院作物栽培与生理创新团队",
+    "publish_date": "2023-02-18",
+    "last_updated": "2024-01-30",
+    "language": [
+      "中文"
+    ],
+    "target_crops": [
+      "玉米"
+    ],
+    "applicable_regions": [
+      "东北春玉米区",
+      "黄淮海夏玉米区"
+    ],
+    "technical_domain": "高产栽培",
+    "knowledge_level": "高级",
+    "description": "本技术方案系统整合了玉米密植高产栽培的关键技术，包括品种选择、群体构建、水肥精准调控等核心环节，基于密度-产量响应模型实现精准管理，适用于规模化玉米种植区的高产创建。",
+    "author_affiliation": "国家级创新团队",
+    "technical_innovation": "密度-产量响应模型",
+    "practicality_rating": 9.1,
+    "authority_rating": 9.4,
+    "difficulty_level": "中高",
+    "time_commitment": "3小时",
+    "required_equipment": [
+      "基本农田设施"
+    ],
+    "cost_level": "中",
+    "applicable_scales": [
+      "100亩以上"
+    ],
+    "seasonal_relevance": [
+      "播种至收获"
+    ],
+    "urgency_level": "低",
+    "delivery_platforms": [
+      "PDF"
+    ],
+    "interactivity_level": "中",
+    "update_frequency": "年更",
+    "user_rating": 4.7,
+    "usage_metrics": 7450,
+    "related_policies": [
+      "玉米单产提升工程"
+    ],
+    "scientific_basis": "国家科技支撑计划",
+    "environmental_impact": "提高肥效20%",
+    "economic_benefit": "亩增产10-15%",
+    "success_stories": [
+      "吉林梨树基地"
+    ],
+    "limitations": "需配套条件",
+    "prerequisites": [
+      "玉米种植经验"
+    ],
+    "tags": [
+      "玉米",
+      "密植高产",
+      "精准调控",
+      "栽培技术",
+      "增产增效"
+    ],
+    "access_method": "免费下载",
+    "distribution_channels": [
+      "科研机构官网"
+    ],
+    "related_resources": [
+      "RES011",
+      "RES130"
+    ],
+    "summary": "本技术方案由国家级农业科研团队研发，针对我国主要玉米产区的高产需求，系统集成了密植高产精准调控技术体系。核心技术包括基于密度-产量响应模型的群体构建方法、水肥精准调控方案等，可显著提高肥效20%，实现亩增产10-15%。适用于东北和黄淮海等规模化玉米种植区，要求使用者具备一定种植经验。该方案已成功应用于吉林梨树等示范基地，是实施国家玉米单产提升工程的重要技术支撑。"
+  },
+  {
+    "resource_id": "RES011",
+    "title": "大豆根瘤菌高效接种技术全流程视频教程",
+    "resource_type": "培训课程",
+    "content_type": "系列视频",
+    "source": "中国农业大学微生物学系",
+    "publish_date": "2022-09-15",
+    "last_updated": "2023-08-10",
+    "language": [
+      "中文"
+    ],
+    "target_crops": [
+      "大豆"
+    ],
+    "applicable_regions": [
+      "东北",
+      "黄淮海"
+    ],
+    "technical_domain": "生物固氮",
+    "knowledge_level": "初级",
+    "description": "本视频教程系统演示了大豆根瘤菌接种的全过程，包括高效菌株选择、接种操作规范、田间管理要点及效果评估方法，适用于大豆种植户和农技人员学习参考。",
+    "author_affiliation": "双一流学科",
+    "technical_innovation": "高效菌株应用",
+    "practicality_rating": 8.7,
+    "authority_rating": 9.0,
+    "difficulty_level": "初级",
+    "time_commitment": "1.5小时",
+    "required_equipment": [
+      "播放设备"
+    ],
+    "cost_level": "无",
+    "applicable_scales": [
+      "所有规模"
+    ],
+    "seasonal_relevance": [
+      "播种前"
+    ],
+    "urgency_level": "低",
+    "delivery_platforms": [
+      "在线平台"
+    ],
+    "interactivity_level": "中",
+    "update_frequency": "两年一更",
+    "user_rating": 4.5,
+    "usage_metrics": 6830,
+    "related_policies": [
+      "大豆油料产能提升"
+    ],
+    "scientific_basis": "国家自然科学基金成果",
+    "environmental_impact": "减施氮肥30%",
+    "economic_benefit": "亩节本100元",
+    "success_stories": [
+      "黑龙江建三江案例"
+    ],
+    "limitations": "需规范操作",
+    "prerequisites": [
+      "基本种植知识"
+    ],
+    "tags": [
+      "大豆种植",
+      "根瘤菌接种",
+      "生物固氮",
+      "绿色农业",
+      "微生物肥料"
+    ],
+    "access_method": "免费观看",
+    "distribution_channels": [
+      "农技推广平台"
+    ],
+    "related_resources": [
+      "RES012",
+      "RES140"
+    ],
+    "summary": "本视频教程由中国农业大学微生物学系开发，详细讲解了大豆根瘤菌接种技术的全流程操作。基于国家自然科学基金研究成果，采用高效菌株，可帮助大豆种植户减少30%的氮肥使用，实现亩均节本100元的经济效益。教程内容涵盖菌剂选择、接种方法、田间管理及效果评估等关键环节，适用于东北和黄淮海地区不同规模的种植户。学习本教程需要具备基本的大豆种植知识，规范操作可确保最佳固氮效果。"
+  },
+  {
+    "resource_id": "RES012",
+    "title": "苹果园智能水肥一体化精准灌溉系统",
+    "resource_type": "物联网系统",
+    "content_type": "硬件+软件",
+    "source": "国家苹果产业技术体系",
+    "publish_date": "2023-06-20",
+    "last_updated": "2024-03-05",
+    "language": [
+      "中文"
+    ],
+    "target_crops": [
+      "苹果"
+    ],
+    "applicable_regions": [
+      "渤海湾",
+      "黄土高原"
+    ],
+    "technical_domain": "智慧灌溉",
+    "knowledge_level": "高级",
+    "description": "该系统基于土壤墒情实时监测和果树需水模型，通过物联网技术实现水肥精准调控，可显著提高水资源利用效率并优化果树生长环境。",
+    "author_affiliation": "国家产业技术体系",
+    "technical_innovation": "作物需水算法",
+    "practicality_rating": 9.2,
+    "authority_rating": 9.5,
+    "difficulty_level": "中高",
+    "time_commitment": "系统部署+培训",
+    "required_equipment": [
+      "传感器",
+      "控制器"
+    ],
+    "cost_level": "商业解决方案",
+    "applicable_scales": [
+      "20亩以上"
+    ],
+    "seasonal_relevance": [
+      "全年"
+    ],
+    "urgency_level": "中",
+    "delivery_platforms": [
+      "iOS/Android APP"
+    ],
+    "interactivity_level": "高",
+    "update_frequency": "季度更新",
+    "user_rating": 4.8,
+    "usage_metrics": 2980,
+    "related_policies": [
+      "果园数字化改造"
+    ],
+    "scientific_basis": "10年定位研究",
+    "environmental_impact": "节水35%",
+    "economic_benefit": "提质增效15%",
+    "success_stories": [
+      "山东威海示范基地"
+    ],
+    "limitations": "初期投入大",
+    "prerequisites": [
+      "基本果园管理"
+    ],
+    "tags": [
+      "苹果",
+      "智慧果园",
+      "精准灌溉",
+      "物联网",
+      "水肥一体化",
+      "智能农业"
+    ],
+    "access_method": "商业解决方案",
+    "distribution_channels": [
+      "厂商直销"
+    ],
+    "related_resources": [
+      "RES013",
+      "RES150"
+    ],
+    "summary": "这是一套面向规模化苹果种植园的智能水肥一体化管理系统。系统通过物联网传感器实时监测土壤墒情，结合果树需水模型进行精准灌溉决策，可实现节水35%并提升果实品质15%。该系统特别适合渤海湾和黄土高原等主要苹果产区20亩以上的规模化果园使用，但需要较高的初期投入和基本果园管理经验。基于10年定位研究开发的作物需水算法是其核心技术优势，已在山东威海等示范基地取得显著成效。"
+  },
+  {
+    "resource_id": "RES013",
+    "title": "猕猴桃病虫害识别与防治可视化指南",
+    "resource_type": "可视化工具",
+    "content_type": "高清挂图",
+    "source": "中国农科院郑州果树研究所",
+    "publish_date": "2022-10-05",
+    "last_updated": "2023-09-18",
+    "language": [
+      "中文"
+    ],
+    "target_crops": [
+      "猕猴桃"
+    ],
+    "applicable_regions": [
+      "主产区"
+    ],
+    "technical_domain": "病虫害防治",
+    "knowledge_level": "初级",
+    "description": "本挂图通过高清图文详细展示了猕猴桃溃疡病、褐斑病等主要病虫害的识别特征和防治方法，采用症状对比图示帮助用户快速识别和应对病虫害。",
+    "author_affiliation": "国家级研究所",
+    "technical_innovation": "症状对比图示",
+    "practicality_rating": 8.9,
+    "authority_rating": 9.1,
+    "difficulty_level": "初级",
+    "time_commitment": "0.5小时",
+    "required_equipment": [
+      "无"
+    ],
+    "cost_level": "无",
+    "applicable_scales": [
+      "所有规模"
+    ],
+    "seasonal_relevance": [
+      "关键防治期"
+    ],
+    "urgency_level": "高发期重要",
+    "delivery_platforms": [
+      "纸质版",
+      "电子版"
+    ],
+    "interactivity_level": "低",
+    "update_frequency": "年更",
+    "user_rating": 4.6,
+    "usage_metrics": 13200,
+    "related_policies": [
+      "特色果树病虫害防控"
+    ],
+    "scientific_basis": "5年田间调查",
+    "environmental_impact": "精准用药",
+    "economic_benefit": "减少损失20%",
+    "success_stories": [
+      "陕西眉县推广点"
+    ],
+    "limitations": "需结合当地情况",
+    "prerequisites": [
+      "基本植保知识"
+    ],
+    "tags": [
+      "猕猴桃",
+      "病虫害",
+      "识别防治",
+      "可视化",
+      "植保",
+      "果树病害",
+      "农业挂图"
+    ],
+    "access_method": "免费发放",
+    "distribution_channels": [
+      "农技站",
+      "官网"
+    ],
+    "related_resources": [
+      "RES107",
+      "RES160"
+    ],
+    "summary": "本资源是由中国农科院郑州果树研究所开发的猕猴桃病虫害识别与防治可视化挂图，适用于猕猴桃主产区的所有规模种植户。通过高清图文和症状对比图示，直观展示溃疡病、褐斑病等主要病虫害的识别特征和防治方法，帮助用户快速掌握关键防治技术。基于5年田间调查数据，该挂图能有效指导精准用药，减少20%的产量损失。适用于病虫害高发期，需结合当地实际情况使用，并具备基本植保知识。免费通过农技站和官网发放，年更新频率确保信息时效性。"
+  },
+  {
+    "resource_id": "RES014",
+    "title": "黄淮海地区小麦-玉米周年高产高效种植技术方案",
+    "resource_type": "技术方案",
+    "content_type": "图文报告",
+    "source": "全国农业技术推广服务中心",
+    "publish_date": "2023-04-01",
+    "last_updated": "2024-02-15",
+    "language": [
+      "中文"
+    ],
+    "target_crops": [
+      "小麦",
+      "玉米"
+    ],
+    "applicable_regions": [
+      "黄淮海"
+    ],
+    "technical_domain": "周年种植",
+    "knowledge_level": "中级",
+    "description": "本技术方案针对黄淮海地区小麦-玉米一年两熟制，提供科学的品种搭配、茬口衔接和资源优化配置方法，旨在实现光热资源高效利用和周年高产高效。",
+    "author_affiliation": "国家级推广机构",
+    "technical_innovation": "光热资源高效利用",
+    "practicality_rating": 9.1,
+    "authority_rating": 9.3,
+    "difficulty_level": "中级",
+    "time_commitment": "2小时",
+    "required_equipment": [
+      "基本农田设施"
+    ],
+    "cost_level": "低",
+    "applicable_scales": [
+      "所有规模"
+    ],
+    "seasonal_relevance": [
+      "全年"
+    ],
+    "urgency_level": "低",
+    "delivery_platforms": [
+      "PDF"
+    ],
+    "interactivity_level": "中",
+    "update_frequency": "年更",
+    "user_rating": 4.7,
+    "usage_metrics": 10800,
+    "related_policies": [
+      "粮食绿色高产高效"
+    ],
+    "scientific_basis": "多年定位试验",
+    "environmental_impact": "提高资源效率",
+    "economic_benefit": "周年亩增产12%",
+    "success_stories": [
+      "山东德州示范区"
+    ],
+    "limitations": "需本地化调整",
+    "prerequisites": [
+      "两熟制经验"
+    ],
+    "tags": [
+      "小麦玉米",
+      "周年生产",
+      "高产高效",
+      "技术模式",
+      "黄淮海农业",
+      "光热利用"
+    ],
+    "access_method": "免费下载",
+    "distribution_channels": [
+      "农技推广APP"
+    ],
+    "related_resources": [
+      "RES008",
+      "RES010"
+    ],
+    "summary": "本技术方案针对黄淮海地区小麦-玉米一年两熟制种植体系，基于多年定位试验研究成果，提供了一套完整的品种搭配、茬口衔接和资源优化配置方案。该方案通过科学安排作物生育期，实现光热资源的高效利用，可显著提高周年产量和资源利用效率。适用于各类规模农场，预期可实现周年亩增产12%的经济效益。已在山东德州等示范区取得显著成效。使用本方案需具备两熟制种植经验，并需根据当地条件进行适当调整。"
+  },
+  {
+    "resource_id": "RES015",
+    "title": "小麦茎基腐病绿色防控集成技术方案",
+    "resource_type": "技术方案",
+    "content_type": "图文报告+视频",
+    "source": "中国农业科学院植物保护研究所",
+    "publish_date": "2023-08-12",
+    "last_updated": "2024-03-18",
+    "language": [
+      "中文"
+    ],
+    "target_crops": [
+      "小麦"
+    ],
+    "applicable_regions": [
+      "黄淮海冬麦区"
+    ],
+    "technical_domain": "病害防控",
+    "knowledge_level": "中级",
+    "description": "本技术方案整合抗病品种筛选、种子处理及生物防治等关键技术，形成小麦茎基腐病绿色防控体系，有效减少化学农药使用35%，适用于黄淮海冬麦区30亩以上规模种植户。",
+    "author_affiliation": "国家级研究所",
+    "technical_innovation": "微生物菌剂应用",
+    "practicality_rating": 8.9,
+    "authority_rating": 9.3,
+    "difficulty_level": "中级",
+    "time_commitment": "2.5小时",
+    "required_equipment": [
+      "常规施药设备"
+    ],
+    "cost_level": "中",
+    "applicable_scales": [
+      "30亩以上"
+    ],
+    "seasonal_relevance": [
+      "播种期",
+      "返青期"
+    ],
+    "urgency_level": "高",
+    "delivery_platforms": [
+      "PDF",
+      "在线视频"
+    ],
+    "interactivity_level": "中",
+    "update_frequency": "年更",
+    "user_rating": 4.7,
+    "usage_metrics": 6870,
+    "related_policies": [
+      "小麦重大病虫害防控"
+    ],
+    "scientific_basis": "国家科技支撑计划",
+    "environmental_impact": "减少化学农药35%",
+    "economic_benefit": "亩挽回损失15-20%",
+    "success_stories": [
+      "山东德州示范区"
+    ],
+    "limitations": "需提前预防",
+    "prerequisites": [
+      "基本植保知识"
+    ],
+    "tags": [
+      "小麦病害",
+      "茎基腐病",
+      "绿色防控",
+      "微生物菌剂",
+      "集成技术"
+    ],
+    "access_method": "免费公开",
+    "distribution_channels": [
+      "官网",
+      "农技APP"
+    ],
+    "related_resources": [
+      "RES016",
+      "RES210"
+    ],
+    "summary": "本技术方案由中国农业科学院植物保护研究所研发，针对黄淮海冬麦区小麦茎基腐病，提供包含抗病品种筛选、种子处理及微生物菌剂应用等关键技术的绿色防控体系。该方案可减少35%化学农药使用，亩均挽回损失15-20%，适用于30亩以上规模种植户。实施需具备基本植保知识，重点在播种期和返青期应用。已在山东德州示范区取得显著成效，是小麦绿色生产的重要技术支撑。"
+  },
+  {
+    "resource_id": "RES016",
+    "title": "水稻机械化收获减损综合培训方案",
+    "resource_type": "培训课程",
+    "content_type": "视频+手册+测验",
+    "source": "农业农村部农业机械化总站",
+    "publish_date": "2022-07-15",
+    "last_updated": "2023-09-05",
+    "language": [
+      "中文"
+    ],
+    "target_crops": [
+      "水稻"
+    ],
+    "applicable_regions": [
+      "全国稻区"
+    ],
+    "technical_domain": "机械化收获",
+    "knowledge_level": "初级",
+    "description": "本培训套装系统性地介绍了水稻机械化收获过程中的减损技术，包括收割机调试方法、作业参数优化设置、田间操作规范等核心内容，并采用损失率量化评估技术进行效果验证。",
+    "author_affiliation": "部属技术机构",
+    "technical_innovation": "损失率量化评估",
+    "practicality_rating": 9.0,
+    "authority_rating": 9.2,
+    "difficulty_level": "初级",
+    "time_commitment": "3小时",
+    "required_equipment": [
+      "联合收割机"
+    ],
+    "cost_level": "低",
+    "applicable_scales": [
+      "所有规模"
+    ],
+    "seasonal_relevance": [
+      "收获季节"
+    ],
+    "urgency_level": "中",
+    "delivery_platforms": [
+      "在线平台",
+      "纸质材料"
+    ],
+    "interactivity_level": "高",
+    "update_frequency": "两年一更",
+    "user_rating": 4.6,
+    "usage_metrics": 12500,
+    "related_policies": [
+      "粮食机收减损行动"
+    ],
+    "scientific_basis": "田间实测数据",
+    "environmental_impact": "减少田间损失",
+    "economic_benefit": "亩增收3-5%",
+    "success_stories": [
+      "湖南洞庭湖片区"
+    ],
+    "limitations": "需设备配合",
+    "prerequisites": [
+      "机械操作基础"
+    ],
+    "tags": [
+      "水稻",
+      "机收减损",
+      "农机培训",
+      "收获技术",
+      "农业机械化"
+    ],
+    "access_method": "免费获取",
+    "distribution_channels": [
+      "农机推广站"
+    ],
+    "related_resources": [
+      "RES017",
+      "RES220"
+    ],
+    "summary": "这是一套面向水稻种植区农机操作人员的专业培训方案，由农业农村部权威机构开发。该资源通过视频、手册和测验相结合的方式，系统传授水稻机械化收获减损技术，包括设备调试、参数设置和田间操作等关键环节。采用量化评估方法验证技术效果，可帮助用户实现亩均3-5%的增收效益。培训内容科学实用，适合全国各稻区不同规模的种植主体，使用前需具备基本的机械操作知识。"
+  },
+  {
+    "resource_id": "RES017",
+    "title": "玉米籽粒机收适应性品种筛选技术指南",
+    "resource_type": "技术方案",
+    "content_type": "图文报告",
+    "source": "中国农业科学院作物科学研究所",
+    "publish_date": "2023-01-25",
+    "last_updated": "2023-12-10",
+    "language": [
+      "中文"
+    ],
+    "target_crops": [
+      "玉米"
+    ],
+    "applicable_regions": [
+      "东北",
+      "黄淮海"
+    ],
+    "technical_domain": "品种选育",
+    "knowledge_level": "中级",
+    "description": "本指南建立了基于脱水速率、抗倒性等关键指标的玉米籽粒机收适应性评价体系，为机械化收获提供科学的品种筛选方法。",
+    "author_affiliation": "国家级研究所",
+    "technical_innovation": "机收适应性评价",
+    "practicality_rating": 8.8,
+    "authority_rating": 9.1,
+    "difficulty_level": "中级",
+    "time_commitment": "2小时",
+    "required_equipment": [
+      "无"
+    ],
+    "cost_level": "无",
+    "applicable_scales": [
+      "所有规模"
+    ],
+    "seasonal_relevance": [
+      "品种选择期"
+    ],
+    "urgency_level": "中",
+    "delivery_platforms": [
+      "PDF"
+    ],
+    "interactivity_level": "低",
+    "update_frequency": "年更",
+    "user_rating": 4.5,
+    "usage_metrics": 5430,
+    "related_policies": [
+      "玉米机械化收获推进"
+    ],
+    "scientific_basis": "国家产业技术体系",
+    "environmental_impact": "减少田间损失",
+    "economic_benefit": "降低收获成本30%",
+    "success_stories": [
+      "吉林农安示范基地"
+    ],
+    "limitations": "需结合当地气候",
+    "prerequisites": [
+      "品种知识"
+    ],
+    "tags": [
+      "玉米",
+      "籽粒机收",
+      "品种筛选",
+      "机械化",
+      "农业技术",
+      "作物育种"
+    ],
+    "access_method": "免费下载",
+    "distribution_channels": [
+      "科研机构官网"
+    ],
+    "related_resources": [
+      "RES018",
+      "RES230"
+    ],
+    "summary": "本技术指南由中国农业科学院作物科学研究所编制，针对玉米机械化收获需求，建立了基于脱水速率、抗倒性等关键指标的品种适应性评价体系。适用于东北和黄淮海等主要玉米产区，为种植户和农业技术人员提供科学的品种筛选方法。该技术可降低30%的收获成本，减少田间损失，已在吉林农安等示范基地成功应用。使用本指南需具备基本的玉米品种知识，并需结合当地气候条件进行适应性调整。"
+  },
+  {
+    "resource_id": "RES018",
+    "title": "大豆玉米带状复合种植智能决策支持系统",
+    "resource_type": "数字工具",
+    "content_type": "SaaS服务",
+    "source": "国家农业信息化工程技术研究中心",
+    "publish_date": "2023-05-18",
+    "last_updated": "2024-02-28",
+    "language": [
+      "中文"
+    ],
+    "target_crops": [
+      "大豆",
+      "玉米"
+    ],
+    "applicable_regions": [
+      "东北",
+      "黄淮海",
+      "西北"
+    ],
+    "technical_domain": "智慧种植",
+    "knowledge_level": "高级",
+    "description": "该系统基于双作物协同模型，为大豆玉米带状复合种植提供带型配置、品种搭配和肥水优化的智能决策支持，旨在提高土地利用效率和经济效益。",
+    "author_affiliation": "国家级工程中心",
+    "technical_innovation": "双作物协同模型",
+    "practicality_rating": 9.1,
+    "authority_rating": 9.4,
+    "difficulty_level": "中高",
+    "time_commitment": "系统学习4小时",
+    "required_equipment": [
+      "智能终端"
+    ],
+    "cost_level": "订阅制",
+    "applicable_scales": [
+      "100亩以上"
+    ],
+    "seasonal_relevance": [
+      "全年"
+    ],
+    "urgency_level": "中",
+    "delivery_platforms": [
+      "Web",
+      "移动端"
+    ],
+    "interactivity_level": "高",
+    "update_frequency": "季度更新",
+    "user_rating": 4.7,
+    "usage_metrics": 3260,
+    "related_policies": [
+      "大豆油料产能提升"
+    ],
+    "scientific_basis": "国家重点研发计划",
+    "environmental_impact": "提高土地利用效率",
+    "economic_benefit": "亩增收400-600元",
+    "success_stories": [
+      "内蒙古通辽试点"
+    ],
+    "limitations": "需基础数据输入",
+    "prerequisites": [
+      "复合种植基础"
+    ],
+    "tags": [
+      "大豆玉米",
+      "复合种植",
+      "智能决策",
+      "数字农业",
+      "精准农业",
+      "作物模型"
+    ],
+    "access_method": "按年订阅",
+    "distribution_channels": [
+      "专业平台"
+    ],
+    "related_resources": [
+      "RES019",
+      "RES240"
+    ],
+    "summary": "该系统是一款面向规模化种植户的高级数字农业工具，基于双作物协同模型，为大豆玉米带状复合种植提供科学的带型配置、品种搭配和肥水优化决策。适用于东北、黄淮海和西北等主要产区，能显著提高土地利用效率，实现亩增收400-600元。该系统需要用户具备复合种植基础知识和智能终端设备，通过Web和移动端提供季度更新的服务。作为国家重点研发计划成果，已在内蒙古通辽等地成功试点应用。"
+  },
+  {
+    "resource_id": "RES019",
+    "title": "苹果园病虫害AI监测预警系统",
+    "resource_type": "物联网系统",
+    "content_type": "硬件+软件",
+    "source": "国家苹果产业技术体系",
+    "publish_date": "2023-07-22",
+    "last_updated": "2024-03-15",
+    "language": [
+      "中文"
+    ],
+    "target_crops": [
+      "苹果"
+    ],
+    "applicable_regions": [
+      "渤海湾",
+      "黄土高原"
+    ],
+    "technical_domain": "智慧植保",
+    "knowledge_level": "高级",
+    "description": "该系统整合自动虫情测报、病害模型和环境传感器，通过AI虫情识别技术实现实时监测与预警，有效减少盲目施药，降低防治成本25%。适用于50亩以上规模化苹果园。",
+    "author_affiliation": "国家产业体系",
+    "technical_innovation": "AI虫情识别",
+    "practicality_rating": 9.2,
+    "authority_rating": 9.5,
+    "difficulty_level": "中高",
+    "time_commitment": "系统部署+培训",
+    "required_equipment": [
+      "监测终端",
+      "基站"
+    ],
+    "cost_level": "商业解决方案",
+    "applicable_scales": [
+      "50亩以上"
+    ],
+    "seasonal_relevance": [
+      "生长季"
+    ],
+    "urgency_level": "高",
+    "delivery_platforms": [
+      "Web后台",
+      "APP"
+    ],
+    "interactivity_level": "高",
+    "update_frequency": "实时数据",
+    "user_rating": 4.8,
+    "usage_metrics": 2150,
+    "related_policies": [
+      "果园数字化改造"
+    ],
+    "scientific_basis": "10年病害模型",
+    "environmental_impact": "减少盲目施药",
+    "economic_benefit": "降低防治成本25%",
+    "success_stories": [
+      "山东栖霞示范基地"
+    ],
+    "limitations": "初期投入大",
+    "prerequisites": [
+      "果园管理经验"
+    ],
+    "tags": [
+      "苹果",
+      "病虫害",
+      "智能监测",
+      "预警系统",
+      "AI识别",
+      "精准植保",
+      "物联网"
+    ],
+    "access_method": "商业解决方案",
+    "distribution_channels": [
+      "厂商服务"
+    ],
+    "related_resources": [
+      "RES020",
+      "RES250"
+    ],
+    "summary": "苹果园病虫害AI监测预警系统是一款基于物联网和人工智能技术的智慧植保解决方案。该系统通过整合自动虫情测报、病害模型和环境传感器，实现苹果园病虫害的实时监测与预警，采用AI虫情识别技术提高监测精度。适用于渤海湾和黄土高原等主要苹果产区的规模化果园（50亩以上），可显著降低25%的防治成本，减少盲目施药。系统需要部署监测终端和基站，适合具备果园管理经验的用户使用。山东栖霞示范基地的成功案例验证了其显著的经济和环境效益。"
+  },
+  {
+    "resource_id": "RES020",
+    "title": "猕猴桃采后商品化处理技术标准",
+    "resource_type": "技术标准",
+    "content_type": "标准文本",
+    "source": "中国果品流通协会",
+    "publish_date": "2022-11-08",
+    "last_updated": "2023-10-12",
+    "language": [
+      "中文"
+    ],
+    "target_crops": [
+      "猕猴桃"
+    ],
+    "applicable_regions": [
+      "全国"
+    ],
+    "technical_domain": "采后处理",
+    "knowledge_level": "中级",
+    "description": "本标准规定了猕猴桃采收成熟度判定、分级标准、预冷工艺及品质保持技术等关键商品化处理流程，适用于规模化猕猴桃种植基地和合作社，旨在降低采后损耗并提升产品附加值。",
+    "author_affiliation": "国家级协会",
+    "technical_innovation": "品质保持技术",
+    "practicality_rating": 9.3,
+    "authority_rating": 9.6,
+    "difficulty_level": "中级",
+    "time_commitment": "1.5小时",
+    "required_equipment": [
+      "采后处理设备"
+    ],
+    "cost_level": "中",
+    "applicable_scales": [
+      "合作社以上"
+    ],
+    "seasonal_relevance": [
+      "采收季节"
+    ],
+    "urgency_level": "中",
+    "delivery_platforms": [
+      "PDF"
+    ],
+    "interactivity_level": "低",
+    "update_frequency": "三年一更",
+    "user_rating": 4.7,
+    "usage_metrics": 4870,
+    "related_policies": [
+      "农产品商品化处理补贴"
+    ],
+    "scientific_basis": "行业五年研究",
+    "environmental_impact": "减少采后损耗",
+    "economic_benefit": "增值25-35%",
+    "success_stories": [
+      "四川蒲江基地"
+    ],
+    "limitations": "需配套设施",
+    "prerequisites": [
+      "采后基础"
+    ],
+    "tags": [
+      "猕猴桃",
+      "采后处理",
+      "商品化",
+      "品质保持",
+      "预冷工艺",
+      "分级标准"
+    ],
+    "access_method": "免费公开",
+    "distribution_channels": [
+      "协会官网"
+    ],
+    "related_resources": [
+      "RES207",
+      "RES260"
+    ],
+    "summary": "本标准由中国果品流通协会制定，系统规范了猕猴桃采后商品化处理的全流程技术要点，包括采收成熟度判定、分级标准、预冷工艺及品质保持技术等核心内容。适用于全国范围内规模化猕猴桃种植基地和合作社，通过标准化处理可显著降低采后损耗25%以上，实现产品增值25-35%。该标准基于行业五年研究成果，已在四川蒲江等示范基地取得显著成效。实施需配套专业采后处理设备和基础操作人员。"
+  },
+  {
+    "resource_id": "RES021",
+    "title": "小麦玉米周年水肥优化决策系统",
+    "resource_type": "数字工具",
+    "content_type": "移动应用",
+    "source": "中国农业大学资源与环境学院",
+    "publish_date": "2023-04-05",
+    "last_updated": "2024-01-20",
+    "language": [
+      "中文"
+    ],
+    "target_crops": [
+      "小麦",
+      "玉米"
+    ],
+    "applicable_regions": [
+      "黄淮海"
+    ],
+    "technical_domain": "精准农业",
+    "knowledge_level": "中级",
+    "description": "基于土壤检测和作物生长需求的周年水肥优化决策支持工具，通过双季养分平衡模型实现精准施肥和灌溉，适用于小麦-玉米轮作系统。",
+    "author_affiliation": "双一流学科",
+    "technical_innovation": "双季养分平衡模型",
+    "practicality_rating": 9.0,
+    "authority_rating": 9.2,
+    "difficulty_level": "中级",
+    "time_commitment": "2小时学习",
+    "required_equipment": [
+      "智能手机"
+    ],
+    "cost_level": "低",
+    "applicable_scales": [
+      "50亩以上"
+    ],
+    "seasonal_relevance": [
+      "全年"
+    ],
+    "urgency_level": "中",
+    "delivery_platforms": [
+      "Android",
+      "iOS"
+    ],
+    "interactivity_level": "高",
+    "update_frequency": "季度更新",
+    "user_rating": 4.6,
+    "usage_metrics": 5320,
+    "related_policies": [
+      "化肥减量增效"
+    ],
+    "scientific_basis": "国家科技项目",
+    "environmental_impact": "减肥15-20%",
+    "economic_benefit": "亩节本200元",
+    "success_stories": [
+      "河北石家庄试点"
+    ],
+    "limitations": "需土壤数据",
+    "prerequisites": [
+      "两熟制经验"
+    ],
+    "tags": [
+      "小麦玉米",
+      "水肥优化",
+      "决策系统",
+      "精准农业",
+      "双季轮作",
+      "养分管理"
+    ],
+    "access_method": "基础免费+高级付费",
+    "distribution_channels": [
+      "应用商店"
+    ],
+    "related_resources": [
+      "RES015",
+      "RES017"
+    ],
+    "summary": "这是一款面向黄淮海地区小麦-玉米轮作系统的水肥优化决策支持工具。该系统基于双季养分平衡模型，通过整合土壤检测数据和作物需求，提供周年水肥运筹方案，可实现15-20%的化肥减量，亩均节约成本200元。适用于50亩以上规模种植户，需要用户具备两熟制种植经验。系统通过移动应用提供交互式决策支持，基础功能免费，高级功能需付费订阅。"
+  },
+  {
+    "resource_id": "RES022",
+    "title": "设施番茄无土栽培营养液智能调配系统",
+    "resource_type": "技术系统",
+    "content_type": "软件工具",
+    "source": "国家设施农业工程技术研究中心",
+    "publish_date": "2023-11-15",
+    "target_crops": [
+      "番茄"
+    ],
+    "technical_domain": "设施农业",
+    "description": "基于物联网的番茄无土栽培营养液智能调配系统，实时监测EC/pH值并自动调整营养配方，配套移动端远程控制功能",
+    "tags": [
+      "无土栽培",
+      "智能调控",
+      "设施番茄",
+      "营养液配方"
+    ]
+  },
+  {
+    "resource_id": "RES023",
+    "title": "柑橘园土壤酸化改良技术实操手册",
+    "resource_type": "技术指南",
+    "content_type": "图文手册",
+    "source": "中国农业科学院柑橘研究所",
+    "publish_date": "2023-09-28",
+    "target_crops": [
+      "柑橘"
+    ],
+    "technical_domain": "土壤改良",
+    "description": "针对南方柑橘园土壤酸化问题，系统介绍改良材料选择、施用方法及效果评估的标准化操作流程",
+    "tags": [
+      "土壤调理",
+      "pH值调控",
+      "有机改良",
+      "柑橘栽培"
+    ]
+  },
+  {
+    "resource_id": "RES024",
+    "title": "农产品直播带货全流程培训课程",
+    "resource_type": "培训资源",
+    "content_type": "视频课程",
+    "source": "农业农村部市场与信息化司",
+    "publish_date": "2023-12-05",
+    "target_crops": [
+      "多种作物"
+    ],
+    "technical_domain": "农产品品牌营销",
+    "description": "包含选品策略、场景搭建、话术设计、流量运营等12个模块的农产品电商直播系统培训课程",
+    "tags": [
+      "电商营销",
+      "品牌建设",
+      "数字农业",
+      "乡村振兴"
+    ]
+  },
+  {
+    "resource_id": "RES025",
+    "title": "设施草莓光温耦合调控决策支持系统",
+    "resource_type": "智能系统",
+    "content_type": "移动应用",
+    "source": "江苏省农业科学院",
+    "publish_date": "2023-10-20",
+    "target_crops": [
+      "草莓"
+    ],
+    "technical_domain": "智慧种植",
+    "description": "集成环境传感器与生长模型的草莓设施栽培光温优化系统，提供不同生育期的调控方案决策支持",
+    "tags": [
+      "环境调控",
+      "设施草莓",
+      "生长模型",
+      "智能决策"
+    ]
+  },
+  {
+    "resource_id": "RES026",
+    "title": "2024年全球粮食市场趋势分析与预测报告",
+    "resource_type": "行业报告",
+    "content_type": "PDF文档",
+    "source": "联合国粮农组织(FAO)",
+    "publish_date": "2023-12-18",
+    "target_crops": [
+      "小麦",
+      "玉米",
+      "水稻",
+      "大豆"
+    ],
+    "technical_domain": "市场分析",
+    "description": "涵盖主要粮食作物的供需格局、价格走势、贸易政策及气候变化影响的年度权威分析报告",
+    "tags": [
+      "市场预测",
+      "贸易政策",
+      "价格分析",
+      "粮食安全"
+    ]
+  },
+  {
+    "resource_id": "RES027",
+    "title": "土壤微生物多样性评估与健康诊断系统",
+    "resource_type": "数字工具",
+    "content_type": "软件系统",
+    "source": "中国农业科学院土壤研究所",
+    "publish_date": "2024-03-15",
+    "target_crops": [
+      "小麦",
+      "玉米",
+      "水稻",
+      "大豆"
+    ],
+    "technical_domain": "土壤健康",
+    "description": "基于高通量测序技术的土壤微生物多样性评估系统，提供土壤健康诊断和改良建议",
+    "tags": [
+      "土壤微生物",
+      "健康诊断",
+      "生物多样性",
+      "数字农业"
+    ]
+  },
+  {
+    "resource_id": "RES028",
+    "title": "设施蔬菜水肥气热协同调控技术手册",
+    "resource_type": "技术指南",
+    "content_type": "电子手册",
+    "source": "国家设施农业工程技术研究中心",
+    "publish_date": "2024-02-28",
+    "target_crops": [
+      "番茄",
+      "黄瓜",
+      "辣椒",
+      "叶菜类"
+    ],
+    "technical_domain": "设施农业",
+    "description": "详细介绍设施蔬菜生产中水、肥、气、热四要素协同调控的技术要点和操作规范",
+    "tags": [
+      "设施蔬菜",
+      "环境调控",
+      "精准管理",
+      "高产高效"
+    ]
+  },
+  {
+    "resource_id": "RES029",
+    "title": "农产品区域公用品牌建设与运营实战课程",
+    "resource_type": "培训课程",
+    "content_type": "在线视频课程",
+    "source": "农业农村部品牌专家委员会",
+    "publish_date": "2024-01-10",
+    "target_crops": [
+      "水果",
+      "蔬菜",
+      "粮食作物",
+      "特色农产品"
+    ],
+    "technical_domain": "农产品品牌营销",
+    "description": "系统讲解农产品区域公用品牌从策划、设计到推广运营的全流程方法论和实战案例",
+    "tags": [
+      "品牌建设",
+      "市场营销",
+      "区域公用品牌",
+      "农产品增值"
+    ]
+  },
+  {
+    "resource_id": "RES030",
+    "title": "智慧果园机器人巡检与作业系统",
+    "resource_type": "智能装备",
+    "content_type": "技术方案",
+    "source": "农业装备技术创新联盟",
+    "publish_date": "2024-03-01",
+    "target_crops": [
+      "苹果",
+      "柑橘",
+      "梨",
+      "桃"
+    ],
+    "technical_domain": "智慧农业",
+    "description": "集成环境监测、病虫害识别、精准施药等多功能的果园自主巡检机器人系统",
+    "tags": [
+      "农业机器人",
+      "智能巡检",
+      "精准植保",
+      "果园自动化"
+    ]
+  },
+  {
+    "resource_id": "RES031",
+    "title": "有机水稻种植成本效益分析与决策支持工具",
+    "resource_type": "分析工具",
+    "content_type": "交互式应用程序",
+    "source": "绿色农业发展研究中心",
+    "publish_date": "2024-02-15",
+    "target_crops": [
+      "水稻"
+    ],
+    "technical_domain": "有机农业",
+    "description": "帮助农户分析有机水稻种植投入产出比和市场前景的智能决策支持工具",
+    "tags": [
+      "成本分析",
+      "效益评估",
+      "有机种植",
+      "决策支持"
+    ]
+  },
+  {
+    "resource_id": "RES032",
+    "title": "茶园土壤重金属污染修复技术实操手册",
+    "resource_type": "技术手册",
+    "content_type": "图文教程",
+    "source": "中国农业科学院茶叶研究所",
+    "publish_date": "2024-03-15",
+    "target_crops": [
+      "茶树"
+    ],
+    "technical_domain": "土壤改良",
+    "description": "针对茶园土壤重金属污染问题，系统介绍物理、化学和生物修复技术的操作流程与注意事项，包含成本效益分析和案例研究。",
+    "tags": [
+      "土壤修复",
+      "重金属污染",
+      "茶园管理"
+    ]
+  },
+  {
+    "resource_id": "RES033",
+    "title": "设施甜瓜光温耦合智能调控决策系统",
+    "resource_type": "决策支持系统",
+    "content_type": "软件工具",
+    "source": "国家农业信息化工程技术研究中心",
+    "publish_date": "2024-02-28",
+    "target_crops": [
+      "甜瓜"
+    ],
+    "technical_domain": "设施农业",
+    "description": "基于物联网和AI算法，实现设施甜瓜生长环境参数的实时监测与智能调控，提供光温耦合优化方案和异常预警功能。",
+    "tags": [
+      "智能温室",
+      "环境调控",
+      "作物模型"
+    ]
+  },
+  {
+    "resource_id": "RES034",
+    "title": "农产品跨境电商运营实战培训课程",
+    "resource_type": "培训课程",
+    "content_type": "视频课程",
+    "source": "农业农村部农业贸易促进中心",
+    "publish_date": "2024-01-10",
+    "target_crops": [
+      "多种作物"
+    ],
+    "technical_domain": "农产品品牌营销",
+    "description": "涵盖跨境电商平台选择、产品标准化、物流解决方案、国际认证等全流程内容，包含多个成功案例分析和实操演练模块。",
+    "tags": [
+      "跨境电商",
+      "品牌出海",
+      "数字营销"
+    ]
+  },
+  {
+    "resource_id": "RES035",
+    "title": "马铃薯晚疫病遥感监测预警平台",
+    "resource_type": "监测系统",
+    "content_type": "在线平台",
+    "source": "中国农业大学植物保护学院",
+    "publish_date": "2024-03-01",
+    "target_crops": [
+      "马铃薯"
+    ],
+    "technical_domain": "智慧植保",
+    "description": "整合多源卫星遥感数据和地面监测网络，实现马铃薯晚疫病的早期识别、风险评估和防控决策支持，覆盖主要马铃薯产区。",
+    "tags": [
+      "病害预警",
+      "遥感技术",
+      "精准植保"
+    ]
+  },
+  {
+    "resource_id": "RES036",
+    "title": "有机蔬菜种植成本效益分析工具",
+    "resource_type": "分析工具",
+    "content_type": "电子表格模板",
+    "source": "中国有机农业发展中心",
+    "publish_date": "2024-02-15",
+    "target_crops": [
+      "叶菜类",
+      "果菜类"
+    ],
+    "technical_domain": "有机农业",
+    "description": "提供可定制的成本核算模板和效益预测模型，支持不同规模有机蔬菜种植的经济可行性分析和投资决策。",
+    "tags": [
+      "成本核算",
+      "收益分析",
+      "有机认证"
+    ]
+  },
+  {
+    "resource_id": "RES037",
+    "title": "油菜菌核病无人机遥感监测与精准施药技术指南",
+    "resource_type": "技术手册",
+    "content_type": "PDF文档+操作视频",
+    "source": "国家油菜产业技术体系",
+    "publish_date": "2024-03-15",
+    "target_crops": [
+      "油菜"
+    ],
+    "technical_domain": "智慧植保",
+    "description": "本指南详细介绍了基于无人机遥感的油菜菌核病早期识别技术，以及变量施药决策系统的应用方法，包含田间实操视频演示。",
+    "tags": [
+      "无人机植保",
+      "精准施药",
+      "病害监测"
+    ]
+  },
+  {
+    "resource_id": "RES038",
+    "title": "设施葡萄光质调控与品质提升智能决策系统",
+    "resource_type": "数字工具",
+    "content_type": "移动应用",
+    "source": "中国农科院设施农业研究所",
+    "publish_date": "2024-02-28",
+    "target_crops": [
+      "葡萄"
+    ],
+    "technical_domain": "设施农业",
+    "description": "该系统通过物联网传感器实时监测光环境，结合AI算法为不同品种葡萄提供定制化的LED补光方案，可提升糖度15%-20%。",
+    "tags": [
+      "光环境调控",
+      "品质提升",
+      "智能决策"
+    ]
+  },
+  {
+    "resource_id": "RES039",
+    "title": "有机茶叶碳足迹核算与低碳认证全流程培训课程",
+    "resource_type": "在线课程",
+    "content_type": "视频课程+实操工具包",
+    "source": "农业农村部绿色食品发展中心",
+    "publish_date": "2024-01-10",
+    "target_crops": [
+      "茶叶"
+    ],
+    "technical_domain": "有机农业",
+    "description": "课程涵盖从茶园管理到加工包装的全链条碳足迹核算方法，包含国际认证机构审核要点解析及案例实操。",
+    "tags": [
+      "碳中和",
+      "有机认证",
+      "可持续发展"
+    ]
+  },
+  {
+    "resource_id": "RES040",
+    "title": "盐碱地水稻种植微生物群落调控技术图谱",
+    "resource_type": "可视化图谱",
+    "content_type": "电子交互图表",
+    "source": "中国科学院土壤研究所",
+    "publish_date": "2024-03-01",
+    "target_crops": [
+      "水稻"
+    ],
+    "technical_domain": "土壤改良",
+    "description": "动态展示盐碱地不同改良阶段土壤微生物群落结构变化规律，提供功能菌剂施用时机与配比建议。",
+    "tags": [
+      "盐碱地改良",
+      "微生物组",
+      "生态种植"
+    ]
+  },
+  {
+    "resource_id": "RES041",
+    "title": "农产品区域品牌抖音矩阵运营实战手册",
+    "resource_type": "培训教材",
+    "content_type": "图文手册+案例库",
+    "source": "农业农村部市场与信息化司",
+    "publish_date": "2024-02-15",
+    "target_crops": [
+      "多种作物"
+    ],
+    "technical_domain": "农产品品牌营销",
+    "description": "系统解析区域公用品牌在抖音平台的账号矩阵搭建、内容生产、流量运营等方法，包含20+成功案例拆解。",
+    "tags": [
+      "短视频营销",
+      "品牌数字化",
+      "内容电商"
+    ]
+  },
+  {
+    "resource_id": "RES042",
+    "title": "智慧温室作物生长环境数字孪生系统",
+    "resource_type": "决策支持系统",
+    "content_type": "软件平台",
+    "source": "国家数字农业创新中心",
+    "publish_date": "2024-03-15",
+    "target_crops": [
+      "番茄",
+      "黄瓜",
+      "甜椒"
+    ],
+    "technical_domain": "设施农业",
+    "description": "基于物联网和数字孪生技术的温室环境实时监测与智能调控系统，可实现光温水气肥多参数协同优化",
+    "tags": [
+      "数字孪生",
+      "环境调控",
+      "智能温室"
+    ]
+  },
+  {
+    "resource_id": "RES043",
+    "title": "有机蓝莓土壤微生物组改良技术图谱",
+    "resource_type": "技术图谱",
+    "content_type": "可视化图表",
+    "source": "中国农业大学有机农业研究中心",
+    "publish_date": "2024-02-28",
+    "target_crops": [
+      "蓝莓"
+    ],
+    "technical_domain": "土壤改良",
+    "description": "系统展示有机蓝莓种植中土壤微生物群落结构与功能调控的关键技术节点和操作要点",
+    "tags": [
+      "微生物组",
+      "有机种植",
+      "土壤健康"
+    ]
+  },
+  {
+    "resource_id": "RES044",
+    "title": "农产品品牌IP化设计与运营实战课程",
+    "resource_type": "培训课程",
+    "content_type": "视频课程",
+    "source": "农业农村部品牌专家委员会",
+    "publish_date": "2024-01-10",
+    "target_crops": [
+      "所有农产品"
+    ],
+    "technical_domain": "农产品品牌营销",
+    "description": "从品牌人格化设计到IP化运营的全流程方法论，包含20+国内外成功案例分析",
+    "tags": [
+      "品牌IP",
+      "形象设计",
+      "数字营销"
+    ]
+  },
+  {
+    "resource_id": "RES045",
+    "title": "水稻智能节水灌溉决策支持工具",
+    "resource_type": "决策工具",
+    "content_type": "移动应用",
+    "source": "中国水稻研究所",
+    "publish_date": "2024-03-01",
+    "target_crops": [
+      "水稻"
+    ],
+    "technical_domain": "智慧灌溉",
+    "description": "基于气象数据、土壤墒情和作物生长模型的精准灌溉决策APP，可降低用水量20%以上",
+    "tags": [
+      "节水灌溉",
+      "决策模型",
+      "移动应用"
+    ]
+  },
+  {
+    "resource_id": "RES046",
+    "title": "2024-2025全球有机农产品贸易政策解读报告",
+    "resource_type": "行业报告",
+    "content_type": "PDF文档",
+    "source": "国际有机农业联盟",
+    "publish_date": "2024-02-15",
+    "target_crops": [
+      "所有有机农产品"
+    ],
+    "technical_domain": "市场分析",
+    "description": "全面解析主要进口国有机认证新规、关税政策变化及市场准入要求，包含30国政策对比",
+    "tags": [
+      "贸易政策",
+      "有机认证",
+      "市场准入"
+    ]
+  },
+  {
+    "resource_id": "RES047",
+    "title": "设施黄瓜光合效率优化智能调控系统",
+    "resource_type": "决策支持系统",
+    "content_type": "数字工具",
+    "source": "国家设施农业工程技术研究中心",
+    "publish_date": "2024-03-15",
+    "target_crops": [
+      "黄瓜"
+    ],
+    "technical_domain": "设施农业",
+    "description": "基于物联网和AI技术的设施黄瓜光合效率实时监测与优化调控系统，可自动调节光照强度和光周期",
+    "tags": [
+      "智慧农业",
+      "光环境调控",
+      "设施蔬菜"
+    ]
+  },
+  {
+    "resource_id": "RES048",
+    "title": "智慧农场数字孪生系统建设指南",
+    "resource_type": "技术手册",
+    "content_type": "电子文档",
+    "source": "国家农业信息化工程技术研究中心",
+    "publish_date": "2024-03-15",
+    "target_crops": [
+      "多种作物"
+    ],
+    "technical_domain": "智慧农业",
+    "description": "本指南详细介绍了如何构建农场数字孪生系统，包括数据采集、模型构建、系统集成和应用场景等内容，助力农场实现数字化管理。",
+    "tags": [
+      "数字孪生",
+      "智慧农场",
+      "数字化管理"
+    ]
+  },
+  {
+    "resource_id": "RES049",
+    "title": "有机蔬菜土壤健康评估与改良技术视频课程",
+    "resource_type": "培训课程",
+    "content_type": "视频",
+    "source": "中国有机农业协会",
+    "publish_date": "2024-02-20",
+    "target_crops": [
+      "叶菜类",
+      "茄果类"
+    ],
+    "technical_domain": "土壤改良",
+    "description": "本课程通过实操演示，系统讲解有机蔬菜种植中土壤健康评估方法和改良技术，帮助种植者提升土壤质量。",
+    "tags": [
+      "有机蔬菜",
+      "土壤健康",
+      "视频教程"
+    ]
+  },
+  {
+    "resource_id": "RES050",
+    "title": "2024年全球智慧农业技术趋势与投资分析报告",
+    "resource_type": "研究报告",
+    "content_type": "PDF文档",
+    "source": "国际农业科技智库",
+    "publish_date": "2024-01-10",
+    "target_crops": [],
+    "technical_domain": "市场分析",
+    "description": "本报告分析了2024年全球智慧农业技术的发展趋势、市场机会和投资热点，为相关企业和投资者提供决策参考。",
+    "tags": [
+      "智慧农业",
+      "市场趋势",
+      "投资分析"
+    ]
+  },
+  {
+    "resource_id": "RES051",
+    "title": "柑橘黄龙病早期诊断与综合防控技术图谱",
+    "resource_type": "技术图谱",
+    "content_type": "可视化图表",
+    "source": "中国农业科学院柑橘研究所",
+    "publish_date": "2024-03-01",
+    "target_crops": [
+      "柑橘"
+    ],
+    "technical_domain": "病害防治",
+    "description": "本图谱通过图文结合的方式，详细展示了柑橘黄龙病的症状识别、诊断方法和综合防控技术，便于果农快速掌握。",
+    "tags": [
+      "柑橘黄龙病",
+      "病害诊断",
+      "防控技术"
+    ]
+  },
+  {
+    "resource_id": "RES052",
+    "title": "农产品品牌短视频创作与运营实战手册",
+    "resource_type": "实操手册",
+    "content_type": "电子文档",
+    "source": "农业农村部市场与信息化司",
+    "publish_date": "2024-02-05",
+    "target_crops": [],
+    "technical_domain": "农产品品牌营销",
+    "description": "本手册系统讲解了农产品品牌短视频的创作技巧、平台运营策略和数据分析方法，助力农产品品牌提升线上影响力。",
+    "tags": [
+      "短视频",
+      "品牌营销",
+      "农产品电商"
+    ]
+  },
+  {
+    "resource_id": "RES053",
+    "title": "智能温室番茄生长环境数字孪生系统",
+    "resource_type": "决策支持系统",
+    "content_type": "软件平台",
+    "source": "国家农业信息化工程技术研究中心",
+    "publish_date": "2024-03-15",
+    "target_crops": [
+      "番茄"
+    ],
+    "technical_domain": "设施农业",
+    "description": "基于数字孪生技术的智能温室番茄生长环境实时监测与调控系统，实现环境参数动态优化",
+    "tags": [
+      "数字孪生",
+      "智能温室",
+      "环境调控"
+    ]
+  },
+  {
+    "resource_id": "RES054",
+    "title": "有机草莓土壤微生物组改良技术实操视频",
+    "resource_type": "技术教程",
+    "content_type": "视频课程",
+    "source": "中国农业大学有机农业研究中心",
+    "publish_date": "2024-02-28",
+    "target_crops": [
+      "草莓"
+    ],
+    "technical_domain": "土壤改良",
+    "description": "详细展示有机草莓种植中土壤微生物组检测、分析与改良的全流程操作技术",
+    "tags": [
+      "有机农业",
+      "微生物组",
+      "土壤健康"
+    ]
+  },
+  {
+    "resource_id": "RES055",
+    "title": "2024年全球垂直农业投资热点与市场前景分析报告",
+    "resource_type": "行业报告",
+    "content_type": "PDF文档",
+    "source": "国际农业投资分析机构AgFunder",
+    "publish_date": "2024-01-10",
+    "target_crops": [
+      "叶菜类",
+      "草本植物"
+    ],
+    "technical_domain": "市场分析",
+    "description": "全面分析全球垂直农业领域的技术创新、投资趋势及主要区域市场发展前景",
+    "tags": [
+      "垂直农业",
+      "投资分析",
+      "市场预测"
+    ]
+  },
+  {
+    "resource_id": "RES056",
+    "title": "水稻智能叶龄诊断与精准施肥移动应用",
+    "resource_type": "移动应用",
+    "content_type": "APP",
+    "source": "农业农村部水稻专家指导组",
+    "publish_date": "2024-03-01",
+    "target_crops": [
+      "水稻"
+    ],
+    "technical_domain": "精准农业",
+    "description": "基于图像识别的手机端水稻叶龄诊断工具，提供个性化施肥建议决策支持",
+    "tags": [
+      "叶龄诊断",
+      "精准施肥",
+      "移动农业"
+    ]
+  },
+  {
+    "resource_id": "RES057",
+    "title": "农产品区域品牌元宇宙营销实战课程",
+    "resource_type": "培训课程",
+    "content_type": "在线课程",
+    "source": "中国农业品牌研究中心",
+    "publish_date": "2024-02-15",
+    "target_crops": [],
+    "technical_domain": "农产品品牌营销",
+    "description": "系统讲解元宇宙场景下农产品区域品牌建设与数字营销的创新策略与实施方法",
+    "tags": [
+      "元宇宙",
+      "数字营销",
+      "品牌建设"
+    ]
+  },
+  {
+    "resource_id": "RES058",
+    "title": "棉花智能滴灌与盐碱胁迫调控决策系统",
+    "resource_type": "智能决策工具",
+    "content_type": "数字应用",
+    "source": "国家数字农业创新中心",
+    "publish_date": "2024-03-15",
+    "target_crops": [
+      "棉花"
+    ],
+    "technical_domain": "智慧灌溉",
+    "description": "集成土壤盐分传感器与气象数据的棉花滴灌智能决策系统，可自动生成盐碱地水盐调控方案",
+    "tags": [
+      "盐碱地",
+      "智能灌溉",
+      "胁迫调控"
+    ]
+  },
+  {
+    "resource_id": "RES059",
+    "title": "设施樱桃周年生产环境调控数字孪生系统",
+    "resource_type": "智能管理系统",
+    "content_type": "软件平台",
+    "source": "中国农业大学设施农业研究所",
+    "publish_date": "2024-02-28",
+    "target_crops": [
+      "樱桃"
+    ],
+    "technical_domain": "设施农业",
+    "description": "基于物联网的设施樱桃生长环境数字孪生系统，实现光温水气精准调控与产量预测",
+    "tags": [
+      "数字孪生",
+      "环境调控",
+      "果树栽培"
+    ]
+  },
+  {
+    "resource_id": "RES060",
+    "title": "2024年全球植物工厂投资回报分析报告",
+    "resource_type": "市场分析报告",
+    "content_type": "PDF文档",
+    "source": "国际垂直农业协会",
+    "publish_date": "2024-01-10",
+    "target_crops": [
+      "叶菜类",
+      "草本植物"
+    ],
+    "technical_domain": "市场分析",
+    "description": "涵盖全球主要地区植物工厂建设成本、运营效率与投资回报周期的深度分析报告",
+    "tags": [
+      "垂直农业",
+      "投资分析",
+      "都市农业"
+    ]
+  },
+  {
+    "resource_id": "RES061",
+    "title": "茶园土壤有机质提升微生物菌剂应用技术视频课程",
+    "resource_type": "技术培训课程",
+    "content_type": "视频教程",
+    "source": "中国农业科学院茶叶研究所",
+    "publish_date": "2024-03-01",
+    "target_crops": [
+      "茶树"
+    ],
+    "technical_domain": "土壤改良",
+    "description": "包含微生物菌剂筛选、施用方法与效果评估的茶园土壤改良全流程实操教学视频",
+    "tags": [
+      "微生物菌剂",
+      "有机质提升",
+      "可持续种植"
+    ]
+  },
+  {
+    "resource_id": "RES062",
+    "title": "农产品区域品牌小红书内容营销实战手册",
+    "resource_type": "营销指南",
+    "content_type": "电子书",
+    "source": "农业农村部品牌专家委员会",
+    "publish_date": "2024-02-15",
+    "target_crops": [
+      "各类农产品"
+    ],
+    "technical_domain": "农产品品牌营销",
+    "description": "针对小红书平台的农产品品牌内容策划、KOL合作与流量转化全流程操作指南",
+    "tags": [
+      "内容营销",
+      "社交媒体",
+      "品牌建设"
+    ]
+  },
+  {
+    "resource_id": "RES063",
+    "title": "智慧农场数字孪生系统建设指南",
+    "resource_type": "技术手册",
+    "content_type": "电子文档",
+    "source": "国家农业信息化工程技术研究中心",
+    "publish_date": "2024-03-15",
+    "target_crops": [
+      "小麦",
+      "玉米",
+      "水稻"
+    ],
+    "technical_domain": "智慧农业",
+    "description": "本指南详细介绍了智慧农场数字孪生系统的建设流程、技术要点和实施案例，帮助农场主实现农业生产全过程的数字化管理。",
+    "tags": [
+      "数字孪生",
+      "智慧农场",
+      "数字化管理"
+    ]
+  },
+  {
+    "resource_id": "RES064",
+    "title": "有机蔬菜土壤健康评估与改良技术视频课程",
+    "resource_type": "视频课程",
+    "content_type": "在线视频",
+    "source": "中国农业大学有机农业研究所",
+    "publish_date": "2024-02-20",
+    "target_crops": [
+      "番茄",
+      "黄瓜",
+      "菠菜"
+    ],
+    "technical_domain": "土壤改良",
+    "description": "本课程通过实操演示，系统讲解有机蔬菜种植中土壤健康评估方法和改良技术，提升土壤肥力和作物品质。",
+    "tags": [
+      "有机农业",
+      "土壤健康",
+      "视频教程"
+    ]
+  },
+  {
+    "resource_id": "RES065",
+    "title": "2024年全球智慧农业技术趋势与投资分析报告",
+    "resource_type": "研究报告",
+    "content_type": "PDF文档",
+    "source": "国际农业科技智库",
+    "publish_date": "2024-01-10",
+    "target_crops": [],
+    "technical_domain": "市场分析",
+    "description": "本报告全面分析了2024年全球智慧农业技术发展趋势、投资热点和市场前景，为农业科技企业和投资者提供决策参考。",
+    "tags": [
+      "智慧农业",
+      "市场分析",
+      "投资趋势"
+    ]
+  },
+  {
+    "resource_id": "RES066",
+    "title": "柑橘黄龙病早期诊断与综合防控技术图谱",
+    "resource_type": "技术图谱",
+    "content_type": "可视化图表",
+    "source": "中国农业科学院柑橘研究所",
+    "publish_date": "2024-03-01",
+    "target_crops": [
+      "柑橘"
+    ],
+    "technical_domain": "病害防治",
+    "description": "本图谱通过图文结合的方式，详细展示了柑橘黄龙病的早期症状识别方法和综合防控技术，帮助果农有效防治病害。",
+    "tags": [
+      "黄龙病",
+      "病害防治",
+      "技术图谱"
+    ]
+  },
+  {
+    "resource_id": "RES067",
+    "title": "农产品品牌短视频创作与运营实战手册",
+    "resource_type": "实战手册",
+    "content_type": "电子文档",
+    "source": "农业农村部品牌发展中心",
+    "publish_date": "2024-02-05",
+    "target_crops": [],
+    "technical_domain": "农产品品牌营销",
+    "description": "本手册系统讲解了农产品品牌短视频的创作技巧、平台运营策略和成功案例，助力农业经营者提升品牌影响力。",
+    "tags": [
+      "短视频",
+      "品牌营销",
+      "实战手册"
+    ]
+  },
+  {
+    "resource_id": "RES068",
+    "title": "智能温室番茄生长环境数字孪生系统",
+    "resource_type": "决策支持系统",
+    "content_type": "软件平台",
+    "source": "国家农业信息化工程技术研究中心",
+    "publish_date": "2024-03-15",
+    "target_crops": [
+      "番茄"
+    ],
+    "technical_domain": "设施农业",
+    "description": "基于数字孪生技术的番茄生长环境实时监测与智能调控系统，实现光温水肥气等环境参数的精准优化",
+    "tags": [
+      "数字孪生",
+      "环境调控",
+      "智能温室"
+    ]
+  },
+  {
+    "resource_id": "RES069",
+    "title": "有机水稻土壤健康评估与微生物调控技术手册",
+    "resource_type": "技术手册",
+    "content_type": "图文指南",
+    "source": "中国农业大学有机农业研究中心",
+    "publish_date": "2024-02-28",
+    "target_crops": [
+      "水稻"
+    ],
+    "technical_domain": "有机农业",
+    "description": "详细介绍有机水稻种植中土壤健康评估指标体系和微生物群落调控技术的实操指南",
+    "tags": [
+      "土壤健康",
+      "微生物调控",
+      "有机种植"
+    ]
+  },
+  {
+    "resource_id": "RES070",
+    "title": "2024-2025全球智慧农业传感器市场分析报告",
+    "resource_type": "市场分析报告",
+    "content_type": "PDF文档",
+    "source": "国际农业科技咨询机构",
+    "publish_date": "2024-01-10",
+    "target_crops": [],
+    "technical_domain": "市场分析",
+    "description": "全面分析全球农业传感器技术发展趋势、市场规模及主要厂商竞争格局的专业报告",
+    "tags": [
+      "传感器技术",
+      "市场预测",
+      "投资分析"
+    ]
+  },
+  {
+    "resource_id": "RES071",
+    "title": "柑橘园智能精准喷药机器人操作培训课程",
+    "resource_type": "培训课程",
+    "content_type": "视频教程",
+    "source": "农业农村部农机化司",
+    "publish_date": "2024-03-01",
+    "target_crops": [
+      "柑橘"
+    ],
+    "technical_domain": "智慧植保",
+    "description": "面向柑橘种植户的智能喷药机器人操作、维护及作业规划全流程视频培训课程",
+    "tags": [
+      "植保机器人",
+      "精准施药",
+      "操作培训"
+    ]
+  },
+  {
+    "resource_id": "RES072",
+    "title": "农产品区域品牌社群营销实战手册",
+    "resource_type": "营销指南",
+    "content_type": "电子书",
+    "source": "农业农村部市场与信息化司",
+    "publish_date": "2024-02-15",
+    "target_crops": [],
+    "technical_domain": "农产品品牌营销",
+    "description": "系统讲解如何利用微信、QQ等社群平台开展农产品区域品牌营销的实战操作手册",
+    "tags": [
+      "社群营销",
+      "品牌建设",
+      "数字营销"
+    ]
+  },
+  {
+    "resource_id": "RES073",
+    "title": "智能温室番茄生长环境数字孪生系统",
+    "resource_type": "决策支持系统",
+    "content_type": "软件工具",
+    "source": "农业科技研究院",
+    "publish_date": "2024-03-15",
+    "target_crops": [
+      "番茄"
+    ],
+    "technical_domain": "设施农业",
+    "description": "基于数字孪生技术的智能温室番茄生长环境调控系统，实时模拟和优化温室环境参数，提升番茄产量和品质。",
+    "tags": [
+      "数字孪生",
+      "智能温室",
+      "番茄种植",
+      "环境调控"
+    ]
+  },
+  {
+    "resource_id": "RES074",
+    "title": "有机水稻土壤健康评估与微生物调控技术手册",
+    "resource_type": "技术手册",
+    "content_type": "电子文档",
+    "source": "有机农业协会",
+    "publish_date": "2024-03-10",
+    "target_crops": [
+      "水稻"
+    ],
+    "technical_domain": "有机农业",
+    "description": "详细介绍有机水稻种植中土壤健康评估方法和微生物调控技术，帮助农民提升土壤肥力和作物产量。",
+    "tags": [
+      "有机水稻",
+      "土壤健康",
+      "微生物调控",
+      "技术手册"
+    ]
+  },
+  {
+    "resource_id": "RES075",
+    "title": "2024-2025全球智慧农业传感器市场分析报告",
+    "resource_type": "市场分析报告",
+    "content_type": "PDF文档",
+    "source": "国际农业市场研究机构",
+    "publish_date": "2024-03-05",
+    "target_crops": [],
+    "technical_domain": "市场分析",
+    "description": "全面分析2024-2025年全球智慧农业传感器市场的趋势、投资热点和前景，为决策者提供数据支持。",
+    "tags": [
+      "智慧农业",
+      "传感器",
+      "市场分析",
+      "投资热点"
+    ]
+  },
+  {
+    "resource_id": "RES076",
+    "title": "柑橘园智能精准喷药机器人操作培训课程",
+    "resource_type": "培训课程",
+    "content_type": "在线视频",
+    "source": "农业机械化推广中心",
+    "publish_date": "2024-03-01",
+    "target_crops": [
+      "柑橘"
+    ],
+    "technical_domain": "智慧植保",
+    "description": "针对柑橘园智能精准喷药机器人的操作和维护进行详细培训，提升喷药效率和减少农药使用量。",
+    "tags": [
+      "柑橘园",
+      "智能喷药",
+      "机器人",
+      "培训课程"
+    ]
+  },
+  {
+    "resource_id": "RES077",
+    "title": "农产品区域品牌社群营销实战手册",
+    "resource_type": "营销指南",
+    "content_type": "电子文档",
+    "source": "农产品品牌研究院",
+    "publish_date": "2024-02-25",
+    "target_crops": [],
+    "technical_domain": "农产品品牌营销",
+    "description": "提供农产品区域品牌社群营销的实战策略和案例，帮助品牌运营者提升社群影响力和销售转化率。",
+    "tags": [
+      "农产品品牌",
+      "社群营销",
+      "实战手册",
+      "品牌运营"
+    ]
+  },
+  {
+    "resource_id": "RES078",
+    "title": "基于区块链的农产品溯源系统建设指南",
+    "resource_type": "技术手册",
+    "content_type": "电子文档",
+    "source": "农业农村部信息中心",
+    "publish_date": "2024-03-15",
+    "target_crops": [
+      "蔬菜",
+      "水果",
+      "粮食作物"
+    ],
+    "technical_domain": "农产品质量安全",
+    "description": "详细介绍如何利用区块链技术构建农产品全链条溯源系统，包括数据采集、链上存证、消费者查询等功能模块的实现方法。",
+    "tags": [
+      "区块链",
+      "溯源",
+      "质量安全"
+    ]
+  },
+  {
+    "resource_id": "RES079",
+    "title": "设施草莓光周期调控与产量预测AI模型",
+    "resource_type": "决策工具",
+    "content_type": "软件系统",
+    "source": "中国农业大学设施农业研究所",
+    "publish_date": "2024-02-28",
+    "target_crops": [
+      "草莓"
+    ],
+    "technical_domain": "设施农业",
+    "description": "基于深度学习的草莓光周期响应模型，可根据不同品种特性预测最佳光照时长，实现产量精准预测。",
+    "tags": [
+      "人工智能",
+      "光周期",
+      "产量预测"
+    ]
+  },
+  {
+    "resource_id": "RES080",
+    "title": "热带水果采后冷链物流温湿度控制技术标准",
+    "resource_type": "行业标准",
+    "content_type": "PDF文档",
+    "source": "农业农村部农产品加工标准化技术委员会",
+    "publish_date": "2024-01-20",
+    "target_crops": [
+      "芒果",
+      "荔枝",
+      "龙眼"
+    ],
+    "technical_domain": "采后处理",
+    "description": "针对热带水果采后流通过程中的品质保持难题，制定详细的温湿度控制参数标准及操作规范。",
+    "tags": [
+      "冷链物流",
+      "热带水果",
+      "采后保鲜"
+    ]
+  },
+  {
+    "resource_id": "RES081",
+    "title": "农业碳中和路径规划与碳汇核算工具包",
+    "resource_type": "分析工具",
+    "content_type": "软件+手册",
+    "source": "中国农业科学院农业环境与可持续发展研究所",
+    "publish_date": "2024-03-01",
+    "target_crops": [
+      "水稻",
+      "小麦",
+      "玉米"
+    ],
+    "technical_domain": "可持续农业",
+    "description": "包含农田碳汇核算模型、减排措施评估系统和碳中和路径规划工具，支持农业生产低碳转型决策。",
+    "tags": [
+      "碳中和",
+      "碳汇",
+      "可持续发展"
+    ]
+  },
+  {
+    "resource_id": "RES082",
+    "title": "中药材连作障碍微生物修复技术视频教程",
+    "resource_type": "培训课程",
+    "content_type": "视频系列",
+    "source": "中国中医科学院中药资源中心",
+    "publish_date": "2024-02-10",
+    "target_crops": [
+      "人参",
+      "三七",
+      "黄芪"
+    ],
+    "technical_domain": "土壤改良",
+    "description": "系统讲解中药材连作障碍的形成机制，演示功能性微生物菌剂的制备与应用全过程操作技术。",
+    "tags": [
+      "连作障碍",
+      "微生物修复",
+      "中药材"
+    ]
+  },
+  {
+    "resource_id": "RES083",
+    "title": "基于深度学习的葡萄霜霉病早期预警移动应用",
+    "resource_type": "移动应用",
+    "content_type": "数字工具",
+    "source": "中国农业科学院智慧农业研究中心",
+    "publish_date": "2024-03-15",
+    "target_crops": [
+      "葡萄"
+    ],
+    "technical_domain": "智慧植保",
+    "description": "利用手机摄像头采集叶片图像，通过深度学习模型实时诊断葡萄霜霉病早期症状，提供预警和防治建议",
+    "tags": [
+      "葡萄病害",
+      "AI诊断",
+      "移动应用",
+      "早期预警"
+    ]
+  },
+  {
+    "resource_id": "RES084",
+    "title": "设施番茄熊蜂授粉与人工补光协同增效技术手册",
+    "resource_type": "技术手册",
+    "content_type": "图文指南",
+    "source": "国家设施农业工程技术研究中心",
+    "publish_date": "2024-02-28",
+    "target_crops": [
+      "番茄"
+    ],
+    "technical_domain": "设施农业",
+    "description": "系统介绍设施番茄生产中使用熊蜂授粉与LED补光协同应用的技术要点、操作流程和效益分析",
+    "tags": [
+      "熊蜂授粉",
+      "人工补光",
+      "设施番茄",
+      "协同增效"
+    ]
+  },
+  {
+    "resource_id": "RES085",
+    "title": "2024-2025年全球蓝莓市场供需分析与价格预测报告",
+    "resource_type": "市场报告",
+    "content_type": "PDF文档",
+    "source": "国际农产品市场研究所",
+    "publish_date": "2024-01-20",
+    "target_crops": [
+      "蓝莓"
+    ],
+    "technical_domain": "市场分析",
+    "description": "全面分析全球主要蓝莓产区的生产情况、消费趋势、贸易格局及未来两年价格走势预测",
+    "tags": [
+      "蓝莓市场",
+      "供需分析",
+      "价格预测",
+      "全球趋势"
+    ]
+  },
+  {
+    "resource_id": "RES086",
+    "title": "水稻秸秆生物炭制备与土壤改良应用视频课程",
+    "resource_type": "在线课程",
+    "content_type": "视频教程",
+    "source": "农业农村部农业生态与资源保护总站",
+    "publish_date": "2024-03-01",
+    "target_crops": [
+      "水稻"
+    ],
+    "technical_domain": "土壤改良",
+    "description": "从秸秆收集、炭化设备操作到田间施用全流程视频教学，指导农民利用水稻秸秆制备生物炭改良土壤",
+    "tags": [
+      "秸秆利用",
+      "生物炭",
+      "土壤改良",
+      "循环农业"
+    ]
+  },
+  {
+    "resource_id": "RES087",
+    "title": "农产品区域品牌视觉识别系统设计指南",
+    "resource_type": "设计指南",
+    "content_type": "图文手册",
+    "source": "中国农业品牌研究中心",
+    "publish_date": "2024-02-10",
+    "target_crops": [],
+    "technical_domain": "农产品品牌营销",
+    "description": "系统讲解农产品区域品牌LOGO设计、色彩系统、字体应用等视觉识别要素的规范与创意方法",
+    "tags": [
+      "品牌设计",
+      "视觉识别",
+      "区域品牌",
+      "农产品包装"
+    ]
+  },
+  {
+    "resource_id": "RES088",
+    "title": "基于物联网的葡萄园霜冻预警与智能防护系统",
+    "resource_type": "技术系统",
+    "content_type": "软件平台",
+    "source": "国家农业智能装备工程技术研究中心",
+    "publish_date": "2024-03-15",
+    "target_crops": [
+      "葡萄"
+    ],
+    "technical_domain": "智慧农业",
+    "description": "整合物联网传感器网络与气象数据，实现葡萄园霜冻灾害的实时监测、精准预警和自动防护系统联动，包含智能防霜风机控制与微喷系统调节功能。",
+    "tags": [
+      "物联网",
+      "霜冻预警",
+      "智能控制",
+      "葡萄栽培"
+    ]
+  },
+  {
+    "resource_id": "RES089",
+    "title": "有机蔬菜土壤碳汇核算与交易实操指南",
+    "resource_type": "手册",
+    "content_type": "图文手册+在线工具",
+    "source": "中国农业科学院资源区划所",
+    "publish_date": "2024-02-28",
+    "target_crops": [
+      "叶菜类",
+      "茄果类"
+    ],
+    "technical_domain": "可持续农业",
+    "description": "详细解析有机蔬菜种植中的土壤固碳机理，提供碳汇量测算方法学、核证流程及碳交易平台对接指南，配套在线碳汇计算器工具。",
+    "tags": [
+      "碳汇核算",
+      "碳交易",
+      "有机农业",
+      "土壤固碳"
+    ]
+  },
+  {
+    "resource_id": "RES090",
+    "title": "荔枝采后冷链运输品质保持技术VR实训系统",
+    "resource_type": "培训资源",
+    "content_type": "虚拟现实应用",
+    "source": "华南农业大学采后生物学实验室",
+    "publish_date": "2024-01-20",
+    "target_crops": [
+      "荔枝"
+    ],
+    "technical_domain": "采后处理",
+    "description": "通过VR技术模拟荔枝预冷、包装、运输全流程，实时展示温度波动对果实品质的影响，包含20个典型场景的交互式操作训练模块。",
+    "tags": [
+      "VR培训",
+      "冷链物流",
+      "品质控制",
+      "热带水果"
+    ]
+  },
+  {
+    "resource_id": "RES091",
+    "title": "2024-2025年度全球植物基蛋白市场竞争力分析报告",
+    "resource_type": "行业报告",
+    "content_type": "PDF+动态数据看板",
+    "source": "国际农业市场研究联盟",
+    "publish_date": "2024-03-01",
+    "target_crops": [
+      "大豆",
+      "豌豆",
+      "小麦"
+    ],
+    "technical_domain": "市场分析",
+    "description": "深度分析全球主要植物蛋白原料的产能布局、加工技术路线成本比较、消费者偏好变迁及替代蛋白政策法规变化，包含交互式区域竞争力矩阵工具。",
+    "tags": [
+      "植物蛋白",
+      "市场预测",
+      "替代蛋白",
+      "供应链分析"
+    ]
+  },
+  {
+    "resource_id": "RES092",
+    "title": "茶园生态调控型防霜系统设计标准",
+    "resource_type": "技术标准",
+    "content_type": "标准文本+三维模型库",
+    "source": "农业农村部茶叶标准化技术委员会",
+    "publish_date": "2024-02-10",
+    "target_crops": [
+      "茶树"
+    ],
+    "technical_domain": "智慧农业",
+    "description": "规定基于地形分析的防霜风机布局参数、智能启闭阈值设置规则及生态型防霜屏障建设标准，配套不同海拔茶园的三维设计模型资源库。",
+    "tags": [
+      "防霜技术",
+      "茶园管理",
+      "智能装备",
+      "标准规范"
+    ]
+  },
+  {
+    "resource_id": "RES093",
+    "title": "基于AI的棉花黄萎病早期诊断与防控决策系统",
+    "resource_type": "智能决策系统",
+    "content_type": "软件平台",
+    "source": "中国农业科学院棉花研究所",
+    "publish_date": "2024-03-15",
+    "target_crops": [
+      "棉花"
+    ],
+    "technical_domain": "智慧植保",
+    "description": "整合多光谱成像与机器学习算法，实现棉花黄萎病的早期识别与精准施药决策支持",
+    "tags": [
+      "AI诊断",
+      "棉花病害",
+      "精准防控"
+    ]
+  },
+  {
+    "resource_id": "RES094",
+    "title": "设施辣椒光温水肥协同调控数字孪生系统",
+    "resource_type": "数字孪生系统",
+    "content_type": "软件平台",
+    "source": "国家设施农业工程技术研究中心",
+    "publish_date": "2024-02-28",
+    "target_crops": [
+      "辣椒"
+    ],
+    "technical_domain": "设施农业",
+    "description": "通过物联网传感器网络构建设施辣椒生长环境的实时数字镜像，优化环境参数调控策略",
+    "tags": [
+      "数字孪生",
+      "环境调控",
+      "设施蔬菜"
+    ]
+  },
+  {
+    "resource_id": "RES095",
+    "title": "有机苹果园碳足迹核算与低碳认证实操指南",
+    "resource_type": "技术手册",
+    "content_type": "电子文档",
+    "source": "中国绿色食品发展中心",
+    "publish_date": "2024-01-10",
+    "target_crops": [
+      "苹果"
+    ],
+    "technical_domain": "可持续农业",
+    "description": "详细指导有机苹果生产全过程的碳排放测算方法及国际低碳认证申请流程",
+    "tags": [
+      "碳足迹",
+      "有机认证",
+      "气候智慧型农业"
+    ]
+  },
+  {
+    "resource_id": "RES096",
+    "title": "农产品区域品牌出海营销策略直播课程",
+    "resource_type": "培训课程",
+    "content_type": "在线直播",
+    "source": "农业农村部农业贸易促进中心",
+    "publish_date": "2024-03-01",
+    "target_crops": [
+      "多种作物"
+    ],
+    "technical_domain": "农产品品牌营销",
+    "description": "针对RCEP市场特点，讲解农产品品牌国际化路径与跨境电商运营实战技巧",
+    "tags": [
+      "品牌出海",
+      "跨境电商",
+      "RCEP"
+    ]
+  },
+  {
+    "resource_id": "RES097",
+    "title": "盐碱地水稻根系微生物组改良技术VR实训系统",
+    "resource_type": "虚拟实训系统",
+    "content_type": "VR应用",
+    "source": "中国科学院南京土壤研究所",
+    "publish_date": "2024-02-15",
+    "target_crops": [
+      "水稻"
+    ],
+    "technical_domain": "土壤改良",
+    "description": "通过虚拟现实技术模拟盐碱地微生物接种操作全流程，提升技术推广效率",
+    "tags": [
+      "微生物组",
+      "盐碱地改良",
+      "VR培训"
+    ]
+  },
+  {
+    "resource_id": "RES098",
+    "title": "基于AI的茶园病虫害智能识别与防治决策系统",
+    "resource_type": "智能决策系统",
+    "content_type": "软件工具",
+    "source": "中国农业科学院茶叶研究所",
+    "publish_date": "2024-03-15",
+    "target_crops": [
+      "茶叶"
+    ],
+    "technical_domain": "智慧植保",
+    "description": "该系统利用深度学习技术识别茶园常见病虫害，并提供实时防治建议，整合气象数据和生长周期信息，实现精准施药决策。",
+    "tags": [
+      "AI识别",
+      "精准施药",
+      "茶叶病虫害",
+      "决策支持"
+    ]
+  },
+  {
+    "resource_id": "RES099",
+    "title": "设施番茄熊蜂授粉效果评估与成本效益分析工具",
+    "resource_type": "分析工具",
+    "content_type": "电子表格模板",
+    "source": "国家设施农业工程技术研究中心",
+    "publish_date": "2024-02-28",
+    "target_crops": [
+      "番茄"
+    ],
+    "technical_domain": "设施农业",
+    "description": "提供熊蜂授粉与传统人工授粉的对比分析模板，包含产量提升、人工成本节约等关键指标计算，支持种植者做出经济决策。",
+    "tags": [
+      "熊蜂授粉",
+      "成本效益",
+      "设施番茄",
+      "经济分析"
+    ]
+  },
+  {
+    "resource_id": "RES100",
+    "title": "2024-2025年度全球有机乳制品市场准入政策解读直播课",
+    "resource_type": "政策解读",
+    "content_type": "在线直播课程",
+    "source": "农业农村部农产品贸易促进中心",
+    "publish_date": "2024-04-10",
+    "target_crops": [
+      "乳制品"
+    ],
+    "technical_domain": "市场分析",
+    "description": "深度解析欧盟、美国等主要有机乳制品进口市场的法规更新、认证要求及贸易壁垒规避策略，含实时问答环节。",
+    "tags": [
+      "有机乳制品",
+      "贸易政策",
+      "市场准入",
+      "直播课程"
+    ]
+  },
+  {
+    "resource_id": "RES101",
+    "title": "盐碱地棉花根系微生物组改良技术VR实训系统",
+    "resource_type": "虚拟实训",
+    "content_type": "VR应用程序",
+    "source": "新疆农业科学院土壤肥料研究所",
+    "publish_date": "2024-01-20",
+    "target_crops": [
+      "棉花"
+    ],
+    "technical_domain": "土壤改良",
+    "description": "通过虚拟现实技术模拟盐碱地微生物菌剂施用全过程，包含土壤采样、菌剂配比、根系接种等关键操作沉浸式培训。",
+    "tags": [
+      "盐碱地",
+      "微生物组",
+      "VR培训",
+      "棉花种植"
+    ]
+  },
+  {
+    "resource_id": "RES102",
+    "title": "农产品区域品牌年轻化营销策略设计工作坊",
+    "resource_type": "实战培训",
+    "content_type": "线下工作坊",
+    "source": "中国农业大学品牌研究中心",
+    "publish_date": "2024-05-05",
+    "target_crops": [
+      "多种农产品"
+    ],
+    "technical_domain": "农产品品牌营销",
+    "description": "针对Z世代消费群体，教授国潮元素设计、社交平台裂变传播等新型品牌策略，包含实际案例分组演练。",
+    "tags": [
+      "年轻化营销",
+      "品牌设计",
+      "Z世代",
+      "实战工作坊"
+    ]
+  },
+  {
+    "resource_id": "RES103",
+    "title": "基于AI的草莓白粉病早期预警与精准施药系统",
+    "resource_type": "智能决策系统",
+    "content_type": "软件平台",
+    "source": "国家农业智能装备工程技术研究中心",
+    "publish_date": "2024-03-15",
+    "target_crops": [
+      "草莓"
+    ],
+    "technical_domain": "智慧植保",
+    "description": "整合多光谱成像与深度学习算法，实现草莓白粉病发病前7-10天的精准预警，并提供差异化施药方案决策支持",
+    "tags": [
+      "AI植保",
+      "精准施药",
+      "病害预警",
+      "草莓种植"
+    ]
+  },
+  {
+    "resource_id": "RES104",
+    "title": "丘陵地区油茶林水土保持与养分循环技术图谱",
+    "resource_type": "技术可视化指南",
+    "content_type": "交互式电子图谱",
+    "source": "中国林业科学研究院",
+    "publish_date": "2024-02-28",
+    "target_crops": [
+      "油茶"
+    ],
+    "technical_domain": "生态种植",
+    "description": "通过三维建模展示不同坡度油茶林的等高线种植、生物篱构建及凋落物还田等技术要点，包含20个典型场景动画演示",
+    "tags": [
+      "水土保持",
+      "养分循环",
+      "生态农业",
+      "木本油料"
+    ]
+  },
+  {
+    "resource_id": "RES105",
+    "title": "设施西甜瓜蜜蜂授粉与温光调控协同技术VR实训系统",
+    "resource_type": "虚拟实训平台",
+    "content_type": "VR应用",
+    "source": "农业农村部设施农业重点实验室",
+    "publish_date": "2024-01-10",
+    "target_crops": [
+      "西瓜",
+      "甜瓜"
+    ],
+    "technical_domain": "设施农业",
+    "description": "提供沉浸式操作训练，模拟不同温室环境下蜂群管理、温光参数调节对坐果率影响的实时反馈系统",
+    "tags": [
+      "授粉技术",
+      "环境调控",
+      "VR培训",
+      "瓜类栽培"
+    ]
+  },
+  {
+    "resource_id": "RES106",
+    "title": "2024-2025全球精准灌溉传感器市场竞争力分析报告",
+    "resource_type": "市场研究报告",
+    "content_type": "PDF报告",
+    "source": "国际农业市场分析机构AgriTech Analytics",
+    "publish_date": "2024-04-05",
+    "target_crops": [],
+    "technical_domain": "市场分析",
+    "description": "涵盖土壤墒情、作物蒸腾、气象站等6类传感器的技术路线对比、主要厂商市场份额及新兴市场投资机会",
+    "tags": [
+      "灌溉技术",
+      "传感器",
+      "市场预测",
+      "农业物联网"
+    ]
+  },
+  {
+    "resource_id": "RES107",
+    "title": "有机猕猴桃园生物多样性评估与生态服务价值核算工具包",
+    "resource_type": "分析工具",
+    "content_type": "Excel工具包+视频教程",
+    "source": "中国农业大学有机农业研究中心",
+    "publish_date": "2024-03-22",
+    "target_crops": [
+      "猕猴桃"
+    ],
+    "technical_domain": "可持续农业",
+    "description": "包含传粉昆虫调查、土壤生物检测等12项指标的标准化采集方法，以及生态服务货币化计算模型",
+    "tags": [
+      "生物多样性",
+      "生态价值",
+      "有机认证",
+      "果园管理"
+    ]
+  },
+  {
+    "resource_id": "RES108",
+    "title": "基于区块链的有机农产品全生命周期溯源系统",
+    "resource_type": "技术系统",
+    "content_type": "操作手册",
+    "source": "农业农村部信息中心",
+    "publish_date": "2024-03-15",
+    "target_crops": [
+      "有机蔬菜",
+      "有机水果"
+    ],
+    "technical_domain": "农产品质量安全",
+    "description": "本系统利用区块链技术实现有机农产品从生产到销售的全流程可信溯源，包含种植记录、投入品使用、检测认证等关键数据上链功能。",
+    "tags": [
+      "区块链",
+      "有机农业",
+      "溯源系统"
+    ]
+  },
+  {
+    "resource_id": "RES109",
+    "title": "丘陵地区柑橘园智能仿形修剪机器人操作实训课程",
+    "resource_type": "培训课程",
+    "content_type": "VR模拟系统",
+    "source": "中国农业大学",
+    "publish_date": "2024-02-28",
+    "target_crops": [
+      "柑橘"
+    ],
+    "technical_domain": "智慧农业",
+    "description": "通过VR技术模拟不同树形的三维建模与修剪路径规划，培养操作人员对智能修剪机器人的实际操作能力，包含避障算法和产量预测模块。",
+    "tags": [
+      "农业机器人",
+      "智能修剪",
+      "VR培训"
+    ]
+  },
+  {
+    "resource_id": "RES110",
+    "title": "设施番茄光合碳同化效率AI优化决策系统",
+    "resource_type": "决策工具",
+    "content_type": "移动应用",
+    "source": "中国农科院蔬菜花卉研究所",
+    "publish_date": "2024-01-10",
+    "target_crops": [
+      "番茄"
+    ],
+    "technical_domain": "设施农业",
+    "description": "基于多光谱成像和叶片气体交换数据，构建光合参数动态模型，提供补光策略、CO2浓度调控等优化方案，可提升产量15%-20%。",
+    "tags": [
+      "光合作用",
+      "碳同化",
+      "AI决策"
+    ]
+  },
+  {
+    "resource_id": "RES111",
+    "title": "2024-2025全球都市农业创新模式白皮书",
+    "resource_type": "研究报告",
+    "content_type": "电子文档",
+    "source": "国际食物政策研究所",
+    "publish_date": "2024-03-01",
+    "target_crops": [
+      "叶菜类",
+      "草本植物"
+    ],
+    "technical_domain": "市场分析",
+    "description": "系统分析全球32个城市的垂直农场、屋顶种植等创新案例，包含投资回报率测算模型和不同气候区适应性评估矩阵。",
+    "tags": [
+      "都市农业",
+      "商业模型",
+      "全球趋势"
+    ]
+  },
+  {
+    "resource_id": "RES112",
+    "title": "盐碱地水稻根系微生物组定向改良技术包",
+    "resource_type": "技术方案",
+    "content_type": "试剂盒+视频教程",
+    "source": "中国科学院南京土壤研究所",
+    "publish_date": "2024-02-15",
+    "target_crops": [
+      "水稻"
+    ],
+    "technical_domain": "土壤改良",
+    "description": "包含特异性菌剂配方、接种装置和监测芯片，通过调控根际微生物群落结构，可使盐碱地水稻增产25%以上。",
+    "tags": [
+      "微生物组",
+      "盐碱地",
+      "根系改良"
+    ]
+  },
+  {
+    "resource_id": "RES113",
+    "title": "基于AI的香蕉枯萎病早期诊断与防控决策系统",
+    "resource_type": "智能决策系统",
+    "content_type": "软件应用",
+    "source": "热带作物研究所",
+    "publish_date": "2024-03-15",
+    "target_crops": [
+      "香蕉"
+    ],
+    "technical_domain": "智慧植保",
+    "description": "利用深度学习技术识别香蕉枯萎病早期症状，提供精准防控方案和用药建议",
+    "tags": [
+      "AI诊断",
+      "香蕉病害",
+      "精准防控"
+    ]
+  },
+  {
+    "resource_id": "RES114",
+    "title": "都市农业屋顶农场设计与运营成本效益分析工具",
+    "resource_type": "分析工具",
+    "content_type": "交互式电子表格",
+    "source": "都市农业研究院",
+    "publish_date": "2024-02-28",
+    "target_crops": [
+      "叶菜类",
+      "香草"
+    ],
+    "technical_domain": "都市农业",
+    "description": "帮助用户计算屋顶农场建设投入、运营成本和预期收益的智能化分析工具",
+    "tags": [
+      "成本核算",
+      "屋顶农业",
+      "投资回报"
+    ]
+  },
+  {
+    "resource_id": "RES115",
+    "title": "有机蓝莓土壤微生物组改良技术VR实训系统",
+    "resource_type": "培训系统",
+    "content_type": "虚拟现实应用",
+    "source": "浆果产业技术体系",
+    "publish_date": "2024-04-10",
+    "target_crops": [
+      "蓝莓"
+    ],
+    "technical_domain": "土壤改良",
+    "description": "通过VR技术模拟有机蓝莓园土壤微生物组改良全过程操作流程",
+    "tags": [
+      "VR培训",
+      "微生物组",
+      "有机种植"
+    ]
+  },
+  {
+    "resource_id": "RES116",
+    "title": "2024-2025全球垂直农场投资热点与运营模式分析报告",
+    "resource_type": "市场分析",
+    "content_type": "研究报告",
+    "source": "国际农业投资智库",
+    "publish_date": "2024-01-20",
+    "target_crops": [
+      "生菜",
+      "香草",
+      "微型蔬菜"
+    ],
+    "technical_domain": "市场分析",
+    "description": "全面分析全球垂直农业最新投资趋势、技术发展和商业模式创新",
+    "tags": [
+      "垂直农业",
+      "投资分析",
+      "都市农业"
+    ]
+  },
+  {
+    "resource_id": "RES117",
+    "title": "基于区块链的有机茶叶全供应链溯源系统建设指南",
+    "resource_type": "技术指南",
+    "content_type": "电子手册",
+    "source": "农产品质量安全中心",
+    "publish_date": "2024-03-05",
+    "target_crops": [
+      "茶叶"
+    ],
+    "technical_domain": "农产品质量安全",
+    "description": "详细指导如何构建从茶园到茶杯的区块链溯源系统，确保有机认证可信度",
+    "tags": [
+      "区块链",
+      "溯源系统",
+      "有机认证"
+    ]
+  },
+  {
+    "resource_id": "RES118",
+    "title": "基于AI的茶园土壤健康动态监测与改良决策系统",
+    "resource_type": "智能决策系统",
+    "content_type": "软件平台",
+    "source": "中国农业科学院茶叶研究所",
+    "publish_date": "2024-03-15",
+    "target_crops": [
+      "茶叶"
+    ],
+    "technical_domain": "土壤改良",
+    "description": "整合多源传感器数据与AI算法，实现茶园土壤pH值、有机质含量等关键指标的实时监测与动态改良方案生成",
+    "tags": [
+      "AI监测",
+      "土壤健康",
+      "动态决策",
+      "茶叶种植"
+    ]
+  },
+  {
+    "resource_id": "RES119",
+    "title": "都市微型农场垂直种植成本效益分析工具包",
+    "resource_type": "经济分析工具",
+    "content_type": "电子表格模板",
+    "source": "都市农业创新中心",
+    "publish_date": "2024-02-28",
+    "target_crops": [
+      "叶菜类",
+      "草本植物"
+    ],
+    "technical_domain": "都市农业",
+    "description": "包含设备投资、能耗成本、产量预测等模块的自动化计算工具，支持不同规模垂直农场的投资回报分析",
+    "tags": [
+      "垂直农业",
+      "成本核算",
+      "投资回报",
+      "都市种植"
+    ]
+  },
+  {
+    "resource_id": "RES120",
+    "title": "热带水果采后品质保持区块链溯源系统实施指南",
+    "resource_type": "技术标准",
+    "content_type": "PDF手册",
+    "source": "热带农业科学院",
+    "publish_date": "2024-01-20",
+    "target_crops": [
+      "芒果",
+      "榴莲",
+      "山竹"
+    ],
+    "technical_domain": "农产品质量安全",
+    "description": "详细指导从采收、预冷到冷链运输全过程的温湿度数据上链技术方案与设备选型建议",
+    "tags": [
+      "区块链",
+      "冷链溯源",
+      "品质控制",
+      "热带水果"
+    ]
+  },
+  {
+    "resource_id": "RES121",
+    "title": "设施草莓光质-授粉协同调控VR实训系统",
+    "resource_type": "虚拟实训系统",
+    "content_type": "VR应用",
+    "source": "设施农业工程技术中心",
+    "publish_date": "2024-03-01",
+    "target_crops": [
+      "草莓"
+    ],
+    "technical_domain": "设施农业",
+    "description": "通过虚拟现实技术模拟不同光质配比与熊蜂授粉时段的协同效应，包含20个典型场景的交互式训练",
+    "tags": [
+      "VR培训",
+      "光质调控",
+      "熊蜂授粉",
+      "设施草莓"
+    ]
+  },
+  {
+    "resource_id": "RES122",
+    "title": "2024-2025全球有机中药材市场准入政策解读直播课",
+    "resource_type": "市场分析报告",
+    "content_type": "在线直播课程",
+    "source": "国际有机农业联盟",
+    "publish_date": "2024-02-10",
+    "target_crops": [
+      "人参",
+      "黄芪",
+      "当归"
+    ],
+    "technical_domain": "市场分析",
+    "description": "深度解析欧盟、美国及东南亚市场对有机中药材的最新认证要求与贸易壁垒应对策略",
+    "tags": [
+      "政策解读",
+      "有机认证",
+      "中药材出口",
+      "全球市场"
+    ]
+  },
+  {
+    "resource_id": "RES123",
+    "title": "基于AI的温室番茄病虫害早期诊断与防控决策系统",
+    "resource_type": "智能决策系统",
+    "content_type": "软件应用",
+    "source": "国家农业信息化工程技术研究中心",
+    "publish_date": "2024-03-15",
+    "target_crops": [
+      "番茄"
+    ],
+    "technical_domain": "智慧植保",
+    "description": "该系统利用深度学习技术对温室番茄常见病虫害进行早期识别，并结合环境数据提供精准防控决策建议，可降低农药使用量30%以上。",
+    "tags": [
+      "AI诊断",
+      "精准防控",
+      "温室番茄",
+      "智慧农业"
+    ]
+  },
+  {
+    "resource_id": "RES124",
+    "title": "有机草莓种植碳足迹核算与减排技术手册",
+    "resource_type": "技术手册",
+    "content_type": "电子文档",
+    "source": "中国有机农业产业发展联盟",
+    "publish_date": "2024-02-28",
+    "target_crops": [
+      "草莓"
+    ],
+    "technical_domain": "可持续农业",
+    "description": "详细指导有机草莓生产过程中碳足迹核算方法，并提供10项可操作的减排技术措施，助力实现碳中和目标。",
+    "tags": [
+      "碳核算",
+      "有机种植",
+      "减排技术",
+      "气候智慧型农业"
+    ]
+  },
+  {
+    "resource_id": "RES125",
+    "title": "丘陵地区茶园智能灌溉机器人操作实训课程",
+    "resource_type": "培训课程",
+    "content_type": "VR模拟实训",
+    "source": "农业农村部农机化总站",
+    "publish_date": "2024-04-05",
+    "target_crops": [
+      "茶叶"
+    ],
+    "technical_domain": "智慧灌溉",
+    "description": "通过VR技术模拟丘陵地形下的茶园智能灌溉机器人操作全流程，包含设备调试、路径规划和故障排除等实战内容。",
+    "tags": [
+      "智能农机",
+      "丘陵农业",
+      "VR培训",
+      "节水灌溉"
+    ]
+  },
+  {
+    "resource_id": "RES126",
+    "title": "2024-2025全球功能性农产品消费趋势与市场机会报告",
+    "resource_type": "市场分析报告",
+    "content_type": "PDF文档",
+    "source": "国际农业市场研究院",
+    "publish_date": "2024-01-20",
+    "target_crops": [
+      "多种作物"
+    ],
+    "technical_domain": "市场分析",
+    "description": "深入分析全球功能性农产品（如富硒、高花青素等）消费趋势，识别出5个高增长细分市场和3种创新商业模式。",
+    "tags": [
+      "功能农业",
+      "消费趋势",
+      "市场预测",
+      "高附加值"
+    ]
+  },
+  {
+    "resource_id": "RES127",
+    "title": "基于区块链的鲜食葡萄全程冷链质量追溯系统",
+    "resource_type": "技术解决方案",
+    "content_type": "系统建设指南",
+    "source": "农产品质量安全检测中心",
+    "publish_date": "2024-03-01",
+    "target_crops": [
+      "葡萄"
+    ],
+    "technical_domain": "农产品质量安全",
+    "description": "提供从采收、预冷、运输到零售终端的全程温湿度区块链追溯系统建设方案，确保鲜食葡萄品质可追溯率达100%。",
+    "tags": [
+      "区块链",
+      "冷链物流",
+      "质量追溯",
+      "采后技术"
+    ]
+  },
+  {
+    "resource_id": "RES128",
+    "title": "基于AI的温室黄瓜生长异常实时诊断与调控系统",
+    "resource_type": "智能决策系统",
+    "content_type": "软件平台",
+    "source": "中国农业科学院设施农业研究所",
+    "publish_date": "2024-03-15",
+    "target_crops": [
+      "黄瓜"
+    ],
+    "technical_domain": "设施农业",
+    "description": "集成计算机视觉与深度学习技术，实时监测温室黄瓜生长状态，自动识别异常症状并提供精准调控方案",
+    "tags": [
+      "人工智能",
+      "生长诊断",
+      "实时监测",
+      "设施蔬菜"
+    ]
+  },
+  {
+    "resource_id": "RES129",
+    "title": "有机茶园土壤微生物多样性提升技术实操视频课程",
+    "resource_type": "培训课程",
+    "content_type": "视频教程",
+    "source": "浙江大学农业与生物技术学院",
+    "publish_date": "2024-02-28",
+    "target_crops": [
+      "茶叶"
+    ],
+    "technical_domain": "有机农业",
+    "description": "系统讲解有机茶园土壤微生物群落调控技术，包含菌剂选择、施用方法和效果评估等全流程实操演示",
+    "tags": [
+      "微生物菌剂",
+      "土壤健康",
+      "有机种植",
+      "视频教学"
+    ]
+  },
+  {
+    "resource_id": "RES130",
+    "title": "2024-2025全球智慧畜牧技术投资热点分析报告",
+    "resource_type": "行业报告",
+    "content_type": "PDF文档",
+    "source": "国际农业咨询机构AgriTech Analytics",
+    "publish_date": "2024-01-10",
+    "target_crops": [],
+    "technical_domain": "智慧畜牧",
+    "description": "全面分析全球智慧畜牧领域的技术发展趋势、投资热点和市场机会，覆盖精准饲喂、健康监测等关键技术",
+    "tags": [
+      "市场分析",
+      "投资趋势",
+      "畜牧科技",
+      "全球视野"
+    ]
+  },
+  {
+    "resource_id": "RES131",
+    "title": "丘陵地区柑橘园无人机变量施肥决策支持工具",
+    "resource_type": "数字工具",
+    "content_type": "移动应用",
+    "source": "华中农业大学智慧农业研究院",
+    "publish_date": "2024-03-01",
+    "target_crops": [
+      "柑橘"
+    ],
+    "technical_domain": "精准农业",
+    "description": "基于地形数据和树势分析的无人机变量施肥决策APP，实现丘陵果园精准养分管理",
+    "tags": [
+      "无人机应用",
+      "变量施肥",
+      "地形适应",
+      "移动终端"
+    ]
+  },
+  {
+    "resource_id": "RES132",
+    "title": "农产品区域品牌元宇宙展厅建设指南",
+    "resource_type": "技术手册",
+    "content_type": "电子书",
+    "source": "中国农业大学品牌农业研究中心",
+    "publish_date": "2024-02-15",
+    "target_crops": [],
+    "technical_domain": "农产品品牌营销",
+    "description": "详细指导如何利用元宇宙技术构建沉浸式农产品品牌展示空间，包含场景设计、交互功能和运营策略",
+    "tags": [
+      "虚拟现实",
+      "品牌展示",
+      "数字营销",
+      "元宇宙应用"
+    ]
+  },
+  {
+    "resource_id": "RES133",
+    "title": "基于AI的温室番茄病虫害早期诊断与防控决策系统",
+    "resource_type": "智能决策工具",
+    "content_type": "软件系统",
+    "source": "中国农业科学院智慧农业研究所",
+    "publish_date": "2024-03-15",
+    "target_crops": [
+      "番茄"
+    ],
+    "technical_domain": "智慧植保",
+    "description": "利用深度学习技术实时监测温室番茄病虫害发生情况，提供精准防控决策建议，降低农药使用量30%以上。",
+    "tags": [
+      "AI诊断",
+      "精准防控",
+      "温室番茄",
+      "智慧农业"
+    ]
+  },
+  {
+    "resource_id": "RES134",
+    "title": "丘陵地区油茶林水土保持与养分循环技术图谱",
+    "resource_type": "技术指南",
+    "content_type": "可视化图谱",
+    "source": "国家林业和草原局",
+    "publish_date": "2024-02-28",
+    "target_crops": [
+      "油茶"
+    ],
+    "technical_domain": "生态种植",
+    "description": "系统展示丘陵地区油茶林水土保持技术体系与养分循环模式，包含10种典型生态种植技术方案。",
+    "tags": [
+      "水土保持",
+      "生态种植",
+      "油茶",
+      "丘陵农业"
+    ]
+  },
+  {
+    "resource_id": "RES135",
+    "title": "有机猕猴桃园生物多样性评估与生态服务价值核算工具包",
+    "resource_type": "分析工具",
+    "content_type": "软件工具包",
+    "source": "国际有机农业研究所",
+    "publish_date": "2024-01-20",
+    "target_crops": [
+      "猕猴桃"
+    ],
+    "technical_domain": "可持续农业",
+    "description": "提供从生物多样性调查到生态服务价值核算的全套工具，支持有机认证和生态补偿申请。",
+    "tags": [
+      "生物多样性",
+      "生态服务",
+      "有机农业",
+      "猕猴桃"
+    ]
+  },
+  {
+    "resource_id": "RES136",
+    "title": "2024-2025全球都市农业创新模式白皮书",
+    "resource_type": "市场报告",
+    "content_type": "研究报告",
+    "source": "国际都市农业协会",
+    "publish_date": "2024-03-01",
+    "target_crops": [
+      "多种"
+    ],
+    "technical_domain": "都市农业",
+    "description": "全面分析全球30个城市的创新农业模式，包含屋顶农场、垂直种植等10种典型商业案例。",
+    "tags": [
+      "都市农业",
+      "创新模式",
+      "全球趋势",
+      "白皮书"
+    ]
+  },
+  {
+    "resource_id": "RES137",
+    "title": "基于区块链的鲜食葡萄全程冷链质量追溯系统",
+    "resource_type": "溯源系统",
+    "content_type": "软件系统",
+    "source": "中国农产品质量安全中心",
+    "publish_date": "2024-02-10",
+    "target_crops": [
+      "葡萄"
+    ],
+    "technical_domain": "农产品质量安全",
+    "description": "实现从种植到零售的全程温度监控与质量追溯，确保鲜食葡萄品质，提升品牌溢价20%以上。",
+    "tags": [
+      "区块链",
+      "冷链追溯",
+      "葡萄",
+      "质量安全"
+    ]
+  },
+  {
+    "resource_id": "RES138",
+    "title": "基于AI的温室甜瓜生长异常实时诊断与调控系统",
+    "resource_type": "智能决策系统",
+    "content_type": "软件工具",
+    "source": "国家农业智能装备工程技术研究中心",
+    "publish_date": "2024-03-15",
+    "target_crops": [
+      "甜瓜"
+    ],
+    "technical_domain": "设施农业",
+    "description": "利用深度学习技术实时监测温室甜瓜生长状态，自动识别生长异常并提供精准调控方案",
+    "tags": [
+      "AI诊断",
+      "生长调控",
+      "智能温室"
+    ]
+  },
+  {
+    "resource_id": "RES139",
+    "title": "有机蓝莓园碳足迹核算与碳交易实操指南",
+    "resource_type": "技术手册",
+    "content_type": "电子文档",
+    "source": "中国有机农业产业发展联盟",
+    "publish_date": "2024-02-28",
+    "target_crops": [
+      "蓝莓"
+    ],
+    "technical_domain": "可持续农业",
+    "description": "详细指导有机蓝莓种植过程中的碳足迹核算方法及参与碳交易市场的具体操作流程",
+    "tags": [
+      "碳中和",
+      "碳交易",
+      "有机种植"
+    ]
+  },
+  {
+    "resource_id": "RES140",
+    "title": "丘陵地区茶园智能灌溉机器人操作实训课程",
+    "resource_type": "培训课程",
+    "content_type": "视频教程",
+    "source": "农业农村部农机化司",
+    "publish_date": "2024-01-20",
+    "target_crops": [
+      "茶叶"
+    ],
+    "technical_domain": "智慧灌溉",
+    "description": "针对丘陵地形特点开发的茶园智能灌溉机器人操作与维护全套实训课程",
+    "tags": [
+      "丘陵农业",
+      "智能农机",
+      "精准灌溉"
+    ]
+  },
+  {
+    "resource_id": "RES141",
+    "title": "2024-2025全球功能性农产品消费趋势与市场机会报告",
+    "resource_type": "市场分析报告",
+    "content_type": "研究报告",
+    "source": "国际农业市场研究院",
+    "publish_date": "2024-03-01",
+    "target_crops": [
+      "多种作物"
+    ],
+    "technical_domain": "市场分析",
+    "description": "全面分析全球功能性农产品消费趋势，识别高增长细分市场及投资机会",
+    "tags": [
+      "消费趋势",
+      "市场预测",
+      "功能性食品"
+    ]
+  },
+  {
+    "resource_id": "RES142",
+    "title": "基于区块链的有机蔬菜全供应链质量追溯系统建设指南",
+    "resource_type": "技术标准",
+    "content_type": "电子文档",
+    "source": "国家农产品质量安全中心",
+    "publish_date": "2024-02-10",
+    "target_crops": [
+      "叶菜类",
+      "果菜类"
+    ],
+    "technical_domain": "农产品质量安全",
+    "description": "详细指导如何利用区块链技术构建从田间到餐桌的有机蔬菜全程质量追溯系统",
+    "tags": [
+      "区块链",
+      "质量追溯",
+      "有机蔬菜"
+    ]
+  },
+  {
+    "resource_id": "RES143",
+    "title": "基于AI的设施番茄营养诊断与精准补光决策系统",
+    "resource_type": "智能决策工具",
+    "content_type": "软件系统",
+    "source": "中国农业科学院设施农业研究所",
+    "publish_date": "2024-03-15",
+    "target_crops": [
+      "番茄"
+    ],
+    "technical_domain": "设施农业",
+    "description": "集成多光谱成像与深度学习算法，实时诊断番茄营养状态并生成精准补光方案，可提升设施番茄产量15%以上",
+    "tags": [
+      "人工智能",
+      "精准补光",
+      "设施番茄",
+      "营养诊断"
+    ]
+  },
+  {
+    "resource_id": "RES144",
+    "title": "丘陵茶园水土保持与有机种植技术VR实训系统",
+    "resource_type": "虚拟实训平台",
+    "content_type": "VR应用",
+    "source": "浙江大学农业信息技术研究中心",
+    "publish_date": "2024-02-28",
+    "target_crops": [
+      "茶叶"
+    ],
+    "technical_domain": "生态种植",
+    "description": "通过虚拟现实技术模拟丘陵茶园水土流失场景，培训等高种植、覆盖作物等有机茶园水土保持技术",
+    "tags": [
+      "虚拟现实",
+      "水土保持",
+      "有机茶园",
+      "丘陵农业"
+    ]
+  },
+  {
+    "resource_id": "RES145",
+    "title": "2024-2025全球垂直农场LED光照系统市场分析报告",
+    "resource_type": "市场研究报告",
+    "content_type": "PDF报告",
+    "source": "国际垂直农业协会",
+    "publish_date": "2024-01-10",
+    "target_crops": [
+      "叶菜类",
+      "草本植物"
+    ],
+    "technical_domain": "市场分析",
+    "description": "全面分析全球垂直农场LED光照系统技术路线、主要厂商市场份额及未来三年增长预测",
+    "tags": [
+      "垂直农业",
+      "LED光照",
+      "市场趋势",
+      "都市农业"
+    ]
+  },
+  {
+    "resource_id": "RES146",
+    "title": "有机草莓土壤微生物组改良技术实操视频课程",
+    "resource_type": "技术培训课程",
+    "content_type": "视频课程",
+    "source": "南京农业大学有机农业研究所",
+    "publish_date": "2024-03-01",
+    "target_crops": [
+      "草莓"
+    ],
+    "technical_domain": "有机农业",
+    "description": "系统讲解有机草莓园土壤微生物组采样、检测及功能性微生物菌剂应用的全流程操作技术",
+    "tags": [
+      "微生物组",
+      "土壤健康",
+      "有机种植",
+      "草莓栽培"
+    ]
+  },
+  {
+    "resource_id": "RES147",
+    "title": "基于区块链的鲜切花冷链物流质量追溯系统建设指南",
+    "resource_type": "技术实施指南",
+    "content_type": "电子手册",
+    "source": "云南省农业科学院花卉研究所",
+    "publish_date": "2024-02-15",
+    "target_crops": [
+      "玫瑰",
+      "百合",
+      "康乃馨"
+    ],
+    "technical_domain": "农产品质量安全",
+    "description": "详细指导鲜花采后处理、冷链运输各环节的区块链数据采集节点部署与追溯系统集成方案",
+    "tags": [
+      "区块链",
+      "冷链物流",
+      "质量追溯",
+      "花卉产业"
+    ]
+  },
+  {
+    "resource_id": "RES148",
+    "title": "基于AI的设施草莓生长异常实时诊断与调控系统",
+    "resource_type": "智能决策系统",
+    "content_type": "软件平台",
+    "source": "国家数字农业创新中心",
+    "publish_date": "2024-03-15",
+    "target_crops": [
+      "草莓"
+    ],
+    "technical_domain": "设施农业",
+    "description": "整合多光谱成像与深度学习技术，实现对设施草莓生长异常的实时监测与智能调控决策支持",
+    "tags": [
+      "AI诊断",
+      "生长调控",
+      "设施草莓"
+    ]
+  },
+  {
+    "resource_id": "RES149",
+    "title": "丘陵茶园水土保持与有机种植技术VR实训系统",
+    "resource_type": "虚拟实训系统",
+    "content_type": "交互式应用",
+    "source": "中国农业科学院茶叶研究所",
+    "publish_date": "2024-02-28",
+    "target_crops": [
+      "茶叶"
+    ],
+    "technical_domain": "生态种植",
+    "description": "通过虚拟现实技术模拟丘陵茶园水土流失场景，提供有机种植技术沉浸式培训体验",
+    "tags": [
+      "VR培训",
+      "水土保持",
+      "有机茶"
+    ]
+  },
+  {
+    "resource_id": "RES150",
+    "title": "2024-2025全球垂直农场LED光照系统市场分析报告",
+    "resource_type": "市场分析报告",
+    "content_type": "PDF文档",
+    "source": "国际智慧农业智库",
+    "publish_date": "2024-01-10",
+    "target_crops": [
+      "叶菜类",
+      "草本植物"
+    ],
+    "technical_domain": "市场分析",
+    "description": "全面分析全球垂直农场LED光照技术发展趋势、主要厂商竞争格局及投资回报预测",
+    "tags": [
+      "垂直农业",
+      "LED光照",
+      "市场预测"
+    ]
+  },
+  {
+    "resource_id": "RES151",
+    "title": "基于区块链的鲜切花冷链物流质量追溯系统建设指南",
+    "resource_type": "技术实施指南",
+    "content_type": "电子手册",
+    "source": "农产品质量安全中心",
+    "publish_date": "2024-03-01",
+    "target_crops": [
+      "玫瑰",
+      "百合",
+      "康乃馨"
+    ],
+    "technical_domain": "农产品质量安全",
+    "description": "详细指导如何构建覆盖鲜切花采后处理、冷链运输全链条的区块链溯源系统",
+    "tags": [
+      "区块链",
+      "鲜切花",
+      "冷链追溯"
+    ]
+  },
+  {
+    "resource_id": "RES152",
+    "title": "有机蓝莓园碳足迹核算与碳交易实操指南",
+    "resource_type": "技术手册",
+    "content_type": "图文手册",
+    "source": "中国有机农业联盟",
+    "publish_date": "2024-02-15",
+    "target_crops": [
+      "蓝莓"
+    ],
+    "technical_domain": "可持续农业",
+    "description": "提供有机蓝莓种植全生命周期碳足迹计算方法及碳交易市场对接实务操作指引",
+    "tags": [
+      "碳核算",
+      "碳交易",
+      "有机蓝莓"
+    ]
+  },
+  {
+    "resource_id": "RES153",
+    "title": "基于AI的温室番茄病虫害早期诊断与防控决策系统",
+    "resource_type": "智能决策系统",
+    "content_type": "软件工具",
+    "source": "农业科技研究院",
+    "publish_date": "2024-03-15",
+    "target_crops": [
+      "番茄"
+    ],
+    "technical_domain": "智慧植保",
+    "description": "该系统利用人工智能技术，实时监测温室番茄的生长状况，早期识别病虫害，并提供精准防控决策支持。",
+    "tags": [
+      "AI",
+      "温室番茄",
+      "病虫害诊断",
+      "防控决策"
+    ]
+  },
+  {
+    "resource_id": "RES154",
+    "title": "有机蓝莓园碳足迹核算与碳交易实操指南",
+    "resource_type": "技术手册",
+    "content_type": "电子书",
+    "source": "可持续农业协会",
+    "publish_date": "2024-04-20",
+    "target_crops": [
+      "蓝莓"
+    ],
+    "technical_domain": "可持续农业",
+    "description": "本指南详细介绍了有机蓝莓园碳足迹的核算方法，以及如何参与碳交易市场的实操步骤。",
+    "tags": [
+      "有机农业",
+      "碳足迹",
+      "碳交易",
+      "蓝莓"
+    ]
+  },
+  {
+    "resource_id": "RES155",
+    "title": "丘陵地区茶园智能灌溉机器人操作实训课程",
+    "resource_type": "培训课程",
+    "content_type": "在线视频",
+    "source": "智慧农业培训中心",
+    "publish_date": "2024-05-10",
+    "target_crops": [
+      "茶叶"
+    ],
+    "technical_domain": "智慧灌溉",
+    "description": "本课程通过实际操作演示，教授如何高效使用智能灌溉机器人在丘陵茶园进行精准灌溉。",
+    "tags": [
+      "智能灌溉",
+      "茶园",
+      "丘陵地区",
+      "机器人"
+    ]
+  },
+  {
+    "resource_id": "RES156",
+    "title": "基于区块链的鲜切花冷链物流质量追溯系统建设指南",
+    "resource_type": "技术指南",
+    "content_type": "PDF文档",
+    "source": "农产品质量安全中心",
+    "publish_date": "2024-06-25",
+    "target_crops": [
+      "鲜切花"
+    ],
+    "technical_domain": "农产品质量安全",
+    "description": "本指南详细介绍了如何利用区块链技术构建鲜切花冷链物流的质量追溯系统，确保产品质量和安全。",
+    "tags": [
+      "区块链",
+      "鲜切花",
+      "冷链物流",
+      "质量追溯"
+    ]
+  },
+  {
+    "resource_id": "RES157",
+    "title": "2024-2025全球垂直农场LED光照系统市场分析报告",
+    "resource_type": "市场分析报告",
+    "content_type": "PDF文档",
+    "source": "国际农业市场研究机构",
+    "publish_date": "2024-07-30",
+    "target_crops": [
+      "多种作物"
+    ],
+    "technical_domain": "市场分析",
+    "description": "本报告分析了全球垂直农场LED光照系统的市场现状、发展趋势及投资机会，为相关企业提供决策参考。",
+    "tags": [
+      "垂直农场",
+      "LED光照",
+      "市场分析",
+      "全球趋势"
+    ]
+  },
+  {
+    "resource_id": "RES158",
+    "title": "基于AI的温室番茄病虫害早期诊断与防控决策系统",
+    "resource_type": "智能决策系统",
+    "content_type": "软件工具",
+    "source": "农业科技研究院",
+    "publish_date": "2024-03-15",
+    "target_crops": [
+      "番茄"
+    ],
+    "technical_domain": "智慧植保",
+    "description": "利用人工智能技术实时监测温室番茄病虫害，提供早期诊断和精准防控决策支持。",
+    "tags": [
+      "AI",
+      "温室种植",
+      "病虫害防治",
+      "精准农业"
+    ]
+  },
+  {
+    "resource_id": "RES159",
+    "title": "有机蓝莓园碳足迹核算与碳交易实操指南",
+    "resource_type": "技术手册",
+    "content_type": "电子书",
+    "source": "可持续农业协会",
+    "publish_date": "2024-04-20",
+    "target_crops": [
+      "蓝莓"
+    ],
+    "technical_domain": "可持续农业",
+    "description": "详细介绍有机蓝莓园碳足迹核算方法及参与碳交易市场的实操步骤。",
+    "tags": [
+      "碳中和",
+      "碳交易",
+      "有机农业",
+      "蓝莓种植"
+    ]
+  },
+  {
+    "resource_id": "RES160",
+    "title": "丘陵地区茶园智能灌溉机器人操作实训课程",
+    "resource_type": "培训课程",
+    "content_type": "在线视频",
+    "source": "智慧农业培训中心",
+    "publish_date": "2024-05-10",
+    "target_crops": [
+      "茶叶"
+    ],
+    "technical_domain": "智慧灌溉",
+    "description": "针对丘陵地区茶园地形特点，培训智能灌溉机器人的操作与维护技能。",
+    "tags": [
+      "智能机器人",
+      "丘陵农业",
+      "节水灌溉",
+      "茶叶种植"
+    ]
+  },
+  {
+    "resource_id": "RES161",
+    "title": "基于区块链的鲜切花冷链物流质量追溯系统建设指南",
+    "resource_type": "技术指南",
+    "content_type": "PDF文档",
+    "source": "农产品质量安全中心",
+    "publish_date": "2024-06-05",
+    "target_crops": [
+      "鲜切花"
+    ],
+    "technical_domain": "农产品质量安全",
+    "description": "指导企业构建基于区块链的鲜切花冷链物流全程质量追溯系统。",
+    "tags": [
+      "区块链",
+      "冷链物流",
+      "质量追溯",
+      "花卉产业"
+    ]
+  },
+  {
+    "resource_id": "RES162",
+    "title": "2024-2025全球垂直农场LED光照系统市场分析报告",
+    "resource_type": "市场报告",
+    "content_type": "研究报告",
+    "source": "国际农业市场研究所",
+    "publish_date": "2024-07-01",
+    "target_crops": [
+      "多种作物"
+    ],
+    "technical_domain": "市场分析",
+    "description": "深入分析全球垂直农场LED光照系统市场现状、竞争格局及未来发展趋势。",
+    "tags": [
+      "垂直农业",
+      "LED光照",
+      "市场调研",
+      "农业科技"
+    ]
+  },
+  {
+    "resource_id": "RES163",
+    "title": "基于AI的温室番茄病虫害早期诊断与防控决策系统",
+    "resource_type": "智能决策系统",
+    "content_type": "软件应用",
+    "source": "农业科技研究院",
+    "publish_date": "2024-03-15",
+    "target_crops": [
+      "番茄"
+    ],
+    "technical_domain": "智慧植保",
+    "description": "利用人工智能技术实时监测温室番茄病虫害，提供早期诊断和精准防控决策支持。",
+    "tags": [
+      "AI",
+      "温室种植",
+      "病虫害防治",
+      "精准农业"
+    ]
+  },
+  {
+    "resource_id": "RES164",
+    "title": "有机蓝莓园碳足迹核算与碳交易实操指南",
+    "resource_type": "技术手册",
+    "content_type": "电子书",
+    "source": "可持续农业协会",
+    "publish_date": "2024-04-20",
+    "target_crops": [
+      "蓝莓"
+    ],
+    "technical_domain": "可持续农业",
+    "description": "详细介绍有机蓝莓种植过程中的碳足迹核算方法及参与碳交易市场的实操步骤。",
+    "tags": [
+      "碳中和",
+      "有机农业",
+      "碳交易",
+      "环境友好"
+    ]
+  },
+  {
+    "resource_id": "RES165",
+    "title": "丘陵地区茶园智能灌溉机器人操作实训课程",
+    "resource_type": "培训课程",
+    "content_type": "在线视频",
+    "source": "智慧农业培训中心",
+    "publish_date": "2024-05-10",
+    "target_crops": [
+      "茶叶"
+    ],
+    "technical_domain": "智慧灌溉",
+    "description": "针对丘陵地形设计的茶园智能灌溉机器人操作与维护的全面培训课程。",
+    "tags": [
+      "机器人",
+      "丘陵农业",
+      "节水灌溉",
+      "智能设备"
+    ]
+  },
+  {
+    "resource_id": "RES166",
+    "title": "基于区块链的鲜切花冷链物流质量追溯系统建设指南",
+    "resource_type": "技术指南",
+    "content_type": "PDF文档",
+    "source": "农产品质量安全中心",
+    "publish_date": "2024-06-05",
+    "target_crops": [
+      "鲜切花"
+    ],
+    "technical_domain": "农产品质量安全",
+    "description": "指导如何利用区块链技术构建鲜切花冷链物流全程质量追溯系统，确保产品品质。",
+    "tags": [
+      "区块链",
+      "冷链物流",
+      "质量追溯",
+      "花卉产业"
+    ]
+  },
+  {
+    "resource_id": "RES167",
+    "title": "2024-2025全球垂直农场LED光照系统市场分析报告",
+    "resource_type": "市场报告",
+    "content_type": "研究报告",
+    "source": "国际农业市场研究所",
+    "publish_date": "2024-07-15",
+    "target_crops": [
+      "多种作物"
+    ],
+    "technical_domain": "市场分析",
+    "description": "深入分析全球垂直农场LED光照系统的市场现状、技术趋势及未来投资机会。",
+    "tags": [
+      "垂直农业",
+      "LED光照",
+      "市场趋势",
+      "投资分析"
+    ]
+  },
+  {
+    "resource_id": "RES168",
+    "title": "基于AI的温室番茄病虫害早期诊断与防控决策系统",
+    "resource_type": "智能决策系统",
+    "content_type": "软件工具",
+    "source": "中国农业科学院智慧农业研究中心",
+    "publish_date": "2024-03-15",
+    "target_crops": [
+      "番茄"
+    ],
+    "technical_domain": "智慧植保",
+    "description": "该系统利用深度学习技术对温室番茄常见病虫害进行图像识别和早期预警，结合环境传感器数据提供精准防控决策建议，可降低农药使用量30%以上。",
+    "tags": [
+      "AI诊断",
+      "精准防控",
+      "温室番茄",
+      "病虫害预警"
+    ]
+  },
+  {
+    "resource_id": "RES169",
+    "title": "丘陵茶园水土保持与有机种植技术VR实训系统",
+    "resource_type": "虚拟实训系统",
+    "content_type": "VR应用",
+    "source": "农业农村部茶叶技术推广中心",
+    "publish_date": "2024-02-28",
+    "target_crops": [
+      "茶叶"
+    ],
+    "technical_domain": "生态种植",
+    "description": "通过虚拟现实技术模拟丘陵茶园水土流失场景，提供梯田建设、覆盖作物种植等水土保持技术的沉浸式培训，适用于有机茶园管理人才培养。",
+    "tags": [
+      "VR培训",
+      "水土保持",
+      "有机茶园",
+      "丘陵地区"
+    ]
+  },
+  {
+    "resource_id": "RES170",
+    "title": "2024-2025全球垂直农场LED光照系统市场分析报告",
+    "resource_type": "市场分析报告",
+    "content_type": "PDF文档",
+    "source": "国际农业科技咨询公司AgriTech Analytics",
+    "publish_date": "2024-01-10",
+    "target_crops": [
+      "叶菜类",
+      "草本植物"
+    ],
+    "technical_domain": "市场分析",
+    "description": "全面分析全球垂直农场LED光照系统市场规模、技术趋势、主要供应商竞争格局及投资回报预测，涵盖北美、欧洲和亚洲主要市场。",
+    "tags": [
+      "垂直农业",
+      "LED光照",
+      "市场趋势",
+      "投资分析"
+    ]
+  },
+  {
+    "resource_id": "RES171",
+    "title": "基于区块链的鲜切花冷链物流质量追溯系统建设指南",
+    "resource_type": "技术实施指南",
+    "content_type": "电子手册",
+    "source": "国家农产品质量安全中心",
+    "publish_date": "2024-03-01",
+    "target_crops": [
+      "玫瑰",
+      "百合",
+      "康乃馨"
+    ],
+    "technical_domain": "农产品质量安全",
+    "description": "详细指导如何构建基于区块链技术的鲜切花从采收、预冷、运输到零售的全链条温湿度监控与质量追溯系统，确保花卉品质可验证。",
+    "tags": [
+      "区块链",
+      "冷链物流",
+      "质量追溯",
+      "鲜切花"
+    ]
+  },
+  {
+    "resource_id": "RES172",
+    "title": "有机蓝莓园碳足迹核算与碳交易实操指南",
+    "resource_type": "操作手册",
+    "content_type": "图文手册",
+    "source": "中国有机农产品协会",
+    "publish_date": "2024-02-15",
+    "target_crops": [
+      "蓝莓"
+    ],
+    "technical_domain": "可持续农业",
+    "description": "提供有机蓝莓种植全过程碳排放测算方法学，包括土壤固碳量评估、减排措施和碳交易市场对接流程，助力果园实现碳中和。",
+    "tags": [
+      "碳足迹",
+      "碳交易",
+      "有机蓝莓",
+      "可持续发展"
+    ]
+  },
+  {
+    "resource_id": "RES173",
+    "title": "智慧温室番茄生长异常实时诊断与调控系统",
+    "resource_type": "决策支持系统",
+    "content_type": "软件工具",
+    "source": "国家农业信息化工程技术研究中心",
+    "publish_date": "2024-03-15",
+    "target_crops": [
+      "番茄"
+    ],
+    "technical_domain": "设施农业",
+    "description": "基于AI技术的温室番茄生长异常实时诊断与智能调控系统，可自动识别生长异常并给出调控建议。",
+    "tags": [
+      "智慧农业",
+      "AI诊断",
+      "生长调控"
+    ]
+  },
+  {
+    "resource_id": "RES174",
+    "title": "有机茶园土壤微生物多样性提升技术实操视频课程",
+    "resource_type": "培训课程",
+    "content_type": "视频教程",
+    "source": "中国农业科学院茶叶研究所",
+    "publish_date": "2024-02-20",
+    "target_crops": [
+      "茶叶"
+    ],
+    "technical_domain": "有机农业",
+    "description": "详细讲解有机茶园土壤微生物多样性提升技术的实操方法，包括采样、检测和改良措施。",
+    "tags": [
+      "土壤健康",
+      "微生物多样性",
+      "有机种植"
+    ]
+  },
+  {
+    "resource_id": "RES175",
+    "title": "2024-2025全球垂直农场LED光照系统市场分析报告",
+    "resource_type": "市场分析报告",
+    "content_type": "PDF文档",
+    "source": "国际农业市场研究机构",
+    "publish_date": "2024-01-10",
+    "target_crops": [
+      "多种作物"
+    ],
+    "technical_domain": "市场分析",
+    "description": "全面分析全球垂直农场LED光照系统的市场现状、技术趋势和投资机会。",
+    "tags": [
+      "垂直农业",
+      "LED光照",
+      "市场趋势"
+    ]
+  },
+  {
+    "resource_id": "RES176",
+    "title": "基于区块链的鲜切花冷链物流质量追溯系统建设指南",
+    "resource_type": "技术指南",
+    "content_type": "电子书",
+    "source": "农产品质量安全中心",
+    "publish_date": "2024-03-01",
+    "target_crops": [
+      "鲜切花"
+    ],
+    "technical_domain": "农产品质量安全",
+    "description": "指导如何利用区块链技术构建鲜切花冷链物流全程质量追溯系统，确保产品品质。",
+    "tags": [
+      "区块链",
+      "冷链物流",
+      "质量追溯"
+    ]
+  },
+  {
+    "resource_id": "RES177",
+    "title": "丘陵地区茶园智能灌溉机器人操作实训课程",
+    "resource_type": "培训课程",
+    "content_type": "VR实训系统",
+    "source": "农业机械化研究所",
+    "publish_date": "2024-02-05",
+    "target_crops": [
+      "茶叶"
+    ],
+    "technical_domain": "智慧灌溉",
+    "description": "通过VR技术模拟丘陵地区茶园智能灌溉机器人的操作场景，提供沉浸式实训体验。",
+    "tags": [
+      "智能灌溉",
+      "机器人操作",
+      "VR实训"
+    ]
+  },
+  {
+    "resource_id": "RES178",
+    "title": "基于AI的设施草莓生长异常实时诊断与调控系统",
+    "resource_type": "智能决策系统",
+    "content_type": "软件工具",
+    "source": "国家农业信息化工程技术研究中心",
+    "publish_date": "2024-03-15",
+    "target_crops": [
+      "草莓"
+    ],
+    "technical_domain": "设施农业",
+    "description": "该系统利用深度学习技术实时监测草莓生长状态，自动识别异常情况并提供精准调控方案，实现设施草莓智能化管理。",
+    "tags": [
+      "AI诊断",
+      "生长调控",
+      "设施草莓",
+      "实时监测"
+    ]
+  },
+  {
+    "resource_id": "RES179",
+    "title": "有机茶园碳足迹核算与低碳认证全流程培训课程",
+    "resource_type": "培训课程",
+    "content_type": "在线视频课程",
+    "source": "中国有机农业产业发展联盟",
+    "publish_date": "2024-02-20",
+    "target_crops": [
+      "茶叶"
+    ],
+    "technical_domain": "可持续农业",
+    "description": "系统讲解有机茶园碳足迹核算方法、减排技术措施以及低碳认证申请流程，包含实操案例演示。",
+    "tags": [
+      "碳足迹",
+      "有机茶",
+      "低碳认证",
+      "可持续种植"
+    ]
+  },
+  {
+    "resource_id": "RES180",
+    "title": "丘陵地区柑橘园无人机变量施肥决策支持工具",
+    "resource_type": "决策支持工具",
+    "content_type": "移动应用",
+    "source": "农业农村部农机化研究所",
+    "publish_date": "2024-01-10",
+    "target_crops": [
+      "柑橘"
+    ],
+    "technical_domain": "精准农业",
+    "description": "基于GIS和遥感技术的移动应用，为丘陵地区柑橘园提供无人机变量施肥方案生成与作业规划功能。",
+    "tags": [
+      "变量施肥",
+      "无人机",
+      "丘陵果园",
+      "精准农业"
+    ]
+  },
+  {
+    "resource_id": "RES181",
+    "title": "2024-2025全球功能性农产品消费趋势与市场机会报告",
+    "resource_type": "市场分析报告",
+    "content_type": "PDF报告",
+    "source": "国际农业市场研究院",
+    "publish_date": "2024-03-01",
+    "target_crops": [
+      "多种作物"
+    ],
+    "technical_domain": "市场分析",
+    "description": "全面分析全球功能性农产品市场现状，预测未来两年消费趋势，识别高增长品类和区域市场机会。",
+    "tags": [
+      "市场趋势",
+      "功能性农产品",
+      "消费洞察",
+      "全球市场"
+    ]
+  },
+  {
+    "resource_id": "RES182",
+    "title": "盐碱地棉花根系微生物组改良技术VR实训系统",
+    "resource_type": "培训系统",
+    "content_type": "虚拟现实应用",
+    "source": "中国农业科学院土壤研究所",
+    "publish_date": "2024-02-05",
+    "target_crops": [
+      "棉花"
+    ],
+    "technical_domain": "土壤改良",
+    "description": "通过VR技术模拟盐碱地棉花根系微生物组改良全过程，提供沉浸式操作训练和效果评估功能。",
+    "tags": [
+      "盐碱地",
+      "微生物组",
+      "VR培训",
+      "棉花种植"
+    ]
+  },
+  {
+    "resource_id": "RES183",
+    "title": "基于AI的设施黄瓜生长异常实时诊断与调控系统",
+    "resource_type": "智能决策系统",
+    "content_type": "软件系统",
+    "source": "国家农业智能装备工程技术研究中心",
+    "publish_date": "2024-03-15",
+    "target_crops": [
+      "黄瓜"
+    ],
+    "technical_domain": "设施农业",
+    "description": "该系统利用深度学习技术实时监测设施黄瓜生长状态，自动识别生长异常并生成调控方案，实现黄瓜生产的精准化管理。",
+    "tags": [
+      "人工智能",
+      "设施蔬菜",
+      "生长调控",
+      "实时诊断"
+    ]
+  },
+  {
+    "resource_id": "RES184",
+    "title": "有机茶园碳足迹核算与低碳认证全流程培训课程",
+    "resource_type": "培训课程",
+    "content_type": "在线视频课程",
+    "source": "中国有机农业产业发展联盟",
+    "publish_date": "2024-02-28",
+    "target_crops": [
+      "茶叶"
+    ],
+    "technical_domain": "可持续农业",
+    "description": "系统讲解有机茶园碳足迹核算方法、减排技术措施及低碳认证全流程操作，包含实际案例分析和实操演示。",
+    "tags": [
+      "碳中和",
+      "有机认证",
+      "碳核算",
+      "减排技术"
+    ]
+  },
+  {
+    "resource_id": "RES185",
+    "title": "丘陵地区柑橘园无人机变量施肥决策支持工具",
+    "resource_type": "决策支持工具",
+    "content_type": "移动应用",
+    "source": "农业农村部农机化研究所",
+    "publish_date": "2024-01-10",
+    "target_crops": [
+      "柑橘"
+    ],
+    "technical_domain": "精准农业",
+    "description": "基于GIS和遥感技术的移动应用，为丘陵地区柑橘园提供无人机变量施肥方案生成与作业规划功能。",
+    "tags": [
+      "无人机",
+      "变量施肥",
+      "丘陵农业",
+      "数字农业"
+    ]
+  },
+  {
+    "resource_id": "RES186",
+    "title": "农产品区域品牌元宇宙营销实战工作坊",
+    "resource_type": "培训课程",
+    "content_type": "线下实操课程",
+    "source": "中国农业品牌研究中心",
+    "publish_date": "2024-03-01",
+    "target_crops": [
+      "多种农产品"
+    ],
+    "technical_domain": "农产品品牌营销",
+    "description": "通过案例教学和实战演练，教授农产品区域品牌在元宇宙环境中的场景构建、数字藏品发行和虚拟营销活动策划技能。",
+    "tags": [
+      "元宇宙",
+      "数字营销",
+      "品牌IP",
+      "虚拟经济"
+    ]
+  },
+  {
+    "resource_id": "RES187",
+    "title": "盐碱地棉花根系微生物组改良技术VR实训系统",
+    "resource_type": "培训系统",
+    "content_type": "虚拟现实系统",
+    "source": "中国农业科学院土壤改良研究所",
+    "publish_date": "2024-02-15",
+    "target_crops": [
+      "棉花"
+    ],
+    "technical_domain": "土壤改良",
+    "description": "基于虚拟现实技术的实训系统，模拟盐碱地棉花根系微生物组改良全过程操作，包含菌剂选择、施用方法和效果评估模块。",
+    "tags": [
+      "盐碱地",
+      "微生物组",
+      "VR培训",
+      "根系改良"
+    ]
+  },
+  {
+    "resource_id": "RES188",
+    "title": "基于AI的设施番茄营养诊断与精准补光决策系统",
+    "resource_type": "决策支持系统",
+    "content_type": "数字工具",
+    "source": "国家农业信息化工程技术研究中心",
+    "publish_date": "2024-03-15",
+    "target_crops": [
+      "番茄"
+    ],
+    "technical_domain": "设施农业",
+    "description": "结合AI图像识别技术与光谱分析，实时诊断番茄营养状况并智能调控补光策略，提升设施番茄品质与产量",
+    "tags": [
+      "AI诊断",
+      "精准补光",
+      "设施番茄",
+      "智能调控"
+    ]
+  },
+  {
+    "resource_id": "RES189",
+    "title": "丘陵茶园水土保持与有机种植技术VR实训系统",
+    "resource_type": "培训系统",
+    "content_type": "虚拟现实应用",
+    "source": "中国农业科学院茶叶研究所",
+    "publish_date": "2024-02-28",
+    "target_crops": [
+      "茶叶"
+    ],
+    "technical_domain": "生态种植",
+    "description": "通过VR技术模拟丘陵地形环境，沉浸式培训茶园水土保持工程措施与有机种植标准操作流程",
+    "tags": [
+      "VR培训",
+      "水土保持",
+      "有机茶园",
+      "丘陵农业"
+    ]
+  },
+  {
+    "resource_id": "RES190",
+    "title": "2024-2025全球垂直农场LED光照系统市场分析报告",
+    "resource_type": "行业报告",
+    "content_type": "PDF文档",
+    "source": "国际垂直农业协会",
+    "publish_date": "2024-01-10",
+    "target_crops": [
+      "叶菜类",
+      "草本植物"
+    ],
+    "technical_domain": "市场分析",
+    "description": "全面分析全球垂直农场LED光照技术发展趋势、主要供应商竞争格局及不同光谱配比的经济效益比较",
+    "tags": [
+      "垂直农业",
+      "LED光照",
+      "市场调研",
+      "植物工厂"
+    ]
+  },
+  {
+    "resource_id": "RES191",
+    "title": "基于区块链的鲜切花冷链物流质量追溯系统建设指南",
+    "resource_type": "技术指南",
+    "content_type": "电子手册",
+    "source": "农业农村部农产品质量安全中心",
+    "publish_date": "2024-03-01",
+    "target_crops": [
+      "玫瑰",
+      "百合",
+      "康乃馨"
+    ],
+    "technical_domain": "农产品质量安全",
+    "description": "详细指导如何构建覆盖鲜切花采收、预冷、运输全过程的区块链温度监控与品质追溯体系",
+    "tags": [
+      "区块链",
+      "冷链物流",
+      "花卉追溯",
+      "品质管控"
+    ]
+  },
+  {
+    "resource_id": "RES192",
+    "title": "有机蓝莓园碳足迹核算与碳交易实操指南",
+    "resource_type": "操作手册",
+    "content_type": "图文教程",
+    "source": "中国绿色食品发展中心",
+    "publish_date": "2024-02-15",
+    "target_crops": [
+      "蓝莓"
+    ],
+    "technical_domain": "可持续农业",
+    "description": "提供有机蓝莓种植全过程碳排放测算方法学及参与碳交易市场的具体操作流程与案例解析",
+    "tags": [
+      "碳足迹",
+      "碳交易",
+      "有机农业",
+      "蓝莓种植"
+    ]
+  },
+  {
+    "resource_id": "RES193",
+    "title": "基于AI的温室番茄营养诊断与精准补光决策系统",
+    "resource_type": "决策支持系统",
+    "content_type": "数字工具",
+    "source": "国家农业智能装备工程技术研究中心",
+    "publish_date": "2024-03-15",
+    "target_crops": [
+      "番茄"
+    ],
+    "technical_domain": "设施农业",
+    "description": "利用人工智能技术实时监测温室番茄营养状况，结合光照需求智能调节补光策略，提升光合效率和果实品质。",
+    "tags": [
+      "AI",
+      "精准农业",
+      "温室种植",
+      "番茄栽培"
+    ]
+  },
+  {
+    "resource_id": "RES194",
+    "title": "有机茶园土壤微生物多样性提升技术实操视频课程",
+    "resource_type": "培训课程",
+    "content_type": "视频教程",
+    "source": "中国农业科学院茶叶研究所",
+    "publish_date": "2024-02-20",
+    "target_crops": [
+      "茶叶"
+    ],
+    "technical_domain": "有机农业",
+    "description": "系统讲解有机茶园土壤微生物群落调控技术，包括采样方法、菌剂施用和效果评估等全流程实操演示。",
+    "tags": [
+      "土壤健康",
+      "微生物菌剂",
+      "有机认证",
+      "茶园管理"
+    ]
+  },
+  {
+    "resource_id": "RES195",
+    "title": "2024-2025全球垂直农场LED光照系统市场分析报告",
+    "resource_type": "行业报告",
+    "content_type": "PDF文档",
+    "source": "国际垂直农业协会",
+    "publish_date": "2024-01-10",
+    "target_crops": [
+      "叶菜类",
+      "草本植物"
+    ],
+    "technical_domain": "都市农业",
+    "description": "全面分析全球垂直农场LED光照技术发展趋势、主要厂商竞争格局及未来五年市场预测。",
+    "tags": [
+      "垂直农业",
+      "LED光照",
+      "市场调研",
+      "城市农业"
+    ]
+  },
+  {
+    "resource_id": "RES196",
+    "title": "基于区块链的鲜切花冷链物流质量追溯系统建设指南",
+    "resource_type": "技术手册",
+    "content_type": "电子文档",
+    "source": "农业农村部农产品质量安全中心",
+    "publish_date": "2024-03-01",
+    "target_crops": [
+      "玫瑰",
+      "百合",
+      "康乃馨"
+    ],
+    "technical_domain": "农产品质量安全",
+    "description": "详细指导如何构建覆盖鲜切花采收、预冷、运输全链条的区块链溯源系统，确保品质可追溯。",
+    "tags": [
+      "区块链",
+      "冷链物流",
+      "花卉产业",
+      "质量追溯"
+    ]
+  },
+  {
+    "resource_id": "RES197",
+    "title": "丘陵地区柑橘园无人机变量施肥决策支持工具",
+    "resource_type": "应用软件",
+    "content_type": "移动应用",
+    "source": "华南农业大学智慧农业研究院",
+    "publish_date": "2024-02-05",
+    "target_crops": [
+      "柑橘"
+    ],
+    "technical_domain": "精准农业",
+    "description": "结合地形数据和果树长势，生成丘陵果园无人机变量施肥方案，实现精准营养管理。",
+    "tags": [
+      "无人机",
+      "变量施肥",
+      "丘陵农业",
+      "果园管理"
+    ]
+  },
+  {
+    "resource_id": "RES198",
+    "title": "基于AI的温室番茄营养诊断与精准补光决策系统",
+    "resource_type": "决策支持系统",
+    "content_type": "软件工具",
+    "source": "中国农业科学院智慧农业研究中心",
+    "publish_date": "2024-03-15",
+    "target_crops": [
+      "番茄"
+    ],
+    "technical_domain": "设施农业",
+    "description": "该系统利用AI技术实时监测温室番茄生长状态，结合环境参数进行营养诊断，提供精准补光决策建议，提高番茄品质和产量。",
+    "tags": [
+      "AI",
+      "精准农业",
+      "温室种植",
+      "番茄栽培"
+    ]
+  },
+  {
+    "resource_id": "RES199",
+    "title": "有机茶园碳足迹核算与低碳认证全流程培训课程",
+    "resource_type": "培训课程",
+    "content_type": "在线课程",
+    "source": "中国有机农业协会",
+    "publish_date": "2024-02-20",
+    "target_crops": [
+      "茶叶"
+    ],
+    "technical_domain": "可持续农业",
+    "description": "本课程详细讲解有机茶园碳足迹核算方法、低碳认证流程及减排技术应用，帮助茶园实现碳中和目标。",
+    "tags": [
+      "碳中和",
+      "有机认证",
+      "茶叶生产",
+      "碳核算"
+    ]
+  },
+  {
+    "resource_id": "RES200",
+    "title": "丘陵地区柑橘园无人机变量施肥决策支持工具",
+    "resource_type": "决策支持工具",
+    "content_type": "移动应用",
+    "source": "华中农业大学智慧农业实验室",
+    "publish_date": "2024-01-10",
+    "target_crops": [
+      "柑橘"
+    ],
+    "technical_domain": "精准农业",
+    "description": "该工具基于无人机遥感数据和土壤检测结果，为丘陵地区柑橘园提供变量施肥决策支持，优化肥料使用效率。",
+    "tags": [
+      "无人机",
+      "变量施肥",
+      "丘陵农业",
+      "柑橘种植"
+    ]
+  },
+  {
+    "resource_id": "RES201",
+    "title": "农产品区域品牌元宇宙营销实战工作坊",
+    "resource_type": "培训工作坊",
+    "content_type": "线下活动",
+    "source": "中国农产品品牌研究院",
+    "publish_date": "2024-03-01",
+    "target_crops": [
+      "多种作物"
+    ],
+    "technical_domain": "农产品品牌营销",
+    "description": "本工作坊通过实战案例教学，指导农产品区域品牌如何利用元宇宙技术进行创新营销，提升品牌影响力。",
+    "tags": [
+      "元宇宙",
+      "品牌营销",
+      "数字营销",
+      "农产品品牌"
+    ]
+  },
+  {
+    "resource_id": "RES202",
+    "title": "盐碱地棉花根系微生物组改良技术VR实训系统",
+    "resource_type": "培训系统",
+    "content_type": "VR应用",
+    "source": "中国农业科学院土壤研究所",
+    "publish_date": "2024-02-05",
+    "target_crops": [
+      "棉花"
+    ],
+    "technical_domain": "土壤改良",
+    "description": "该系统通过VR技术模拟盐碱地棉花根系微生物组改良全过程，提供沉浸式实操培训体验。",
+    "tags": [
+      "VR培训",
+      "盐碱地改良",
+      "微生物组",
+      "棉花种植"
+    ]
+  },
+  {
+    "resource_id": "RES203",
+    "title": "基于AI的设施草莓光周期调控与产量预测系统",
+    "resource_type": "决策支持系统",
+    "content_type": "软件工具",
+    "source": "国家智慧农业创新中心",
+    "publish_date": "2024-03-15",
+    "target_crops": [
+      "草莓"
+    ],
+    "technical_domain": "设施农业",
+    "description": "利用人工智能技术分析草莓生长环境数据，实现光周期精准调控和产量预测的智能决策系统",
+    "tags": [
+      "AI",
+      "光周期调控",
+      "产量预测",
+      "智能决策"
+    ]
+  },
+  {
+    "resource_id": "RES204",
+    "title": "有机茶叶碳足迹核算与低碳认证全流程培训课程",
+    "resource_type": "培训课程",
+    "content_type": "在线课程",
+    "source": "中国有机农业协会",
+    "publish_date": "2024-02-20",
+    "target_crops": [
+      "茶叶"
+    ],
+    "technical_domain": "可持续农业",
+    "description": "系统讲解有机茶叶生产过程中碳足迹核算方法及低碳认证全流程操作的实务培训课程",
+    "tags": [
+      "碳足迹",
+      "低碳认证",
+      "有机茶叶",
+      "可持续"
+    ]
+  },
+  {
+    "resource_id": "RES205",
+    "title": "丘陵地区柑橘园智能仿形修剪机器人操作实训课程",
+    "resource_type": "实训课程",
+    "content_type": "VR实训系统",
+    "source": "农业农村部农机化司",
+    "publish_date": "2024-01-10",
+    "target_crops": [
+      "柑橘"
+    ],
+    "technical_domain": "智慧农业",
+    "description": "针对丘陵地形特点开发的柑橘园智能仿形修剪机器人操作虚拟现实实训系统",
+    "tags": [
+      "智能修剪",
+      "机器人",
+      "VR实训",
+      "丘陵农业"
+    ]
+  },
+  {
+    "resource_id": "RES206",
+    "title": "2024-2025全球垂直农业投资热点与市场前景分析报告",
+    "resource_type": "市场分析报告",
+    "content_type": "研究报告",
+    "source": "国际农业投资研究院",
+    "publish_date": "2024-03-01",
+    "target_crops": [
+      "多种作物"
+    ],
+    "technical_domain": "市场分析",
+    "description": "全面分析全球垂直农业技术发展趋势、投资热点区域和市场增长前景的专业报告",
+    "tags": [
+      "垂直农业",
+      "投资分析",
+      "市场前景",
+      "全球趋势"
+    ]
+  },
+  {
+    "resource_id": "RES207",
+    "title": "基于区块链的有机蔬菜全供应链质量追溯系统建设指南",
+    "resource_type": "技术指南",
+    "content_type": "电子手册",
+    "source": "农产品质量安全中心",
+    "publish_date": "2024-02-05",
+    "target_crops": [
+      "多种蔬菜"
+    ],
+    "technical_domain": "农产品质量安全",
+    "description": "详细指导如何利用区块链技术构建从生产到消费全链条的有机蔬菜质量追溯系统",
+    "tags": [
+      "区块链",
+      "质量追溯",
+      "有机蔬菜",
+      "供应链"
+    ]
+  },
+  {
+    "resource_id": "RES208",
+    "title": "智能温室番茄病虫害早期诊断与防控决策系统",
+    "resource_type": "决策支持系统",
+    "content_type": "数字工具",
+    "source": "中国农业科学院智慧农业研究所",
+    "publish_date": "2024-03-15",
+    "target_crops": [
+      "番茄"
+    ],
+    "technical_domain": "智慧植保",
+    "description": "基于深度学习的温室番茄病虫害智能识别系统，提供实时诊断与精准防控方案",
+    "tags": [
+      "AI诊断",
+      "精准施药",
+      "温室种植"
+    ]
+  },
+  {
+    "resource_id": "RES209",
+    "title": "丘陵茶园水土保持与有机种植技术VR实训系统",
+    "resource_type": "虚拟实训系统",
+    "content_type": "沉浸式体验",
+    "source": "农业农村部农业生态与资源保护总站",
+    "publish_date": "2024-02-28",
+    "target_crops": [
+      "茶叶"
+    ],
+    "technical_domain": "生态种植",
+    "description": "通过VR技术模拟丘陵茶园水土流失场景，培训生态种植与土壤保育实操技能",
+    "tags": [
+      "虚拟现实",
+      "生态农业",
+      "水土保持"
+    ]
+  },
+  {
+    "resource_id": "RES210",
+    "title": "2024-2025全球垂直农场LED光照系统市场分析报告",
+    "resource_type": "市场研究报告",
+    "content_type": "PDF文档",
+    "source": "国际垂直农业协会",
+    "publish_date": "2024-01-10",
+    "target_crops": [
+      "叶菜类",
+      "草本植物"
+    ],
+    "technical_domain": "都市农业",
+    "description": "全面分析全球垂直农场LED光照技术发展趋势、市场竞争格局与投资回报预测",
+    "tags": [
+      "市场分析",
+      "人工光照",
+      "城市农业"
+    ]
+  },
+  {
+    "resource_id": "RES211",
+    "title": "有机蓝莓园碳足迹核算与碳交易实操指南",
+    "resource_type": "技术手册",
+    "content_type": "图文手册",
+    "source": "中国绿色食品发展中心",
+    "publish_date": "2024-03-01",
+    "target_crops": [
+      "蓝莓"
+    ],
+    "technical_domain": "可持续农业",
+    "description": "详细指导有机蓝莓种植碳足迹计算方法与碳交易市场参与流程",
+    "tags": [
+      "碳中和",
+      "碳汇农业",
+      "环境友好"
+    ]
+  },
+  {
+    "resource_id": "RES212",
+    "title": "农产品区域品牌元宇宙营销实战工作坊",
+    "resource_type": "培训课程",
+    "content_type": "线上直播",
+    "source": "农业农村部市场与信息化司",
+    "publish_date": "2024-02-15",
+    "target_crops": [
+      "区域特色农产品"
+    ],
+    "technical_domain": "农产品品牌营销",
+    "description": "系统讲解元宇宙场景下的农产品品牌塑造与数字化营销策略",
+    "tags": [
+      "虚拟展厅",
+      "数字营销",
+      "品牌升级"
+    ]
+  },
+  {
+    "resource_id": "RES213",
+    "title": "基于AI的设施草莓光周期调控与产量预测系统",
+    "resource_type": "决策支持系统",
+    "content_type": "软件工具",
+    "source": "中国农业科学院智慧农业研究中心",
+    "publish_date": "2024-03-15",
+    "target_crops": [
+      "草莓"
+    ],
+    "technical_domain": "设施农业",
+    "description": "利用人工智能技术分析草莓生长环境数据，预测最佳光周期调控方案，实现产量最大化。",
+    "tags": [
+      "AI",
+      "光周期调控",
+      "产量预测",
+      "设施草莓"
+    ]
+  },
+  {
+    "resource_id": "RES214",
+    "title": "有机茶园土壤微生物多样性提升技术实操视频课程",
+    "resource_type": "培训课程",
+    "content_type": "视频教程",
+    "source": "中国农业大学有机农业研究所",
+    "publish_date": "2024-02-20",
+    "target_crops": [
+      "茶叶"
+    ],
+    "technical_domain": "有机农业",
+    "description": "详细讲解有机茶园土壤微生物多样性提升的技术方法，包括微生物菌剂选择、施用时机和效果评估。",
+    "tags": [
+      "有机茶",
+      "土壤微生物",
+      "实操视频",
+      "茶园管理"
+    ]
+  },
+  {
+    "resource_id": "RES215",
+    "title": "2024-2025全球垂直农业投资热点与市场前景分析报告",
+    "resource_type": "市场分析报告",
+    "content_type": "PDF文档",
+    "source": "国际农业投资分析机构AgriFutures",
+    "publish_date": "2024-01-10",
+    "target_crops": [
+      "多种作物"
+    ],
+    "technical_domain": "都市农业",
+    "description": "全面分析全球垂直农业的最新投资趋势、技术突破和市场机会，为投资者提供决策参考。",
+    "tags": [
+      "垂直农业",
+      "投资分析",
+      "市场前景",
+      "全球趋势"
+    ]
+  },
+  {
+    "resource_id": "RES216",
+    "title": "基于区块链的鲜切花冷链物流质量追溯系统建设指南",
+    "resource_type": "技术指南",
+    "content_type": "电子书",
+    "source": "农业农村部农产品质量安全中心",
+    "publish_date": "2024-03-01",
+    "target_crops": [
+      "鲜切花"
+    ],
+    "technical_domain": "农产品质量安全",
+    "description": "详细介绍如何利用区块链技术构建鲜切花冷链物流全程质量追溯系统，确保花卉品质。",
+    "tags": [
+      "区块链",
+      "冷链物流",
+      "质量追溯",
+      "鲜切花"
+    ]
+  },
+  {
+    "resource_id": "RES217",
+    "title": "丘陵地区柑橘园智能仿形修剪机器人操作实训课程",
+    "resource_type": "培训课程",
+    "content_type": "VR实训系统",
+    "source": "中国农业机械化科学研究院",
+    "publish_date": "2024-02-05",
+    "target_crops": [
+      "柑橘"
+    ],
+    "technical_domain": "智慧农业",
+    "description": "通过VR技术模拟丘陵地形下的柑橘园修剪作业，培训操作人员掌握智能仿形修剪机器人的使用技巧。",
+    "tags": [
+      "柑橘修剪",
+      "智能机器人",
+      "VR实训",
+      "丘陵果园"
+    ]
+  },
+  {
+    "resource_id": "RES218",
+    "title": "基于AI的设施草莓光周期调控与产量预测系统",
+    "resource_type": "决策支持系统",
+    "content_type": "数字工具",
+    "source": "国家农业智能装备工程技术研究中心",
+    "publish_date": "2024-03-15",
+    "target_crops": [
+      "草莓"
+    ],
+    "technical_domain": "设施农业",
+    "description": "结合AI算法与设施环境数据，实现草莓光周期智能调控与产量精准预测的决策支持系统",
+    "tags": [
+      "AI",
+      "光周期调控",
+      "产量预测",
+      "数字农业"
+    ]
+  },
+  {
+    "resource_id": "RES219",
+    "title": "有机茶园碳足迹核算与低碳认证全流程培训课程",
+    "resource_type": "在线课程",
+    "content_type": "视频教程",
+    "source": "中国有机农产品认证中心",
+    "publish_date": "2024-02-20",
+    "target_crops": [
+      "茶叶"
+    ],
+    "technical_domain": "可持续农业",
+    "description": "系统讲解有机茶园碳足迹核算方法及低碳认证全流程操作的实战培训课程",
+    "tags": [
+      "碳足迹",
+      "有机认证",
+      "低碳农业",
+      "可持续种植"
+    ]
+  },
+  {
+    "resource_id": "RES220",
+    "title": "丘陵地区柑橘园无人机变量施肥决策支持工具",
+    "resource_type": "移动应用",
+    "content_type": "APP",
+    "source": "农业农村部农机化研究所",
+    "publish_date": "2024-01-10",
+    "target_crops": [
+      "柑橘"
+    ],
+    "technical_domain": "精准农业",
+    "description": "专为丘陵地形设计的柑橘园无人机变量施肥智能决策移动应用，支持三维地形分析与施肥方案生成",
+    "tags": [
+      "无人机",
+      "变量施肥",
+      "丘陵农业",
+      "智慧果园"
+    ]
+  },
+  {
+    "resource_id": "RES221",
+    "title": "农产品区域品牌元宇宙营销实战工作坊",
+    "resource_type": "培训课程",
+    "content_type": "线下工作坊",
+    "source": "中国农业品牌研究中心",
+    "publish_date": "2024-03-01",
+    "target_crops": [],
+    "technical_domain": "农产品品牌营销",
+    "description": "通过元宇宙技术实现农产品品牌沉浸式体验设计与营销策略落地的实战培训工作坊",
+    "tags": [
+      "元宇宙",
+      "品牌营销",
+      "数字营销",
+      "农产品电商"
+    ]
+  },
+  {
+    "resource_id": "RES222",
+    "title": "盐碱地棉花根系微生物组改良技术VR实训系统",
+    "resource_type": "虚拟实训系统",
+    "content_type": "VR应用",
+    "source": "中国农业科学院土壤研究所",
+    "publish_date": "2024-02-05",
+    "target_crops": [
+      "棉花"
+    ],
+    "technical_domain": "土壤改良",
+    "description": "基于VR技术的盐碱地棉花根系微生物组改良技术模拟训练系统，支持全流程操作演练",
+    "tags": [
+      "盐碱地",
+      "微生物组",
+      "VR培训",
+      "土壤修复"
+    ]
+  },
+  {
+    "resource_id": "RES223",
+    "title": "基于AI的设施草莓光周期调控与产量预测系统",
+    "resource_type": "智能决策系统",
+    "content_type": "软件工具",
+    "source": "国家农业智能装备工程技术研究中心",
+    "publish_date": "2024-03-15",
+    "target_crops": [
+      "草莓"
+    ],
+    "technical_domain": "设施农业",
+    "description": "利用人工智能技术分析草莓生长环境数据，预测最佳光周期调控方案，实现产量精准预测。",
+    "tags": [
+      "AI",
+      "光周期调控",
+      "产量预测",
+      "设施草莓"
+    ]
+  },
+  {
+    "resource_id": "RES224",
+    "title": "有机茶园碳足迹核算与低碳认证全流程培训课程",
+    "resource_type": "培训课程",
+    "content_type": "在线视频课程",
+    "source": "中国有机农业产业发展联盟",
+    "publish_date": "2024-04-01",
+    "target_crops": [
+      "茶叶"
+    ],
+    "technical_domain": "可持续农业",
+    "description": "系统讲解有机茶园碳足迹核算方法、减排技术及低碳认证全流程操作实务。",
+    "tags": [
+      "碳足迹",
+      "有机茶",
+      "低碳认证",
+      "可持续"
+    ]
+  },
+  {
+    "resource_id": "RES225",
+    "title": "丘陵地区柑橘园无人机变量施肥决策支持工具",
+    "resource_type": "决策支持工具",
+    "content_type": "移动应用",
+    "source": "农业农村部农机化研究所",
+    "publish_date": "2024-02-20",
+    "target_crops": [
+      "柑橘"
+    ],
+    "technical_domain": "精准农业",
+    "description": "基于无人机遥感数据的柑橘园变量施肥决策系统，实现丘陵地形精准施肥。",
+    "tags": [
+      "无人机",
+      "变量施肥",
+      "丘陵农业",
+      "智慧果园"
+    ]
+  },
+  {
+    "resource_id": "RES226",
+    "title": "农产品区域品牌元宇宙营销实战工作坊",
+    "resource_type": "实战培训",
+    "content_type": "线下工作坊",
+    "source": "中国农业品牌研究中心",
+    "publish_date": "2024-05-10",
+    "target_crops": [],
+    "technical_domain": "农产品品牌营销",
+    "description": "通过案例实操教授农产品区域品牌在元宇宙空间的场景搭建与营销策略设计。",
+    "tags": [
+      "元宇宙",
+      "品牌营销",
+      "数字农业",
+      "虚拟展厅"
+    ]
+  },
+  {
+    "resource_id": "RES227",
+    "title": "盐碱地棉花根系微生物组改良技术VR实训系统",
+    "resource_type": "实训系统",
+    "content_type": "VR模拟软件",
+    "source": "中国农业科学院土壤肥料研究所",
+    "publish_date": "2024-03-28",
+    "target_crops": [
+      "棉花"
+    ],
+    "technical_domain": "土壤改良",
+    "description": "通过虚拟现实技术模拟盐碱地棉花根系微生物组改良全过程操作训练。",
+    "tags": [
+      "盐碱地",
+      "微生物组",
+      "VR实训",
+      "棉花种植"
+    ]
+  },
+  {
+    "resource_id": "RES228",
+    "title": "智能温室黄瓜生长异常实时诊断与调控系统",
+    "resource_type": "决策支持系统",
+    "content_type": "软件工具",
+    "source": "农业科技研究院",
+    "publish_date": "2024-03-15",
+    "target_crops": [
+      "黄瓜"
+    ],
+    "technical_domain": "设施农业",
+    "description": "基于AI技术的温室黄瓜生长异常实时监测与智能调控系统，通过多传感器数据融合实现精准诊断与决策支持。",
+    "tags": [
+      "AI诊断",
+      "实时调控",
+      "温室种植"
+    ]
+  },
+  {
+    "resource_id": "RES229",
+    "title": "有机火龙果种植碳足迹核算与减排技术手册",
+    "resource_type": "技术手册",
+    "content_type": "电子文档",
+    "source": "可持续农业协会",
+    "publish_date": "2024-02-28",
+    "target_crops": [
+      "火龙果"
+    ],
+    "technical_domain": "可持续农业",
+    "description": "详细指导有机火龙果种植过程中的碳足迹核算方法及减排技术实施方案。",
+    "tags": [
+      "碳核算",
+      "减排技术",
+      "热带水果"
+    ]
+  },
+  {
+    "resource_id": "RES230",
+    "title": "丘陵地区油茶林智能灌溉机器人操作实训课程",
+    "resource_type": "培训课程",
+    "content_type": "视频教程",
+    "source": "林业机械化研究所",
+    "publish_date": "2024-04-05",
+    "target_crops": [
+      "油茶"
+    ],
+    "technical_domain": "智慧灌溉",
+    "description": "针对丘陵地形特点开发的油茶林智能灌溉机器人操作与维护全流程实训课程。",
+    "tags": [
+      "地形适应",
+      "实操培训",
+      "经济林"
+    ]
+  },
+  {
+    "resource_id": "RES231",
+    "title": "2024-2025全球藜麦市场供需分析与价格预测报告",
+    "resource_type": "市场分析",
+    "content_type": "研究报告",
+    "source": "国际农产品市场研究中心",
+    "publish_date": "2024-01-20",
+    "target_crops": [
+      "藜麦"
+    ],
+    "technical_domain": "市场分析",
+    "description": "全面分析全球藜麦市场供需格局、贸易流向及未来两年价格走势预测。",
+    "tags": [
+      "小众作物",
+      "国际贸易",
+      "价格预测"
+    ]
+  },
+  {
+    "resource_id": "RES232",
+    "title": "基于区块链的鲜切花冷链物流质量追溯系统建设指南",
+    "resource_type": "技术标准",
+    "content_type": "操作手册",
+    "source": "农产品物流协会",
+    "publish_date": "2024-03-01",
+    "target_crops": [
+      "鲜切花"
+    ],
+    "technical_domain": "农产品质量安全",
+    "description": "指导企业构建基于区块链技术的鲜切花全程冷链物流质量追溯系统的实施规范。",
+    "tags": [
+      "花卉产业",
+      "冷链物流",
+      "不可篡改"
+    ]
+  },
+  {
+    "resource_id": "RES233",
+    "title": "基于AI的设施甜椒病虫害智能诊断与精准施药系统",
+    "resource_type": "智能决策系统",
+    "content_type": "软件应用",
+    "source": "国家农业智能装备工程技术研究中心",
+    "publish_date": "2024-03-15",
+    "target_crops": [
+      "甜椒"
+    ],
+    "technical_domain": "智慧植保",
+    "description": "集成深度学习算法的甜椒病虫害实时识别系统，支持移动端拍照诊断并生成精准施药方案",
+    "tags": [
+      "AI诊断",
+      "精准农业",
+      "设施蔬菜",
+      "病虫害防治"
+    ]
+  },
+  {
+    "resource_id": "RES234",
+    "title": "黑木耳菌棒智能化生产全流程VR实训系统",
+    "resource_type": "虚拟实训平台",
+    "content_type": "VR应用",
+    "source": "中国农业科学院食用菌研究所",
+    "publish_date": "2024-02-28",
+    "target_crops": [
+      "黑木耳"
+    ],
+    "technical_domain": "食用菌栽培",
+    "description": "通过虚拟现实技术模拟从配料、装袋到灭菌接种的全流程标准化操作训练",
+    "tags": [
+      "VR培训",
+      "食用菌",
+      "智能化生产",
+      "操作规范"
+    ]
+  },
+  {
+    "resource_id": "RES235",
+    "title": "2024-2025全球植物工厂投资回报率分析工具包",
+    "resource_type": "经济分析工具",
+    "content_type": "电子表格+报告",
+    "source": "国际垂直农业协会",
+    "publish_date": "2024-01-10",
+    "target_crops": [
+      "叶菜类",
+      "草本植物"
+    ],
+    "technical_domain": "都市农业",
+    "description": "包含建设成本测算模板、运营参数数据库和典型作物ROI计算模型的综合工具包",
+    "tags": [
+      "投资分析",
+      "垂直农业",
+      "经济模型",
+      "决策支持"
+    ]
+  },
+  {
+    "resource_id": "RES236",
+    "title": "芒果采后品质保持与冷链物流区块链溯源系统",
+    "resource_type": "质量追溯系统",
+    "content_type": "SaaS平台",
+    "source": "热带农产品质量安全重点实验室",
+    "publish_date": "2024-03-01",
+    "target_crops": [
+      "芒果"
+    ],
+    "technical_domain": "农产品质量安全",
+    "description": "基于区块链技术的芒果采后处理全流程温湿度监控与品质追溯云平台",
+    "tags": [
+      "区块链",
+      "冷链物流",
+      "热带水果",
+      "质量追溯"
+    ]
+  },
+  {
+    "resource_id": "RES237",
+    "title": "丘陵茶园水土保持与有机种植技术VR实训系统",
+    "resource_type": "虚拟实训平台",
+    "content_type": "VR应用",
+    "source": "中国农业科学院茶叶研究所",
+    "publish_date": "2024-02-15",
+    "target_crops": [
+      "茶树"
+    ],
+    "technical_domain": "生态种植",
+    "description": "通过三维场景模拟展示梯田修筑、覆盖作物种植等水土保持技术的实操要点",
+    "tags": [
+      "生态农业",
+      "VR培训",
+      "水土保持",
+      "有机茶"
+    ]
+  },
+  {
+    "resource_id": "RES238",
+    "title": "智能温室草莓光周期调控与产量预测AI模型",
+    "resource_type": "技术系统",
+    "content_type": "软件工具",
+    "source": "国家农业智能装备工程技术研究中心",
+    "publish_date": "2024-03-15",
+    "target_crops": [
+      "草莓"
+    ],
+    "technical_domain": "设施农业",
+    "description": "基于深度学习的草莓光周期调控优化模型，可预测不同光周期条件下的产量变化，为温室草莓生产提供智能决策支持。",
+    "tags": [
+      "AI模型",
+      "光周期调控",
+      "产量预测",
+      "智能温室"
+    ]
+  },
+  {
+    "resource_id": "RES239",
+    "title": "有机水稻土壤碳汇核算与交易实操指南",
+    "resource_type": "技术手册",
+    "content_type": "电子文档",
+    "source": "中国农业科学院资源区划所",
+    "publish_date": "2024-02-28",
+    "target_crops": [
+      "水稻"
+    ],
+    "technical_domain": "可持续农业",
+    "description": "详细指导有机水稻种植过程中土壤碳汇的测量方法、核算流程及碳交易市场操作步骤，助力农业碳中和。",
+    "tags": [
+      "碳汇核算",
+      "碳交易",
+      "有机农业",
+      "土壤固碳"
+    ]
+  },
+  {
+    "resource_id": "RES240",
+    "title": "基于区块链的芒果全程冷链质量追溯系统建设指南",
+    "resource_type": "技术标准",
+    "content_type": "PDF文档",
+    "source": "农业农村部农产品质量安全中心",
+    "publish_date": "2024-01-20",
+    "target_crops": [
+      "芒果"
+    ],
+    "technical_domain": "农产品质量安全",
+    "description": "从采收、预冷、包装到运输的全程冷链区块链追溯技术规范，确保芒果品质可追溯、责任可界定。",
+    "tags": [
+      "区块链",
+      "冷链物流",
+      "质量追溯",
+      "热带水果"
+    ]
+  },
+  {
+    "resource_id": "RES241",
+    "title": "丘陵地区油茶林智能水肥一体化系统设计与安装视频教程",
+    "resource_type": "培训课程",
+    "content_type": "视频系列",
+    "source": "国家林业和草原局科技司",
+    "publish_date": "2024-03-01",
+    "target_crops": [
+      "油茶"
+    ],
+    "technical_domain": "智慧灌溉",
+    "description": "针对丘陵地形特点的油茶林水肥一体化系统设计原理、设备选型及安装维护的全流程可视化教学。",
+    "tags": [
+      "水肥一体化",
+      "丘陵农业",
+      "经济林",
+      "智能灌溉"
+    ]
+  },
+  {
+    "resource_id": "RES242",
+    "title": "2024-2025全球功能性农产品消费趋势与市场机会报告",
+    "resource_type": "市场分析",
+    "content_type": "研究报告",
+    "source": "国际农业市场研究院",
+    "publish_date": "2024-02-10",
+    "target_crops": [
+      "多种作物"
+    ],
+    "technical_domain": "市场分析",
+    "description": "深入分析全球功能性农产品（如富硒食品、高花青素作物等）的消费升级趋势、区域市场差异及投资机会。",
+    "tags": [
+      "消费趋势",
+      "功能农业",
+      "市场预测",
+      "健康食品"
+    ]
+  },
+  {
+    "resource_id": "RES243",
+    "title": "智能温室番茄病虫害早期诊断与防控决策系统",
+    "resource_type": "决策支持系统",
+    "content_type": "数字工具",
+    "source": "农业科技研究院",
+    "publish_date": "2024-03-15",
+    "target_crops": [
+      "番茄"
+    ],
+    "technical_domain": "智慧植保",
+    "description": "基于AI技术的温室番茄病虫害早期诊断与精准防控决策系统，提供实时监测与防控建议。",
+    "tags": [
+      "AI诊断",
+      "精准防控",
+      "温室种植"
+    ]
+  },
+  {
+    "resource_id": "RES244",
+    "title": "有机茶园碳足迹核算与低碳认证全流程培训课程",
+    "resource_type": "培训课程",
+    "content_type": "在线视频",
+    "source": "有机农业协会",
+    "publish_date": "2024-04-20",
+    "target_crops": [
+      "茶叶"
+    ],
+    "technical_domain": "可持续农业",
+    "description": "详细讲解有机茶园碳足迹核算方法与低碳认证流程，助力茶园实现可持续发展。",
+    "tags": [
+      "碳足迹",
+      "低碳认证",
+      "有机茶"
+    ]
+  },
+  {
+    "resource_id": "RES245",
+    "title": "丘陵地区柑橘园无人机变量施肥决策支持工具",
+    "resource_type": "决策支持工具",
+    "content_type": "移动应用",
+    "source": "精准农业技术中心",
+    "publish_date": "2024-05-10",
+    "target_crops": [
+      "柑橘"
+    ],
+    "technical_domain": "精准农业",
+    "description": "基于无人机遥感数据的柑橘园变量施肥决策工具，优化施肥方案，提高肥料利用率。",
+    "tags": [
+      "无人机",
+      "变量施肥",
+      "丘陵农业"
+    ]
+  },
+  {
+    "resource_id": "RES246",
+    "title": "盐碱地棉花根系微生物组改良技术VR实训系统",
+    "resource_type": "实训系统",
+    "content_type": "虚拟现实",
+    "source": "土壤改良研究所",
+    "publish_date": "2024-06-05",
+    "target_crops": [
+      "棉花"
+    ],
+    "technical_domain": "土壤改良",
+    "description": "通过VR技术模拟盐碱地棉花根系微生物组改良操作流程，提供沉浸式学习体验。",
+    "tags": [
+      "盐碱地",
+      "微生物组",
+      "VR实训"
+    ]
+  },
+  {
+    "resource_id": "RES247",
+    "title": "农产品区域品牌元宇宙营销实战工作坊",
+    "resource_type": "工作坊",
+    "content_type": "线下活动",
+    "source": "农产品品牌联盟",
+    "publish_date": "2024-07-15",
+    "target_crops": [
+      "多种农产品"
+    ],
+    "technical_domain": "农产品品牌营销",
+    "description": "结合元宇宙技术的农产品区域品牌营销实战培训，提升品牌数字化营销能力。",
+    "tags": [
+      "元宇宙",
+      "品牌营销",
+      "数字化"
+    ]
+  }
+]
