@@ -461,7 +461,7 @@
     "summary": "本挂图由中国农科院郑州果树研究所研发，专为猕猴桃种植者设计，通过直观的可视化方式展示溃疡病的识别特征、发生规律及防控关键期。适用于秦岭以南地区所有规模的猕猴桃种植园，特别适合春秋季高发期使用。基于5年田间试验数据，该挂图能有效减少盲目用药，降低30%的经济损失。使用前提是具备基本植保知识，可通过农技站或官网免费获取。"
   },
   {
-    "resource_id": "RES007",
+    "resource_id": "RES100",
     "title": "小麦-玉米周年生产智能决策系统",
     "resource_type": "数字工具",
     "content_type": "SaaS服务",
@@ -539,7 +539,7 @@
     "summary": "小麦-玉米周年生产智能决策系统是一款面向黄淮海地区规模化种植户的高级数字工具。该系统通过双季作物模型耦合技术，实现小麦和玉米周年生产的茬口优化、资源调配和风险预警，帮助用户科学决策。系统可带来周年亩增效500元的经济效益，并优化资源配置，减少环境压力。使用该系统需要具备双季种植经验和基础数据支持，适用于100亩以上的规模化种植场景。系统通过Web和移动端提供实时更新的SaaS服务，采用订阅制收费模式。"
   },
   {
-    "resource_id": "RES008",
+    "resource_id": "RES101",
     "title": "小麦全生育期可视化栽培技术图谱",
     "resource_type": "可视化工具",
     "content_type": "彩色图谱",
@@ -611,13 +611,13 @@
       "官网下载"
     ],
     "related_resources": [
-      "RES009",
+      "RES102",
       "RES110"
     ],
     "summary": "本图谱是中国农业科学院作物科学研究所研发的小麦栽培技术可视化工具，适用于黄淮海和长江中下游麦区。它以图文并茂的形式系统展示小麦全生育期的关键管理技术和长势诊断标准，帮助种植者直观掌握技术要点。该资源基于国家小麦产业技术体系成果，具有较高的权威性和实用性，能有效减少盲目施肥，实现亩增产5-8%。适用于所有规模的小麦种植者，使用前需具备基本种植知识，并需结合当地实际情况进行调整。"
   },
   {
-    "resource_id": "RES009",
+    "resource_id": "RES102",
     "title": "水稻机插秧同步精量施肥技术标准",
     "resource_type": "技术标准",
     "content_type": "文本标准",
@@ -685,13 +685,13 @@
       "政府官网"
     ],
     "related_resources": [
-      "RES010",
+      "RES103",
       "RES120"
     ],
     "summary": "本标准详细规定了水稻机插秧同步精量施肥的技术规程，适用于全国稻作区50亩以上规模的水稻种植。通过农机农艺深度融合，实现精准施肥，减少15%的肥料使用，同时每亩节本增效200元。该技术已在湖南益阳等示范区成功应用，具有显著的经济和环境效益。使用该技术需要配备带施肥装置的插秧机，并具备基本的机械操作知识。"
   },
   {
-    "resource_id": "RES010",
+    "resource_id": "RES103",
     "title": "玉米密植高产精准调控技术集成方案",
     "resource_type": "技术方案",
     "content_type": "图文报告",
@@ -760,13 +760,13 @@
       "科研机构官网"
     ],
     "related_resources": [
-      "RES011",
+      "RES104",
       "RES130"
     ],
     "summary": "本技术方案由国家级农业科研团队研发，针对我国主要玉米产区的高产需求，系统集成了密植高产精准调控技术体系。核心技术包括基于密度-产量响应模型的群体构建方法、水肥精准调控方案等，可显著提高肥效20%，实现亩增产10-15%。适用于东北和黄淮海等规模化玉米种植区，要求使用者具备一定种植经验。该方案已成功应用于吉林梨树等示范基地，是实施国家玉米单产提升工程的重要技术支撑。"
   },
   {
-    "resource_id": "RES011",
+    "resource_id": "RES104",
     "title": "大豆根瘤菌高效接种技术全流程视频教程",
     "resource_type": "培训课程",
     "content_type": "系列视频",
@@ -835,13 +835,13 @@
       "农技推广平台"
     ],
     "related_resources": [
-      "RES012",
+      "RES105",
       "RES140"
     ],
     "summary": "本视频教程由中国农业大学微生物学系开发，详细讲解了大豆根瘤菌接种技术的全流程操作。基于国家自然科学基金研究成果，采用高效菌株，可帮助大豆种植户减少30%的氮肥使用，实现亩均节本100元的经济效益。教程内容涵盖菌剂选择、接种方法、田间管理及效果评估等关键环节，适用于东北和黄淮海地区不同规模的种植户。学习本教程需要具备基本的大豆种植知识，规范操作可确保最佳固氮效果。"
   },
   {
-    "resource_id": "RES012",
+    "resource_id": "RES105",
     "title": "苹果园智能水肥一体化精准灌溉系统",
     "resource_type": "物联网系统",
     "content_type": "硬件+软件",
@@ -912,13 +912,13 @@
       "厂商直销"
     ],
     "related_resources": [
-      "RES013",
+      "RES106",
       "RES150"
     ],
     "summary": "这是一套面向规模化苹果种植园的智能水肥一体化管理系统。系统通过物联网传感器实时监测土壤墒情，结合果树需水模型进行精准灌溉决策，可实现节水35%并提升果实品质15%。该系统特别适合渤海湾和黄土高原等主要苹果产区20亩以上的规模化果园使用，但需要较高的初期投入和基本果园管理经验。基于10年定位研究开发的作物需水算法是其核心技术优势，已在山东威海等示范基地取得显著成效。"
   },
   {
-    "resource_id": "RES013",
+    "resource_id": "RES106",
     "title": "猕猴桃病虫害识别与防治可视化指南",
     "resource_type": "可视化工具",
     "content_type": "高清挂图",
@@ -996,7 +996,7 @@
     "summary": "本资源是由中国农科院郑州果树研究所开发的猕猴桃病虫害识别与防治可视化挂图，适用于猕猴桃主产区的所有规模种植户。通过高清图文和症状对比图示，直观展示溃疡病、褐斑病等主要病虫害的识别特征和防治方法，帮助用户快速掌握关键防治技术。基于5年田间调查数据，该挂图能有效指导精准用药，减少20%的产量损失。适用于病虫害高发期，需结合当地实际情况使用，并具备基本植保知识。免费通过农技站和官网发放，年更新频率确保信息时效性。"
   },
   {
-    "resource_id": "RES014",
+    "resource_id": "RES200",
     "title": "黄淮海地区小麦-玉米周年高产高效种植技术方案",
     "resource_type": "技术方案",
     "content_type": "图文报告",
@@ -1066,13 +1066,13 @@
       "农技推广APP"
     ],
     "related_resources": [
-      "RES008",
-      "RES010"
+      "RES101",
+      "RES103"
     ],
     "summary": "本技术方案针对黄淮海地区小麦-玉米一年两熟制种植体系，基于多年定位试验研究成果，提供了一套完整的品种搭配、茬口衔接和资源优化配置方案。该方案通过科学安排作物生育期，实现光热资源的高效利用，可显著提高周年产量和资源利用效率。适用于各类规模农场，预期可实现周年亩增产12%的经济效益。已在山东德州等示范区取得显著成效。使用本方案需具备两熟制种植经验，并需根据当地条件进行适当调整。"
   },
   {
-    "resource_id": "RES015",
+    "resource_id": "RES201",
     "title": "小麦茎基腐病绿色防控集成技术方案",
     "resource_type": "技术方案",
     "content_type": "图文报告+视频",
@@ -1143,13 +1143,13 @@
       "农技APP"
     ],
     "related_resources": [
-      "RES016",
+      "RES202",
       "RES210"
     ],
     "summary": "本技术方案由中国农业科学院植物保护研究所研发，针对黄淮海冬麦区小麦茎基腐病，提供包含抗病品种筛选、种子处理及微生物菌剂应用等关键技术的绿色防控体系。该方案可减少35%化学农药使用，亩均挽回损失15-20%，适用于30亩以上规模种植户。实施需具备基本植保知识，重点在播种期和返青期应用。已在山东德州示范区取得显著成效，是小麦绿色生产的重要技术支撑。"
   },
   {
-    "resource_id": "RES016",
+    "resource_id": "RES202",
     "title": "水稻机械化收获减损综合培训方案",
     "resource_type": "培训课程",
     "content_type": "视频+手册+测验",
@@ -1218,13 +1218,13 @@
       "农机推广站"
     ],
     "related_resources": [
-      "RES017",
+      "RES203",
       "RES220"
     ],
     "summary": "这是一套面向水稻种植区农机操作人员的专业培训方案，由农业农村部权威机构开发。该资源通过视频、手册和测验相结合的方式，系统传授水稻机械化收获减损技术，包括设备调试、参数设置和田间操作等关键环节。采用量化评估方法验证技术效果，可帮助用户实现亩均3-5%的增收效益。培训内容科学实用，适合全国各稻区不同规模的种植主体，使用前需具备基本的机械操作知识。"
   },
   {
-    "resource_id": "RES017",
+    "resource_id": "RES203",
     "title": "玉米籽粒机收适应性品种筛选技术指南",
     "resource_type": "技术方案",
     "content_type": "图文报告",
@@ -1294,13 +1294,13 @@
       "科研机构官网"
     ],
     "related_resources": [
-      "RES018",
+      "RES204",
       "RES230"
     ],
     "summary": "本技术指南由中国农业科学院作物科学研究所编制，针对玉米机械化收获需求，建立了基于脱水速率、抗倒性等关键指标的品种适应性评价体系。适用于东北和黄淮海等主要玉米产区，为种植户和农业技术人员提供科学的品种筛选方法。该技术可降低30%的收获成本，减少田间损失，已在吉林农安等示范基地成功应用。使用本指南需具备基本的玉米品种知识，并需结合当地气候条件进行适应性调整。"
   },
   {
-    "resource_id": "RES018",
+    "resource_id": "RES204",
     "title": "大豆玉米带状复合种植智能决策支持系统",
     "resource_type": "数字工具",
     "content_type": "SaaS服务",
@@ -1373,13 +1373,13 @@
       "专业平台"
     ],
     "related_resources": [
-      "RES019",
+      "RES205",
       "RES240"
     ],
     "summary": "该系统是一款面向规模化种植户的高级数字农业工具，基于双作物协同模型，为大豆玉米带状复合种植提供科学的带型配置、品种搭配和肥水优化决策。适用于东北、黄淮海和西北等主要产区，能显著提高土地利用效率，实现亩增收400-600元。该系统需要用户具备复合种植基础知识和智能终端设备，通过Web和移动端提供季度更新的服务。作为国家重点研发计划成果，已在内蒙古通辽等地成功试点应用。"
   },
   {
-    "resource_id": "RES019",
+    "resource_id": "RES205",
     "title": "苹果园病虫害AI监测预警系统",
     "resource_type": "物联网系统",
     "content_type": "硬件+软件",
@@ -1452,13 +1452,13 @@
       "厂商服务"
     ],
     "related_resources": [
-      "RES020",
+      "RES206",
       "RES250"
     ],
     "summary": "苹果园病虫害AI监测预警系统是一款基于物联网和人工智能技术的智慧植保解决方案。该系统通过整合自动虫情测报、病害模型和环境传感器，实现苹果园病虫害的实时监测与预警，采用AI虫情识别技术提高监测精度。适用于渤海湾和黄土高原等主要苹果产区的规模化果园（50亩以上），可显著降低25%的防治成本，减少盲目施药。系统需要部署监测终端和基站，适合具备果园管理经验的用户使用。山东栖霞示范基地的成功案例验证了其显著的经济和环境效益。"
   },
   {
-    "resource_id": "RES020",
+    "resource_id": "RES206",
     "title": "猕猴桃采后商品化处理技术标准",
     "resource_type": "技术标准",
     "content_type": "标准文本",
@@ -1533,7 +1533,7 @@
     "summary": "本标准由中国果品流通协会制定，系统规范了猕猴桃采后商品化处理的全流程技术要点，包括采收成熟度判定、分级标准、预冷工艺及品质保持技术等核心内容。适用于全国范围内规模化猕猴桃种植基地和合作社，通过标准化处理可显著降低采后损耗25%以上，实现产品增值25-35%。该标准基于行业五年研究成果，已在四川蒲江等示范基地取得显著成效。实施需配套专业采后处理设备和基础操作人员。"
   },
   {
-    "resource_id": "RES021",
+    "resource_id": "RES300",
     "title": "小麦玉米周年水肥优化决策系统",
     "resource_type": "数字工具",
     "content_type": "移动应用",
@@ -1604,13 +1604,13 @@
       "应用商店"
     ],
     "related_resources": [
-      "RES015",
-      "RES017"
+      "RES201",
+      "RES203"
     ],
     "summary": "这是一款面向黄淮海地区小麦-玉米轮作系统的水肥优化决策支持工具。该系统基于双季养分平衡模型，通过整合土壤检测数据和作物需求，提供周年水肥运筹方案，可实现15-20%的化肥减量，亩均节约成本200元。适用于50亩以上规模种植户，需要用户具备两熟制种植经验。系统通过移动应用提供交互式决策支持，基础功能免费，高级功能需付费订阅。"
   },
   {
-    "resource_id": "RES022",
+    "resource_id": "NEW_RES_001",
     "title": "设施番茄无土栽培营养液智能调配系统",
     "resource_type": "技术系统",
     "content_type": "软件工具",
@@ -1629,7 +1629,7 @@
     ]
   },
   {
-    "resource_id": "RES023",
+    "resource_id": "NEW_RES_002",
     "title": "柑橘园土壤酸化改良技术实操手册",
     "resource_type": "技术指南",
     "content_type": "图文手册",
@@ -1648,7 +1648,7 @@
     ]
   },
   {
-    "resource_id": "RES024",
+    "resource_id": "NEW_RES_003",
     "title": "农产品直播带货全流程培训课程",
     "resource_type": "培训资源",
     "content_type": "视频课程",
@@ -1667,7 +1667,7 @@
     ]
   },
   {
-    "resource_id": "RES025",
+    "resource_id": "NEW_RES_004",
     "title": "设施草莓光温耦合调控决策支持系统",
     "resource_type": "智能系统",
     "content_type": "移动应用",
@@ -1686,7 +1686,7 @@
     ]
   },
   {
-    "resource_id": "RES026",
+    "resource_id": "NEW_RES_005",
     "title": "2024年全球粮食市场趋势分析与预测报告",
     "resource_type": "行业报告",
     "content_type": "PDF文档",
@@ -1708,7 +1708,7 @@
     ]
   },
   {
-    "resource_id": "RES027",
+    "resource_id": "NEW_RES_001",
     "title": "土壤微生物多样性评估与健康诊断系统",
     "resource_type": "数字工具",
     "content_type": "软件系统",
@@ -1730,7 +1730,7 @@
     ]
   },
   {
-    "resource_id": "RES028",
+    "resource_id": "NEW_RES_002",
     "title": "设施蔬菜水肥气热协同调控技术手册",
     "resource_type": "技术指南",
     "content_type": "电子手册",
@@ -1752,7 +1752,7 @@
     ]
   },
   {
-    "resource_id": "RES029",
+    "resource_id": "NEW_RES_003",
     "title": "农产品区域公用品牌建设与运营实战课程",
     "resource_type": "培训课程",
     "content_type": "在线视频课程",
@@ -1774,7 +1774,7 @@
     ]
   },
   {
-    "resource_id": "RES030",
+    "resource_id": "NEW_RES_004",
     "title": "智慧果园机器人巡检与作业系统",
     "resource_type": "智能装备",
     "content_type": "技术方案",
@@ -1796,7 +1796,7 @@
     ]
   },
   {
-    "resource_id": "RES031",
+    "resource_id": "NEW_RES_005",
     "title": "有机水稻种植成本效益分析与决策支持工具",
     "resource_type": "分析工具",
     "content_type": "交互式应用程序",
@@ -1815,7 +1815,7 @@
     ]
   },
   {
-    "resource_id": "RES032",
+    "resource_id": "NEW_RES_001",
     "title": "茶园土壤重金属污染修复技术实操手册",
     "resource_type": "技术手册",
     "content_type": "图文教程",
@@ -1833,7 +1833,7 @@
     ]
   },
   {
-    "resource_id": "RES033",
+    "resource_id": "NEW_RES_002",
     "title": "设施甜瓜光温耦合智能调控决策系统",
     "resource_type": "决策支持系统",
     "content_type": "软件工具",
@@ -1851,7 +1851,7 @@
     ]
   },
   {
-    "resource_id": "RES034",
+    "resource_id": "NEW_RES_003",
     "title": "农产品跨境电商运营实战培训课程",
     "resource_type": "培训课程",
     "content_type": "视频课程",
@@ -1869,7 +1869,7 @@
     ]
   },
   {
-    "resource_id": "RES035",
+    "resource_id": "NEW_RES_004",
     "title": "马铃薯晚疫病遥感监测预警平台",
     "resource_type": "监测系统",
     "content_type": "在线平台",
@@ -1887,7 +1887,7 @@
     ]
   },
   {
-    "resource_id": "RES036",
+    "resource_id": "NEW_RES_005",
     "title": "有机蔬菜种植成本效益分析工具",
     "resource_type": "分析工具",
     "content_type": "电子表格模板",
@@ -1906,7 +1906,7 @@
     ]
   },
   {
-    "resource_id": "RES037",
+    "resource_id": "NEW_RES_001",
     "title": "油菜菌核病无人机遥感监测与精准施药技术指南",
     "resource_type": "技术手册",
     "content_type": "PDF文档+操作视频",
@@ -1924,7 +1924,7 @@
     ]
   },
   {
-    "resource_id": "RES038",
+    "resource_id": "NEW_RES_002",
     "title": "设施葡萄光质调控与品质提升智能决策系统",
     "resource_type": "数字工具",
     "content_type": "移动应用",
@@ -1942,7 +1942,7 @@
     ]
   },
   {
-    "resource_id": "RES039",
+    "resource_id": "NEW_RES_003",
     "title": "有机茶叶碳足迹核算与低碳认证全流程培训课程",
     "resource_type": "在线课程",
     "content_type": "视频课程+实操工具包",
@@ -1960,7 +1960,7 @@
     ]
   },
   {
-    "resource_id": "RES040",
+    "resource_id": "NEW_RES_004",
     "title": "盐碱地水稻种植微生物群落调控技术图谱",
     "resource_type": "可视化图谱",
     "content_type": "电子交互图表",
@@ -1978,7 +1978,7 @@
     ]
   },
   {
-    "resource_id": "RES041",
+    "resource_id": "NEW_RES_005",
     "title": "农产品区域品牌抖音矩阵运营实战手册",
     "resource_type": "培训教材",
     "content_type": "图文手册+案例库",
@@ -1996,7 +1996,7 @@
     ]
   },
   {
-    "resource_id": "RES042",
+    "resource_id": "NEW_RES_001",
     "title": "智慧温室作物生长环境数字孪生系统",
     "resource_type": "决策支持系统",
     "content_type": "软件平台",
@@ -2016,7 +2016,7 @@
     ]
   },
   {
-    "resource_id": "RES043",
+    "resource_id": "NEW_RES_002",
     "title": "有机蓝莓土壤微生物组改良技术图谱",
     "resource_type": "技术图谱",
     "content_type": "可视化图表",
@@ -2034,7 +2034,7 @@
     ]
   },
   {
-    "resource_id": "RES044",
+    "resource_id": "NEW_RES_003",
     "title": "农产品品牌IP化设计与运营实战课程",
     "resource_type": "培训课程",
     "content_type": "视频课程",
@@ -2052,7 +2052,7 @@
     ]
   },
   {
-    "resource_id": "RES045",
+    "resource_id": "NEW_RES_004",
     "title": "水稻智能节水灌溉决策支持工具",
     "resource_type": "决策工具",
     "content_type": "移动应用",
@@ -2070,7 +2070,7 @@
     ]
   },
   {
-    "resource_id": "RES046",
+    "resource_id": "NEW_RES_005",
     "title": "2024-2025全球有机农产品贸易政策解读报告",
     "resource_type": "行业报告",
     "content_type": "PDF文档",
@@ -2088,7 +2088,7 @@
     ]
   },
   {
-    "resource_id": "RES047",
+    "resource_id": "NEW_RES_001",
     "title": "设施黄瓜光合效率优化智能调控系统",
     "resource_type": "决策支持系统",
     "content_type": "数字工具",
@@ -2106,7 +2106,7 @@
     ]
   },
   {
-    "resource_id": "RES048",
+    "resource_id": "NEW_RES_001",
     "title": "智慧农场数字孪生系统建设指南",
     "resource_type": "技术手册",
     "content_type": "电子文档",
@@ -2124,7 +2124,7 @@
     ]
   },
   {
-    "resource_id": "RES049",
+    "resource_id": "NEW_RES_002",
     "title": "有机蔬菜土壤健康评估与改良技术视频课程",
     "resource_type": "培训课程",
     "content_type": "视频",
@@ -2143,7 +2143,7 @@
     ]
   },
   {
-    "resource_id": "RES050",
+    "resource_id": "NEW_RES_003",
     "title": "2024年全球智慧农业技术趋势与投资分析报告",
     "resource_type": "研究报告",
     "content_type": "PDF文档",
@@ -2159,7 +2159,7 @@
     ]
   },
   {
-    "resource_id": "RES051",
+    "resource_id": "NEW_RES_004",
     "title": "柑橘黄龙病早期诊断与综合防控技术图谱",
     "resource_type": "技术图谱",
     "content_type": "可视化图表",
@@ -2177,7 +2177,7 @@
     ]
   },
   {
-    "resource_id": "RES052",
+    "resource_id": "NEW_RES_005",
     "title": "农产品品牌短视频创作与运营实战手册",
     "resource_type": "实操手册",
     "content_type": "电子文档",
@@ -2193,7 +2193,7 @@
     ]
   },
   {
-    "resource_id": "RES053",
+    "resource_id": "NEW_RES_001",
     "title": "智能温室番茄生长环境数字孪生系统",
     "resource_type": "决策支持系统",
     "content_type": "软件平台",
@@ -2211,7 +2211,7 @@
     ]
   },
   {
-    "resource_id": "RES054",
+    "resource_id": "NEW_RES_002",
     "title": "有机草莓土壤微生物组改良技术实操视频",
     "resource_type": "技术教程",
     "content_type": "视频课程",
@@ -2229,7 +2229,7 @@
     ]
   },
   {
-    "resource_id": "RES055",
+    "resource_id": "NEW_RES_003",
     "title": "2024年全球垂直农业投资热点与市场前景分析报告",
     "resource_type": "行业报告",
     "content_type": "PDF文档",
@@ -2248,7 +2248,7 @@
     ]
   },
   {
-    "resource_id": "RES056",
+    "resource_id": "NEW_RES_004",
     "title": "水稻智能叶龄诊断与精准施肥移动应用",
     "resource_type": "移动应用",
     "content_type": "APP",
@@ -2266,7 +2266,7 @@
     ]
   },
   {
-    "resource_id": "RES057",
+    "resource_id": "NEW_RES_005",
     "title": "农产品区域品牌元宇宙营销实战课程",
     "resource_type": "培训课程",
     "content_type": "在线课程",
@@ -2282,7 +2282,7 @@
     ]
   },
   {
-    "resource_id": "RES058",
+    "resource_id": "NEW_RES_001",
     "title": "棉花智能滴灌与盐碱胁迫调控决策系统",
     "resource_type": "智能决策工具",
     "content_type": "数字应用",
@@ -2300,7 +2300,7 @@
     ]
   },
   {
-    "resource_id": "RES059",
+    "resource_id": "NEW_RES_002",
     "title": "设施樱桃周年生产环境调控数字孪生系统",
     "resource_type": "智能管理系统",
     "content_type": "软件平台",
@@ -2318,7 +2318,7 @@
     ]
   },
   {
-    "resource_id": "RES060",
+    "resource_id": "NEW_RES_003",
     "title": "2024年全球植物工厂投资回报分析报告",
     "resource_type": "市场分析报告",
     "content_type": "PDF文档",
@@ -2337,7 +2337,7 @@
     ]
   },
   {
-    "resource_id": "RES061",
+    "resource_id": "NEW_RES_004",
     "title": "茶园土壤有机质提升微生物菌剂应用技术视频课程",
     "resource_type": "技术培训课程",
     "content_type": "视频教程",
@@ -2355,7 +2355,7 @@
     ]
   },
   {
-    "resource_id": "RES062",
+    "resource_id": "NEW_RES_005",
     "title": "农产品区域品牌小红书内容营销实战手册",
     "resource_type": "营销指南",
     "content_type": "电子书",
@@ -2373,7 +2373,7 @@
     ]
   },
   {
-    "resource_id": "RES063",
+    "resource_id": "NEW_RES_001",
     "title": "智慧农场数字孪生系统建设指南",
     "resource_type": "技术手册",
     "content_type": "电子文档",
@@ -2393,7 +2393,7 @@
     ]
   },
   {
-    "resource_id": "RES064",
+    "resource_id": "NEW_RES_002",
     "title": "有机蔬菜土壤健康评估与改良技术视频课程",
     "resource_type": "视频课程",
     "content_type": "在线视频",
@@ -2413,7 +2413,7 @@
     ]
   },
   {
-    "resource_id": "RES065",
+    "resource_id": "NEW_RES_003",
     "title": "2024年全球智慧农业技术趋势与投资分析报告",
     "resource_type": "研究报告",
     "content_type": "PDF文档",
@@ -2429,7 +2429,7 @@
     ]
   },
   {
-    "resource_id": "RES066",
+    "resource_id": "NEW_RES_004",
     "title": "柑橘黄龙病早期诊断与综合防控技术图谱",
     "resource_type": "技术图谱",
     "content_type": "可视化图表",
@@ -2447,7 +2447,7 @@
     ]
   },
   {
-    "resource_id": "RES067",
+    "resource_id": "NEW_RES_005",
     "title": "农产品品牌短视频创作与运营实战手册",
     "resource_type": "实战手册",
     "content_type": "电子文档",
@@ -2463,7 +2463,7 @@
     ]
   },
   {
-    "resource_id": "RES068",
+    "resource_id": "NEW_RES_001",
     "title": "智能温室番茄生长环境数字孪生系统",
     "resource_type": "决策支持系统",
     "content_type": "软件平台",
@@ -2481,7 +2481,7 @@
     ]
   },
   {
-    "resource_id": "RES069",
+    "resource_id": "NEW_RES_002",
     "title": "有机水稻土壤健康评估与微生物调控技术手册",
     "resource_type": "技术手册",
     "content_type": "图文指南",
@@ -2499,7 +2499,7 @@
     ]
   },
   {
-    "resource_id": "RES070",
+    "resource_id": "NEW_RES_003",
     "title": "2024-2025全球智慧农业传感器市场分析报告",
     "resource_type": "市场分析报告",
     "content_type": "PDF文档",
@@ -2515,7 +2515,7 @@
     ]
   },
   {
-    "resource_id": "RES071",
+    "resource_id": "NEW_RES_004",
     "title": "柑橘园智能精准喷药机器人操作培训课程",
     "resource_type": "培训课程",
     "content_type": "视频教程",
@@ -2533,7 +2533,7 @@
     ]
   },
   {
-    "resource_id": "RES072",
+    "resource_id": "NEW_RES_005",
     "title": "农产品区域品牌社群营销实战手册",
     "resource_type": "营销指南",
     "content_type": "电子书",
@@ -2549,7 +2549,7 @@
     ]
   },
   {
-    "resource_id": "RES073",
+    "resource_id": "NEW_RES_001",
     "title": "智能温室番茄生长环境数字孪生系统",
     "resource_type": "决策支持系统",
     "content_type": "软件工具",
@@ -2568,7 +2568,7 @@
     ]
   },
   {
-    "resource_id": "RES074",
+    "resource_id": "NEW_RES_002",
     "title": "有机水稻土壤健康评估与微生物调控技术手册",
     "resource_type": "技术手册",
     "content_type": "电子文档",
@@ -2587,7 +2587,7 @@
     ]
   },
   {
-    "resource_id": "RES075",
+    "resource_id": "NEW_RES_003",
     "title": "2024-2025全球智慧农业传感器市场分析报告",
     "resource_type": "市场分析报告",
     "content_type": "PDF文档",
@@ -2604,7 +2604,7 @@
     ]
   },
   {
-    "resource_id": "RES076",
+    "resource_id": "NEW_RES_004",
     "title": "柑橘园智能精准喷药机器人操作培训课程",
     "resource_type": "培训课程",
     "content_type": "在线视频",
@@ -2623,7 +2623,7 @@
     ]
   },
   {
-    "resource_id": "RES077",
+    "resource_id": "NEW_RES_005",
     "title": "农产品区域品牌社群营销实战手册",
     "resource_type": "营销指南",
     "content_type": "电子文档",
@@ -2640,7 +2640,7 @@
     ]
   },
   {
-    "resource_id": "RES078",
+    "resource_id": "NEW_RES_001",
     "title": "基于区块链的农产品溯源系统建设指南",
     "resource_type": "技术手册",
     "content_type": "电子文档",
@@ -2660,7 +2660,7 @@
     ]
   },
   {
-    "resource_id": "RES079",
+    "resource_id": "NEW_RES_002",
     "title": "设施草莓光周期调控与产量预测AI模型",
     "resource_type": "决策工具",
     "content_type": "软件系统",
@@ -2678,7 +2678,7 @@
     ]
   },
   {
-    "resource_id": "RES080",
+    "resource_id": "NEW_RES_003",
     "title": "热带水果采后冷链物流温湿度控制技术标准",
     "resource_type": "行业标准",
     "content_type": "PDF文档",
@@ -2698,7 +2698,7 @@
     ]
   },
   {
-    "resource_id": "RES081",
+    "resource_id": "NEW_RES_004",
     "title": "农业碳中和路径规划与碳汇核算工具包",
     "resource_type": "分析工具",
     "content_type": "软件+手册",
@@ -2718,7 +2718,7 @@
     ]
   },
   {
-    "resource_id": "RES082",
+    "resource_id": "NEW_RES_005",
     "title": "中药材连作障碍微生物修复技术视频教程",
     "resource_type": "培训课程",
     "content_type": "视频系列",
@@ -2738,7 +2738,7 @@
     ]
   },
   {
-    "resource_id": "RES083",
+    "resource_id": "NEW_RES_001",
     "title": "基于深度学习的葡萄霜霉病早期预警移动应用",
     "resource_type": "移动应用",
     "content_type": "数字工具",
@@ -2757,7 +2757,7 @@
     ]
   },
   {
-    "resource_id": "RES084",
+    "resource_id": "NEW_RES_002",
     "title": "设施番茄熊蜂授粉与人工补光协同增效技术手册",
     "resource_type": "技术手册",
     "content_type": "图文指南",
@@ -2776,7 +2776,7 @@
     ]
   },
   {
-    "resource_id": "RES085",
+    "resource_id": "NEW_RES_003",
     "title": "2024-2025年全球蓝莓市场供需分析与价格预测报告",
     "resource_type": "市场报告",
     "content_type": "PDF文档",
@@ -2795,7 +2795,7 @@
     ]
   },
   {
-    "resource_id": "RES086",
+    "resource_id": "NEW_RES_004",
     "title": "水稻秸秆生物炭制备与土壤改良应用视频课程",
     "resource_type": "在线课程",
     "content_type": "视频教程",
@@ -2814,7 +2814,7 @@
     ]
   },
   {
-    "resource_id": "RES087",
+    "resource_id": "NEW_RES_005",
     "title": "农产品区域品牌视觉识别系统设计指南",
     "resource_type": "设计指南",
     "content_type": "图文手册",
@@ -2831,7 +2831,7 @@
     ]
   },
   {
-    "resource_id": "RES088",
+    "resource_id": "NEW_RES_001",
     "title": "基于物联网的葡萄园霜冻预警与智能防护系统",
     "resource_type": "技术系统",
     "content_type": "软件平台",
@@ -2850,7 +2850,7 @@
     ]
   },
   {
-    "resource_id": "RES089",
+    "resource_id": "NEW_RES_002",
     "title": "有机蔬菜土壤碳汇核算与交易实操指南",
     "resource_type": "手册",
     "content_type": "图文手册+在线工具",
@@ -2870,7 +2870,7 @@
     ]
   },
   {
-    "resource_id": "RES090",
+    "resource_id": "NEW_RES_003",
     "title": "荔枝采后冷链运输品质保持技术VR实训系统",
     "resource_type": "培训资源",
     "content_type": "虚拟现实应用",
@@ -2889,7 +2889,7 @@
     ]
   },
   {
-    "resource_id": "RES091",
+    "resource_id": "NEW_RES_004",
     "title": "2024-2025年度全球植物基蛋白市场竞争力分析报告",
     "resource_type": "行业报告",
     "content_type": "PDF+动态数据看板",
@@ -2910,7 +2910,7 @@
     ]
   },
   {
-    "resource_id": "RES092",
+    "resource_id": "NEW_RES_005",
     "title": "茶园生态调控型防霜系统设计标准",
     "resource_type": "技术标准",
     "content_type": "标准文本+三维模型库",
@@ -2929,7 +2929,7 @@
     ]
   },
   {
-    "resource_id": "RES093",
+    "resource_id": "NEW_RES_001",
     "title": "基于AI的棉花黄萎病早期诊断与防控决策系统",
     "resource_type": "智能决策系统",
     "content_type": "软件平台",
@@ -2947,7 +2947,7 @@
     ]
   },
   {
-    "resource_id": "RES094",
+    "resource_id": "NEW_RES_002",
     "title": "设施辣椒光温水肥协同调控数字孪生系统",
     "resource_type": "数字孪生系统",
     "content_type": "软件平台",
@@ -2965,7 +2965,7 @@
     ]
   },
   {
-    "resource_id": "RES095",
+    "resource_id": "NEW_RES_003",
     "title": "有机苹果园碳足迹核算与低碳认证实操指南",
     "resource_type": "技术手册",
     "content_type": "电子文档",
@@ -2983,7 +2983,7 @@
     ]
   },
   {
-    "resource_id": "RES096",
+    "resource_id": "NEW_RES_004",
     "title": "农产品区域品牌出海营销策略直播课程",
     "resource_type": "培训课程",
     "content_type": "在线直播",
@@ -3001,7 +3001,7 @@
     ]
   },
   {
-    "resource_id": "RES097",
+    "resource_id": "NEW_RES_005",
     "title": "盐碱地水稻根系微生物组改良技术VR实训系统",
     "resource_type": "虚拟实训系统",
     "content_type": "VR应用",
@@ -3019,7 +3019,7 @@
     ]
   },
   {
-    "resource_id": "RES098",
+    "resource_id": "NEW_RES_001",
     "title": "基于AI的茶园病虫害智能识别与防治决策系统",
     "resource_type": "智能决策系统",
     "content_type": "软件工具",
@@ -3038,7 +3038,7 @@
     ]
   },
   {
-    "resource_id": "RES099",
+    "resource_id": "NEW_RES_002",
     "title": "设施番茄熊蜂授粉效果评估与成本效益分析工具",
     "resource_type": "分析工具",
     "content_type": "电子表格模板",
@@ -3057,7 +3057,7 @@
     ]
   },
   {
-    "resource_id": "RES100",
+    "resource_id": "NEW_RES_003",
     "title": "2024-2025年度全球有机乳制品市场准入政策解读直播课",
     "resource_type": "政策解读",
     "content_type": "在线直播课程",
@@ -3076,7 +3076,7 @@
     ]
   },
   {
-    "resource_id": "RES101",
+    "resource_id": "NEW_RES_004",
     "title": "盐碱地棉花根系微生物组改良技术VR实训系统",
     "resource_type": "虚拟实训",
     "content_type": "VR应用程序",
@@ -3095,7 +3095,7 @@
     ]
   },
   {
-    "resource_id": "RES102",
+    "resource_id": "NEW_RES_005",
     "title": "农产品区域品牌年轻化营销策略设计工作坊",
     "resource_type": "实战培训",
     "content_type": "线下工作坊",
@@ -3114,7 +3114,7 @@
     ]
   },
   {
-    "resource_id": "RES103",
+    "resource_id": "NEW_RES_001",
     "title": "基于AI的草莓白粉病早期预警与精准施药系统",
     "resource_type": "智能决策系统",
     "content_type": "软件平台",
@@ -3133,7 +3133,7 @@
     ]
   },
   {
-    "resource_id": "RES104",
+    "resource_id": "NEW_RES_002",
     "title": "丘陵地区油茶林水土保持与养分循环技术图谱",
     "resource_type": "技术可视化指南",
     "content_type": "交互式电子图谱",
@@ -3152,7 +3152,7 @@
     ]
   },
   {
-    "resource_id": "RES105",
+    "resource_id": "NEW_RES_003",
     "title": "设施西甜瓜蜜蜂授粉与温光调控协同技术VR实训系统",
     "resource_type": "虚拟实训平台",
     "content_type": "VR应用",
@@ -3172,7 +3172,7 @@
     ]
   },
   {
-    "resource_id": "RES106",
+    "resource_id": "NEW_RES_004",
     "title": "2024-2025全球精准灌溉传感器市场竞争力分析报告",
     "resource_type": "市场研究报告",
     "content_type": "PDF报告",
@@ -3189,7 +3189,7 @@
     ]
   },
   {
-    "resource_id": "RES107",
+    "resource_id": "NEW_RES_005",
     "title": "有机猕猴桃园生物多样性评估与生态服务价值核算工具包",
     "resource_type": "分析工具",
     "content_type": "Excel工具包+视频教程",
@@ -3208,7 +3208,7 @@
     ]
   },
   {
-    "resource_id": "RES108",
+    "resource_id": "NEW_RES_001",
     "title": "基于区块链的有机农产品全生命周期溯源系统",
     "resource_type": "技术系统",
     "content_type": "操作手册",
@@ -3227,7 +3227,7 @@
     ]
   },
   {
-    "resource_id": "RES109",
+    "resource_id": "NEW_RES_002",
     "title": "丘陵地区柑橘园智能仿形修剪机器人操作实训课程",
     "resource_type": "培训课程",
     "content_type": "VR模拟系统",
@@ -3245,7 +3245,7 @@
     ]
   },
   {
-    "resource_id": "RES110",
+    "resource_id": "NEW_RES_003",
     "title": "设施番茄光合碳同化效率AI优化决策系统",
     "resource_type": "决策工具",
     "content_type": "移动应用",
@@ -3263,7 +3263,7 @@
     ]
   },
   {
-    "resource_id": "RES111",
+    "resource_id": "NEW_RES_004",
     "title": "2024-2025全球都市农业创新模式白皮书",
     "resource_type": "研究报告",
     "content_type": "电子文档",
@@ -3282,7 +3282,7 @@
     ]
   },
   {
-    "resource_id": "RES112",
+    "resource_id": "NEW_RES_005",
     "title": "盐碱地水稻根系微生物组定向改良技术包",
     "resource_type": "技术方案",
     "content_type": "试剂盒+视频教程",
@@ -3300,7 +3300,7 @@
     ]
   },
   {
-    "resource_id": "RES113",
+    "resource_id": "NEW_RES_001",
     "title": "基于AI的香蕉枯萎病早期诊断与防控决策系统",
     "resource_type": "智能决策系统",
     "content_type": "软件应用",
@@ -3318,7 +3318,7 @@
     ]
   },
   {
-    "resource_id": "RES114",
+    "resource_id": "NEW_RES_002",
     "title": "都市农业屋顶农场设计与运营成本效益分析工具",
     "resource_type": "分析工具",
     "content_type": "交互式电子表格",
@@ -3337,7 +3337,7 @@
     ]
   },
   {
-    "resource_id": "RES115",
+    "resource_id": "NEW_RES_003",
     "title": "有机蓝莓土壤微生物组改良技术VR实训系统",
     "resource_type": "培训系统",
     "content_type": "虚拟现实应用",
@@ -3355,7 +3355,7 @@
     ]
   },
   {
-    "resource_id": "RES116",
+    "resource_id": "NEW_RES_004",
     "title": "2024-2025全球垂直农场投资热点与运营模式分析报告",
     "resource_type": "市场分析",
     "content_type": "研究报告",
@@ -3375,7 +3375,7 @@
     ]
   },
   {
-    "resource_id": "RES117",
+    "resource_id": "NEW_RES_005",
     "title": "基于区块链的有机茶叶全供应链溯源系统建设指南",
     "resource_type": "技术指南",
     "content_type": "电子手册",
@@ -3393,7 +3393,7 @@
     ]
   },
   {
-    "resource_id": "RES118",
+    "resource_id": "NEW_RES_001",
     "title": "基于AI的茶园土壤健康动态监测与改良决策系统",
     "resource_type": "智能决策系统",
     "content_type": "软件平台",
@@ -3412,7 +3412,7 @@
     ]
   },
   {
-    "resource_id": "RES119",
+    "resource_id": "NEW_RES_002",
     "title": "都市微型农场垂直种植成本效益分析工具包",
     "resource_type": "经济分析工具",
     "content_type": "电子表格模板",
@@ -3432,7 +3432,7 @@
     ]
   },
   {
-    "resource_id": "RES120",
+    "resource_id": "NEW_RES_003",
     "title": "热带水果采后品质保持区块链溯源系统实施指南",
     "resource_type": "技术标准",
     "content_type": "PDF手册",
@@ -3453,7 +3453,7 @@
     ]
   },
   {
-    "resource_id": "RES121",
+    "resource_id": "NEW_RES_004",
     "title": "设施草莓光质-授粉协同调控VR实训系统",
     "resource_type": "虚拟实训系统",
     "content_type": "VR应用",
@@ -3472,7 +3472,7 @@
     ]
   },
   {
-    "resource_id": "RES122",
+    "resource_id": "NEW_RES_005",
     "title": "2024-2025全球有机中药材市场准入政策解读直播课",
     "resource_type": "市场分析报告",
     "content_type": "在线直播课程",
@@ -3493,7 +3493,7 @@
     ]
   },
   {
-    "resource_id": "RES123",
+    "resource_id": "NEW_RES_001",
     "title": "基于AI的温室番茄病虫害早期诊断与防控决策系统",
     "resource_type": "智能决策系统",
     "content_type": "软件应用",
@@ -3512,7 +3512,7 @@
     ]
   },
   {
-    "resource_id": "RES124",
+    "resource_id": "NEW_RES_002",
     "title": "有机草莓种植碳足迹核算与减排技术手册",
     "resource_type": "技术手册",
     "content_type": "电子文档",
@@ -3531,7 +3531,7 @@
     ]
   },
   {
-    "resource_id": "RES125",
+    "resource_id": "NEW_RES_003",
     "title": "丘陵地区茶园智能灌溉机器人操作实训课程",
     "resource_type": "培训课程",
     "content_type": "VR模拟实训",
@@ -3550,7 +3550,7 @@
     ]
   },
   {
-    "resource_id": "RES126",
+    "resource_id": "NEW_RES_004",
     "title": "2024-2025全球功能性农产品消费趋势与市场机会报告",
     "resource_type": "市场分析报告",
     "content_type": "PDF文档",
@@ -3569,7 +3569,7 @@
     ]
   },
   {
-    "resource_id": "RES127",
+    "resource_id": "NEW_RES_005",
     "title": "基于区块链的鲜食葡萄全程冷链质量追溯系统",
     "resource_type": "技术解决方案",
     "content_type": "系统建设指南",
@@ -3588,7 +3588,7 @@
     ]
   },
   {
-    "resource_id": "RES128",
+    "resource_id": "NEW_RES_001",
     "title": "基于AI的温室黄瓜生长异常实时诊断与调控系统",
     "resource_type": "智能决策系统",
     "content_type": "软件平台",
@@ -3607,7 +3607,7 @@
     ]
   },
   {
-    "resource_id": "RES129",
+    "resource_id": "NEW_RES_002",
     "title": "有机茶园土壤微生物多样性提升技术实操视频课程",
     "resource_type": "培训课程",
     "content_type": "视频教程",
@@ -3626,7 +3626,7 @@
     ]
   },
   {
-    "resource_id": "RES130",
+    "resource_id": "NEW_RES_003",
     "title": "2024-2025全球智慧畜牧技术投资热点分析报告",
     "resource_type": "行业报告",
     "content_type": "PDF文档",
@@ -3643,7 +3643,7 @@
     ]
   },
   {
-    "resource_id": "RES131",
+    "resource_id": "NEW_RES_004",
     "title": "丘陵地区柑橘园无人机变量施肥决策支持工具",
     "resource_type": "数字工具",
     "content_type": "移动应用",
@@ -3662,7 +3662,7 @@
     ]
   },
   {
-    "resource_id": "RES132",
+    "resource_id": "NEW_RES_005",
     "title": "农产品区域品牌元宇宙展厅建设指南",
     "resource_type": "技术手册",
     "content_type": "电子书",
@@ -3679,7 +3679,7 @@
     ]
   },
   {
-    "resource_id": "RES133",
+    "resource_id": "NEW_RES_001",
     "title": "基于AI的温室番茄病虫害早期诊断与防控决策系统",
     "resource_type": "智能决策工具",
     "content_type": "软件系统",
@@ -3698,7 +3698,7 @@
     ]
   },
   {
-    "resource_id": "RES134",
+    "resource_id": "NEW_RES_002",
     "title": "丘陵地区油茶林水土保持与养分循环技术图谱",
     "resource_type": "技术指南",
     "content_type": "可视化图谱",
@@ -3717,7 +3717,7 @@
     ]
   },
   {
-    "resource_id": "RES135",
+    "resource_id": "NEW_RES_003",
     "title": "有机猕猴桃园生物多样性评估与生态服务价值核算工具包",
     "resource_type": "分析工具",
     "content_type": "软件工具包",
@@ -3736,7 +3736,7 @@
     ]
   },
   {
-    "resource_id": "RES136",
+    "resource_id": "NEW_RES_004",
     "title": "2024-2025全球都市农业创新模式白皮书",
     "resource_type": "市场报告",
     "content_type": "研究报告",
@@ -3755,7 +3755,7 @@
     ]
   },
   {
-    "resource_id": "RES137",
+    "resource_id": "NEW_RES_005",
     "title": "基于区块链的鲜食葡萄全程冷链质量追溯系统",
     "resource_type": "溯源系统",
     "content_type": "软件系统",
@@ -3774,7 +3774,7 @@
     ]
   },
   {
-    "resource_id": "RES138",
+    "resource_id": "NEW_RES_001",
     "title": "基于AI的温室甜瓜生长异常实时诊断与调控系统",
     "resource_type": "智能决策系统",
     "content_type": "软件工具",
@@ -3792,7 +3792,7 @@
     ]
   },
   {
-    "resource_id": "RES139",
+    "resource_id": "NEW_RES_002",
     "title": "有机蓝莓园碳足迹核算与碳交易实操指南",
     "resource_type": "技术手册",
     "content_type": "电子文档",
@@ -3810,7 +3810,7 @@
     ]
   },
   {
-    "resource_id": "RES140",
+    "resource_id": "NEW_RES_003",
     "title": "丘陵地区茶园智能灌溉机器人操作实训课程",
     "resource_type": "培训课程",
     "content_type": "视频教程",
@@ -3828,7 +3828,7 @@
     ]
   },
   {
-    "resource_id": "RES141",
+    "resource_id": "NEW_RES_004",
     "title": "2024-2025全球功能性农产品消费趋势与市场机会报告",
     "resource_type": "市场分析报告",
     "content_type": "研究报告",
@@ -3846,7 +3846,7 @@
     ]
   },
   {
-    "resource_id": "RES142",
+    "resource_id": "NEW_RES_005",
     "title": "基于区块链的有机蔬菜全供应链质量追溯系统建设指南",
     "resource_type": "技术标准",
     "content_type": "电子文档",
@@ -3865,7 +3865,7 @@
     ]
   },
   {
-    "resource_id": "RES143",
+    "resource_id": "NEW_RES_001",
     "title": "基于AI的设施番茄营养诊断与精准补光决策系统",
     "resource_type": "智能决策工具",
     "content_type": "软件系统",
@@ -3884,7 +3884,7 @@
     ]
   },
   {
-    "resource_id": "RES144",
+    "resource_id": "NEW_RES_002",
     "title": "丘陵茶园水土保持与有机种植技术VR实训系统",
     "resource_type": "虚拟实训平台",
     "content_type": "VR应用",
@@ -3903,7 +3903,7 @@
     ]
   },
   {
-    "resource_id": "RES145",
+    "resource_id": "NEW_RES_003",
     "title": "2024-2025全球垂直农场LED光照系统市场分析报告",
     "resource_type": "市场研究报告",
     "content_type": "PDF报告",
@@ -3923,7 +3923,7 @@
     ]
   },
   {
-    "resource_id": "RES146",
+    "resource_id": "NEW_RES_004",
     "title": "有机草莓土壤微生物组改良技术实操视频课程",
     "resource_type": "技术培训课程",
     "content_type": "视频课程",
@@ -3942,7 +3942,7 @@
     ]
   },
   {
-    "resource_id": "RES147",
+    "resource_id": "NEW_RES_005",
     "title": "基于区块链的鲜切花冷链物流质量追溯系统建设指南",
     "resource_type": "技术实施指南",
     "content_type": "电子手册",
@@ -3963,7 +3963,7 @@
     ]
   },
   {
-    "resource_id": "RES148",
+    "resource_id": "NEW_RES_001",
     "title": "基于AI的设施草莓生长异常实时诊断与调控系统",
     "resource_type": "智能决策系统",
     "content_type": "软件平台",
@@ -3981,7 +3981,7 @@
     ]
   },
   {
-    "resource_id": "RES149",
+    "resource_id": "NEW_RES_002",
     "title": "丘陵茶园水土保持与有机种植技术VR实训系统",
     "resource_type": "虚拟实训系统",
     "content_type": "交互式应用",
@@ -3999,7 +3999,7 @@
     ]
   },
   {
-    "resource_id": "RES150",
+    "resource_id": "NEW_RES_003",
     "title": "2024-2025全球垂直农场LED光照系统市场分析报告",
     "resource_type": "市场分析报告",
     "content_type": "PDF文档",
@@ -4018,7 +4018,7 @@
     ]
   },
   {
-    "resource_id": "RES151",
+    "resource_id": "NEW_RES_004",
     "title": "基于区块链的鲜切花冷链物流质量追溯系统建设指南",
     "resource_type": "技术实施指南",
     "content_type": "电子手册",
@@ -4038,7 +4038,7 @@
     ]
   },
   {
-    "resource_id": "RES152",
+    "resource_id": "NEW_RES_005",
     "title": "有机蓝莓园碳足迹核算与碳交易实操指南",
     "resource_type": "技术手册",
     "content_type": "图文手册",
@@ -4056,7 +4056,7 @@
     ]
   },
   {
-    "resource_id": "RES153",
+    "resource_id": "NEW_RES_001",
     "title": "基于AI的温室番茄病虫害早期诊断与防控决策系统",
     "resource_type": "智能决策系统",
     "content_type": "软件工具",
@@ -4075,7 +4075,7 @@
     ]
   },
   {
-    "resource_id": "RES154",
+    "resource_id": "NEW_RES_002",
     "title": "有机蓝莓园碳足迹核算与碳交易实操指南",
     "resource_type": "技术手册",
     "content_type": "电子书",
@@ -4094,7 +4094,7 @@
     ]
   },
   {
-    "resource_id": "RES155",
+    "resource_id": "NEW_RES_003",
     "title": "丘陵地区茶园智能灌溉机器人操作实训课程",
     "resource_type": "培训课程",
     "content_type": "在线视频",
@@ -4113,7 +4113,7 @@
     ]
   },
   {
-    "resource_id": "RES156",
+    "resource_id": "NEW_RES_004",
     "title": "基于区块链的鲜切花冷链物流质量追溯系统建设指南",
     "resource_type": "技术指南",
     "content_type": "PDF文档",
@@ -4132,7 +4132,7 @@
     ]
   },
   {
-    "resource_id": "RES157",
+    "resource_id": "NEW_RES_005",
     "title": "2024-2025全球垂直农场LED光照系统市场分析报告",
     "resource_type": "市场分析报告",
     "content_type": "PDF文档",
@@ -4151,7 +4151,7 @@
     ]
   },
   {
-    "resource_id": "RES158",
+    "resource_id": "NEW_RES_001",
     "title": "基于AI的温室番茄病虫害早期诊断与防控决策系统",
     "resource_type": "智能决策系统",
     "content_type": "软件工具",
@@ -4170,7 +4170,7 @@
     ]
   },
   {
-    "resource_id": "RES159",
+    "resource_id": "NEW_RES_002",
     "title": "有机蓝莓园碳足迹核算与碳交易实操指南",
     "resource_type": "技术手册",
     "content_type": "电子书",
@@ -4189,7 +4189,7 @@
     ]
   },
   {
-    "resource_id": "RES160",
+    "resource_id": "NEW_RES_003",
     "title": "丘陵地区茶园智能灌溉机器人操作实训课程",
     "resource_type": "培训课程",
     "content_type": "在线视频",
@@ -4208,7 +4208,7 @@
     ]
   },
   {
-    "resource_id": "RES161",
+    "resource_id": "NEW_RES_004",
     "title": "基于区块链的鲜切花冷链物流质量追溯系统建设指南",
     "resource_type": "技术指南",
     "content_type": "PDF文档",
@@ -4227,7 +4227,7 @@
     ]
   },
   {
-    "resource_id": "RES162",
+    "resource_id": "NEW_RES_005",
     "title": "2024-2025全球垂直农场LED光照系统市场分析报告",
     "resource_type": "市场报告",
     "content_type": "研究报告",
@@ -4246,7 +4246,7 @@
     ]
   },
   {
-    "resource_id": "RES163",
+    "resource_id": "NEW_RES_001",
     "title": "基于AI的温室番茄病虫害早期诊断与防控决策系统",
     "resource_type": "智能决策系统",
     "content_type": "软件应用",
@@ -4265,7 +4265,7 @@
     ]
   },
   {
-    "resource_id": "RES164",
+    "resource_id": "NEW_RES_002",
     "title": "有机蓝莓园碳足迹核算与碳交易实操指南",
     "resource_type": "技术手册",
     "content_type": "电子书",
@@ -4284,7 +4284,7 @@
     ]
   },
   {
-    "resource_id": "RES165",
+    "resource_id": "NEW_RES_003",
     "title": "丘陵地区茶园智能灌溉机器人操作实训课程",
     "resource_type": "培训课程",
     "content_type": "在线视频",
@@ -4303,7 +4303,7 @@
     ]
   },
   {
-    "resource_id": "RES166",
+    "resource_id": "NEW_RES_004",
     "title": "基于区块链的鲜切花冷链物流质量追溯系统建设指南",
     "resource_type": "技术指南",
     "content_type": "PDF文档",
@@ -4322,7 +4322,7 @@
     ]
   },
   {
-    "resource_id": "RES167",
+    "resource_id": "NEW_RES_005",
     "title": "2024-2025全球垂直农场LED光照系统市场分析报告",
     "resource_type": "市场报告",
     "content_type": "研究报告",
@@ -4341,7 +4341,7 @@
     ]
   },
   {
-    "resource_id": "RES168",
+    "resource_id": "NEW_RES_001",
     "title": "基于AI的温室番茄病虫害早期诊断与防控决策系统",
     "resource_type": "智能决策系统",
     "content_type": "软件工具",
@@ -4360,7 +4360,7 @@
     ]
   },
   {
-    "resource_id": "RES169",
+    "resource_id": "NEW_RES_002",
     "title": "丘陵茶园水土保持与有机种植技术VR实训系统",
     "resource_type": "虚拟实训系统",
     "content_type": "VR应用",
@@ -4379,7 +4379,7 @@
     ]
   },
   {
-    "resource_id": "RES170",
+    "resource_id": "NEW_RES_003",
     "title": "2024-2025全球垂直农场LED光照系统市场分析报告",
     "resource_type": "市场分析报告",
     "content_type": "PDF文档",
@@ -4399,7 +4399,7 @@
     ]
   },
   {
-    "resource_id": "RES171",
+    "resource_id": "NEW_RES_004",
     "title": "基于区块链的鲜切花冷链物流质量追溯系统建设指南",
     "resource_type": "技术实施指南",
     "content_type": "电子手册",
@@ -4420,7 +4420,7 @@
     ]
   },
   {
-    "resource_id": "RES172",
+    "resource_id": "NEW_RES_005",
     "title": "有机蓝莓园碳足迹核算与碳交易实操指南",
     "resource_type": "操作手册",
     "content_type": "图文手册",
@@ -4439,7 +4439,7 @@
     ]
   },
   {
-    "resource_id": "RES173",
+    "resource_id": "NEW_RES_001",
     "title": "智慧温室番茄生长异常实时诊断与调控系统",
     "resource_type": "决策支持系统",
     "content_type": "软件工具",
@@ -4457,7 +4457,7 @@
     ]
   },
   {
-    "resource_id": "RES174",
+    "resource_id": "NEW_RES_002",
     "title": "有机茶园土壤微生物多样性提升技术实操视频课程",
     "resource_type": "培训课程",
     "content_type": "视频教程",
@@ -4475,7 +4475,7 @@
     ]
   },
   {
-    "resource_id": "RES175",
+    "resource_id": "NEW_RES_003",
     "title": "2024-2025全球垂直农场LED光照系统市场分析报告",
     "resource_type": "市场分析报告",
     "content_type": "PDF文档",
@@ -4493,7 +4493,7 @@
     ]
   },
   {
-    "resource_id": "RES176",
+    "resource_id": "NEW_RES_004",
     "title": "基于区块链的鲜切花冷链物流质量追溯系统建设指南",
     "resource_type": "技术指南",
     "content_type": "电子书",
@@ -4511,7 +4511,7 @@
     ]
   },
   {
-    "resource_id": "RES177",
+    "resource_id": "NEW_RES_005",
     "title": "丘陵地区茶园智能灌溉机器人操作实训课程",
     "resource_type": "培训课程",
     "content_type": "VR实训系统",
@@ -4529,7 +4529,7 @@
     ]
   },
   {
-    "resource_id": "RES178",
+    "resource_id": "NEW_RES_001",
     "title": "基于AI的设施草莓生长异常实时诊断与调控系统",
     "resource_type": "智能决策系统",
     "content_type": "软件工具",
@@ -4548,7 +4548,7 @@
     ]
   },
   {
-    "resource_id": "RES179",
+    "resource_id": "NEW_RES_002",
     "title": "有机茶园碳足迹核算与低碳认证全流程培训课程",
     "resource_type": "培训课程",
     "content_type": "在线视频课程",
@@ -4567,7 +4567,7 @@
     ]
   },
   {
-    "resource_id": "RES180",
+    "resource_id": "NEW_RES_003",
     "title": "丘陵地区柑橘园无人机变量施肥决策支持工具",
     "resource_type": "决策支持工具",
     "content_type": "移动应用",
@@ -4586,7 +4586,7 @@
     ]
   },
   {
-    "resource_id": "RES181",
+    "resource_id": "NEW_RES_004",
     "title": "2024-2025全球功能性农产品消费趋势与市场机会报告",
     "resource_type": "市场分析报告",
     "content_type": "PDF报告",
@@ -4605,7 +4605,7 @@
     ]
   },
   {
-    "resource_id": "RES182",
+    "resource_id": "NEW_RES_005",
     "title": "盐碱地棉花根系微生物组改良技术VR实训系统",
     "resource_type": "培训系统",
     "content_type": "虚拟现实应用",
@@ -4624,7 +4624,7 @@
     ]
   },
   {
-    "resource_id": "RES183",
+    "resource_id": "NEW_RES_001",
     "title": "基于AI的设施黄瓜生长异常实时诊断与调控系统",
     "resource_type": "智能决策系统",
     "content_type": "软件系统",
@@ -4643,7 +4643,7 @@
     ]
   },
   {
-    "resource_id": "RES184",
+    "resource_id": "NEW_RES_002",
     "title": "有机茶园碳足迹核算与低碳认证全流程培训课程",
     "resource_type": "培训课程",
     "content_type": "在线视频课程",
@@ -4662,7 +4662,7 @@
     ]
   },
   {
-    "resource_id": "RES185",
+    "resource_id": "NEW_RES_003",
     "title": "丘陵地区柑橘园无人机变量施肥决策支持工具",
     "resource_type": "决策支持工具",
     "content_type": "移动应用",
@@ -4681,7 +4681,7 @@
     ]
   },
   {
-    "resource_id": "RES186",
+    "resource_id": "NEW_RES_004",
     "title": "农产品区域品牌元宇宙营销实战工作坊",
     "resource_type": "培训课程",
     "content_type": "线下实操课程",
@@ -4700,7 +4700,7 @@
     ]
   },
   {
-    "resource_id": "RES187",
+    "resource_id": "NEW_RES_005",
     "title": "盐碱地棉花根系微生物组改良技术VR实训系统",
     "resource_type": "培训系统",
     "content_type": "虚拟现实系统",
@@ -4719,7 +4719,7 @@
     ]
   },
   {
-    "resource_id": "RES188",
+    "resource_id": "NEW_RES_001",
     "title": "基于AI的设施番茄营养诊断与精准补光决策系统",
     "resource_type": "决策支持系统",
     "content_type": "数字工具",
@@ -4738,7 +4738,7 @@
     ]
   },
   {
-    "resource_id": "RES189",
+    "resource_id": "NEW_RES_002",
     "title": "丘陵茶园水土保持与有机种植技术VR实训系统",
     "resource_type": "培训系统",
     "content_type": "虚拟现实应用",
@@ -4757,7 +4757,7 @@
     ]
   },
   {
-    "resource_id": "RES190",
+    "resource_id": "NEW_RES_003",
     "title": "2024-2025全球垂直农场LED光照系统市场分析报告",
     "resource_type": "行业报告",
     "content_type": "PDF文档",
@@ -4777,7 +4777,7 @@
     ]
   },
   {
-    "resource_id": "RES191",
+    "resource_id": "NEW_RES_004",
     "title": "基于区块链的鲜切花冷链物流质量追溯系统建设指南",
     "resource_type": "技术指南",
     "content_type": "电子手册",
@@ -4798,7 +4798,7 @@
     ]
   },
   {
-    "resource_id": "RES192",
+    "resource_id": "NEW_RES_005",
     "title": "有机蓝莓园碳足迹核算与碳交易实操指南",
     "resource_type": "操作手册",
     "content_type": "图文教程",
@@ -4817,7 +4817,7 @@
     ]
   },
   {
-    "resource_id": "RES193",
+    "resource_id": "NEW_RES_001",
     "title": "基于AI的温室番茄营养诊断与精准补光决策系统",
     "resource_type": "决策支持系统",
     "content_type": "数字工具",
@@ -4836,7 +4836,7 @@
     ]
   },
   {
-    "resource_id": "RES194",
+    "resource_id": "NEW_RES_002",
     "title": "有机茶园土壤微生物多样性提升技术实操视频课程",
     "resource_type": "培训课程",
     "content_type": "视频教程",
@@ -4855,7 +4855,7 @@
     ]
   },
   {
-    "resource_id": "RES195",
+    "resource_id": "NEW_RES_003",
     "title": "2024-2025全球垂直农场LED光照系统市场分析报告",
     "resource_type": "行业报告",
     "content_type": "PDF文档",
@@ -4875,7 +4875,7 @@
     ]
   },
   {
-    "resource_id": "RES196",
+    "resource_id": "NEW_RES_004",
     "title": "基于区块链的鲜切花冷链物流质量追溯系统建设指南",
     "resource_type": "技术手册",
     "content_type": "电子文档",
@@ -4896,7 +4896,7 @@
     ]
   },
   {
-    "resource_id": "RES197",
+    "resource_id": "NEW_RES_005",
     "title": "丘陵地区柑橘园无人机变量施肥决策支持工具",
     "resource_type": "应用软件",
     "content_type": "移动应用",
@@ -4915,7 +4915,7 @@
     ]
   },
   {
-    "resource_id": "RES198",
+    "resource_id": "NEW_RES_001",
     "title": "基于AI的温室番茄营养诊断与精准补光决策系统",
     "resource_type": "决策支持系统",
     "content_type": "软件工具",
@@ -4934,7 +4934,7 @@
     ]
   },
   {
-    "resource_id": "RES199",
+    "resource_id": "NEW_RES_002",
     "title": "有机茶园碳足迹核算与低碳认证全流程培训课程",
     "resource_type": "培训课程",
     "content_type": "在线课程",
@@ -4953,7 +4953,7 @@
     ]
   },
   {
-    "resource_id": "RES200",
+    "resource_id": "NEW_RES_003",
     "title": "丘陵地区柑橘园无人机变量施肥决策支持工具",
     "resource_type": "决策支持工具",
     "content_type": "移动应用",
@@ -4972,7 +4972,7 @@
     ]
   },
   {
-    "resource_id": "RES201",
+    "resource_id": "NEW_RES_004",
     "title": "农产品区域品牌元宇宙营销实战工作坊",
     "resource_type": "培训工作坊",
     "content_type": "线下活动",
@@ -4991,7 +4991,7 @@
     ]
   },
   {
-    "resource_id": "RES202",
+    "resource_id": "NEW_RES_005",
     "title": "盐碱地棉花根系微生物组改良技术VR实训系统",
     "resource_type": "培训系统",
     "content_type": "VR应用",
@@ -5010,7 +5010,7 @@
     ]
   },
   {
-    "resource_id": "RES203",
+    "resource_id": "NEW_RES_001",
     "title": "基于AI的设施草莓光周期调控与产量预测系统",
     "resource_type": "决策支持系统",
     "content_type": "软件工具",
@@ -5029,7 +5029,7 @@
     ]
   },
   {
-    "resource_id": "RES204",
+    "resource_id": "NEW_RES_002",
     "title": "有机茶叶碳足迹核算与低碳认证全流程培训课程",
     "resource_type": "培训课程",
     "content_type": "在线课程",
@@ -5048,7 +5048,7 @@
     ]
   },
   {
-    "resource_id": "RES205",
+    "resource_id": "NEW_RES_003",
     "title": "丘陵地区柑橘园智能仿形修剪机器人操作实训课程",
     "resource_type": "实训课程",
     "content_type": "VR实训系统",
@@ -5067,7 +5067,7 @@
     ]
   },
   {
-    "resource_id": "RES206",
+    "resource_id": "NEW_RES_004",
     "title": "2024-2025全球垂直农业投资热点与市场前景分析报告",
     "resource_type": "市场分析报告",
     "content_type": "研究报告",
@@ -5086,7 +5086,7 @@
     ]
   },
   {
-    "resource_id": "RES207",
+    "resource_id": "NEW_RES_005",
     "title": "基于区块链的有机蔬菜全供应链质量追溯系统建设指南",
     "resource_type": "技术指南",
     "content_type": "电子手册",
@@ -5105,7 +5105,7 @@
     ]
   },
   {
-    "resource_id": "RES208",
+    "resource_id": "NEW_RES_001",
     "title": "智能温室番茄病虫害早期诊断与防控决策系统",
     "resource_type": "决策支持系统",
     "content_type": "数字工具",
@@ -5123,7 +5123,7 @@
     ]
   },
   {
-    "resource_id": "RES209",
+    "resource_id": "NEW_RES_002",
     "title": "丘陵茶园水土保持与有机种植技术VR实训系统",
     "resource_type": "虚拟实训系统",
     "content_type": "沉浸式体验",
@@ -5141,7 +5141,7 @@
     ]
   },
   {
-    "resource_id": "RES210",
+    "resource_id": "NEW_RES_003",
     "title": "2024-2025全球垂直农场LED光照系统市场分析报告",
     "resource_type": "市场研究报告",
     "content_type": "PDF文档",
@@ -5160,7 +5160,7 @@
     ]
   },
   {
-    "resource_id": "RES211",
+    "resource_id": "NEW_RES_004",
     "title": "有机蓝莓园碳足迹核算与碳交易实操指南",
     "resource_type": "技术手册",
     "content_type": "图文手册",
@@ -5178,7 +5178,7 @@
     ]
   },
   {
-    "resource_id": "RES212",
+    "resource_id": "NEW_RES_005",
     "title": "农产品区域品牌元宇宙营销实战工作坊",
     "resource_type": "培训课程",
     "content_type": "线上直播",
@@ -5196,7 +5196,7 @@
     ]
   },
   {
-    "resource_id": "RES213",
+    "resource_id": "NEW_RES_001",
     "title": "基于AI的设施草莓光周期调控与产量预测系统",
     "resource_type": "决策支持系统",
     "content_type": "软件工具",
@@ -5215,7 +5215,7 @@
     ]
   },
   {
-    "resource_id": "RES214",
+    "resource_id": "NEW_RES_002",
     "title": "有机茶园土壤微生物多样性提升技术实操视频课程",
     "resource_type": "培训课程",
     "content_type": "视频教程",
@@ -5234,7 +5234,7 @@
     ]
   },
   {
-    "resource_id": "RES215",
+    "resource_id": "NEW_RES_003",
     "title": "2024-2025全球垂直农业投资热点与市场前景分析报告",
     "resource_type": "市场分析报告",
     "content_type": "PDF文档",
@@ -5253,7 +5253,7 @@
     ]
   },
   {
-    "resource_id": "RES216",
+    "resource_id": "NEW_RES_004",
     "title": "基于区块链的鲜切花冷链物流质量追溯系统建设指南",
     "resource_type": "技术指南",
     "content_type": "电子书",
@@ -5272,7 +5272,7 @@
     ]
   },
   {
-    "resource_id": "RES217",
+    "resource_id": "NEW_RES_005",
     "title": "丘陵地区柑橘园智能仿形修剪机器人操作实训课程",
     "resource_type": "培训课程",
     "content_type": "VR实训系统",
@@ -5291,7 +5291,7 @@
     ]
   },
   {
-    "resource_id": "RES218",
+    "resource_id": "NEW_RES_001",
     "title": "基于AI的设施草莓光周期调控与产量预测系统",
     "resource_type": "决策支持系统",
     "content_type": "数字工具",
@@ -5310,7 +5310,7 @@
     ]
   },
   {
-    "resource_id": "RES219",
+    "resource_id": "NEW_RES_002",
     "title": "有机茶园碳足迹核算与低碳认证全流程培训课程",
     "resource_type": "在线课程",
     "content_type": "视频教程",
@@ -5329,7 +5329,7 @@
     ]
   },
   {
-    "resource_id": "RES220",
+    "resource_id": "NEW_RES_003",
     "title": "丘陵地区柑橘园无人机变量施肥决策支持工具",
     "resource_type": "移动应用",
     "content_type": "APP",
@@ -5348,7 +5348,7 @@
     ]
   },
   {
-    "resource_id": "RES221",
+    "resource_id": "NEW_RES_004",
     "title": "农产品区域品牌元宇宙营销实战工作坊",
     "resource_type": "培训课程",
     "content_type": "线下工作坊",
@@ -5365,7 +5365,7 @@
     ]
   },
   {
-    "resource_id": "RES222",
+    "resource_id": "NEW_RES_005",
     "title": "盐碱地棉花根系微生物组改良技术VR实训系统",
     "resource_type": "虚拟实训系统",
     "content_type": "VR应用",
@@ -5384,7 +5384,7 @@
     ]
   },
   {
-    "resource_id": "RES223",
+    "resource_id": "NEW_RES_001",
     "title": "基于AI的设施草莓光周期调控与产量预测系统",
     "resource_type": "智能决策系统",
     "content_type": "软件工具",
@@ -5403,7 +5403,7 @@
     ]
   },
   {
-    "resource_id": "RES224",
+    "resource_id": "NEW_RES_002",
     "title": "有机茶园碳足迹核算与低碳认证全流程培训课程",
     "resource_type": "培训课程",
     "content_type": "在线视频课程",
@@ -5422,7 +5422,7 @@
     ]
   },
   {
-    "resource_id": "RES225",
+    "resource_id": "NEW_RES_003",
     "title": "丘陵地区柑橘园无人机变量施肥决策支持工具",
     "resource_type": "决策支持工具",
     "content_type": "移动应用",
@@ -5441,7 +5441,7 @@
     ]
   },
   {
-    "resource_id": "RES226",
+    "resource_id": "NEW_RES_004",
     "title": "农产品区域品牌元宇宙营销实战工作坊",
     "resource_type": "实战培训",
     "content_type": "线下工作坊",
@@ -5458,7 +5458,7 @@
     ]
   },
   {
-    "resource_id": "RES227",
+    "resource_id": "NEW_RES_005",
     "title": "盐碱地棉花根系微生物组改良技术VR实训系统",
     "resource_type": "实训系统",
     "content_type": "VR模拟软件",
@@ -5477,7 +5477,7 @@
     ]
   },
   {
-    "resource_id": "RES228",
+    "resource_id": "NEW_RES_001",
     "title": "智能温室黄瓜生长异常实时诊断与调控系统",
     "resource_type": "决策支持系统",
     "content_type": "软件工具",
@@ -5495,7 +5495,7 @@
     ]
   },
   {
-    "resource_id": "RES229",
+    "resource_id": "NEW_RES_002",
     "title": "有机火龙果种植碳足迹核算与减排技术手册",
     "resource_type": "技术手册",
     "content_type": "电子文档",
@@ -5513,7 +5513,7 @@
     ]
   },
   {
-    "resource_id": "RES230",
+    "resource_id": "NEW_RES_003",
     "title": "丘陵地区油茶林智能灌溉机器人操作实训课程",
     "resource_type": "培训课程",
     "content_type": "视频教程",
@@ -5531,7 +5531,7 @@
     ]
   },
   {
-    "resource_id": "RES231",
+    "resource_id": "NEW_RES_004",
     "title": "2024-2025全球藜麦市场供需分析与价格预测报告",
     "resource_type": "市场分析",
     "content_type": "研究报告",
@@ -5549,7 +5549,7 @@
     ]
   },
   {
-    "resource_id": "RES232",
+    "resource_id": "NEW_RES_005",
     "title": "基于区块链的鲜切花冷链物流质量追溯系统建设指南",
     "resource_type": "技术标准",
     "content_type": "操作手册",
@@ -5567,7 +5567,7 @@
     ]
   },
   {
-    "resource_id": "RES233",
+    "resource_id": "NEW_RES_001",
     "title": "基于AI的设施甜椒病虫害智能诊断与精准施药系统",
     "resource_type": "智能决策系统",
     "content_type": "软件应用",
@@ -5586,7 +5586,7 @@
     ]
   },
   {
-    "resource_id": "RES234",
+    "resource_id": "NEW_RES_002",
     "title": "黑木耳菌棒智能化生产全流程VR实训系统",
     "resource_type": "虚拟实训平台",
     "content_type": "VR应用",
@@ -5605,7 +5605,7 @@
     ]
   },
   {
-    "resource_id": "RES235",
+    "resource_id": "NEW_RES_003",
     "title": "2024-2025全球植物工厂投资回报率分析工具包",
     "resource_type": "经济分析工具",
     "content_type": "电子表格+报告",
@@ -5625,7 +5625,7 @@
     ]
   },
   {
-    "resource_id": "RES236",
+    "resource_id": "NEW_RES_004",
     "title": "芒果采后品质保持与冷链物流区块链溯源系统",
     "resource_type": "质量追溯系统",
     "content_type": "SaaS平台",
@@ -5644,7 +5644,7 @@
     ]
   },
   {
-    "resource_id": "RES237",
+    "resource_id": "NEW_RES_005",
     "title": "丘陵茶园水土保持与有机种植技术VR实训系统",
     "resource_type": "虚拟实训平台",
     "content_type": "VR应用",
@@ -5663,7 +5663,7 @@
     ]
   },
   {
-    "resource_id": "RES238",
+    "resource_id": "NEW_RES_001",
     "title": "智能温室草莓光周期调控与产量预测AI模型",
     "resource_type": "技术系统",
     "content_type": "软件工具",
@@ -5682,7 +5682,7 @@
     ]
   },
   {
-    "resource_id": "RES239",
+    "resource_id": "NEW_RES_002",
     "title": "有机水稻土壤碳汇核算与交易实操指南",
     "resource_type": "技术手册",
     "content_type": "电子文档",
@@ -5701,7 +5701,7 @@
     ]
   },
   {
-    "resource_id": "RES240",
+    "resource_id": "NEW_RES_003",
     "title": "基于区块链的芒果全程冷链质量追溯系统建设指南",
     "resource_type": "技术标准",
     "content_type": "PDF文档",
@@ -5720,7 +5720,7 @@
     ]
   },
   {
-    "resource_id": "RES241",
+    "resource_id": "NEW_RES_004",
     "title": "丘陵地区油茶林智能水肥一体化系统设计与安装视频教程",
     "resource_type": "培训课程",
     "content_type": "视频系列",
@@ -5739,7 +5739,7 @@
     ]
   },
   {
-    "resource_id": "RES242",
+    "resource_id": "NEW_RES_005",
     "title": "2024-2025全球功能性农产品消费趋势与市场机会报告",
     "resource_type": "市场分析",
     "content_type": "研究报告",
@@ -5758,7 +5758,7 @@
     ]
   },
   {
-    "resource_id": "RES243",
+    "resource_id": "NEW_RES_001",
     "title": "智能温室番茄病虫害早期诊断与防控决策系统",
     "resource_type": "决策支持系统",
     "content_type": "数字工具",
@@ -5776,7 +5776,7 @@
     ]
   },
   {
-    "resource_id": "RES244",
+    "resource_id": "NEW_RES_002",
     "title": "有机茶园碳足迹核算与低碳认证全流程培训课程",
     "resource_type": "培训课程",
     "content_type": "在线视频",
@@ -5794,7 +5794,7 @@
     ]
   },
   {
-    "resource_id": "RES245",
+    "resource_id": "NEW_RES_003",
     "title": "丘陵地区柑橘园无人机变量施肥决策支持工具",
     "resource_type": "决策支持工具",
     "content_type": "移动应用",
@@ -5812,7 +5812,7 @@
     ]
   },
   {
-    "resource_id": "RES246",
+    "resource_id": "NEW_RES_004",
     "title": "盐碱地棉花根系微生物组改良技术VR实训系统",
     "resource_type": "实训系统",
     "content_type": "虚拟现实",
@@ -5830,7 +5830,7 @@
     ]
   },
   {
-    "resource_id": "RES247",
+    "resource_id": "NEW_RES_005",
     "title": "农产品区域品牌元宇宙营销实战工作坊",
     "resource_type": "工作坊",
     "content_type": "线下活动",
