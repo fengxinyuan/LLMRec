@@ -35,9 +35,9 @@ def get_recommendation(user_id):
 
     # --- 1. 加载数据 ---
     print("[1/6] 正在加载用户和知识数据...")
-    with open('user-portraits/users.json', 'r', encoding='utf-8') as file:
+    with open('data/users.json', 'r', encoding='utf-8') as file:
         user_prts = json.load(file)
-    with open('knowledge-protraits/knowledge.json', 'r', encoding='utf-8') as file:
+    with open('data/knowledge.json', 'r', encoding='utf-8') as file:
         knowledge_prts = json.load(file)
     print("数据加载完毕。")
 
