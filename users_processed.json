@@ -1,0 +1,1972 @@
+[
+  {
+    "user_id": "AG101",
+    "name": "陈麦丰",
+    "age": 43,
+    "gender": "男",
+    "location": "河北省石家庄市",
+    "user_type": "小麦种植户",
+    "operation_scale": 280,
+    "main_crop": "小麦",
+    "secondary_crops": [
+      "玉米"
+    ],
+    "farming_method": "半机械化",
+    "experience_years": 18,
+    "education": "中专",
+    "technical_level": "中级",
+    "annual_income": "12-15万元",
+    "main_knowledge_needs": [
+      "节水灌溉",
+      "抗倒伏品种"
+    ],
+    "secondary_knowledge_needs": [
+      "土壤检测",
+      "市场预测"
+    ],
+    "device_usage": [
+      "智能手机",
+      "拖拉机"
+    ],
+    "content_preference": [
+      "短视频教程",
+      "专家直播"
+    ],
+    "learning_frequency": "4次/月",
+    "challenges": [
+      "水资源短缺",
+      "极端天气"
+    ],
+    "development_goals": [
+      "提高水效",
+      "订单农业"
+    ],
+    "social_media_usage": [
+      "微信",
+      "快手"
+    ],
+    "ecommerce_activity": "偶尔网购",
+    "policy_awareness": "关注补贴",
+    "cooperative_member": true,
+    "brand_awareness": "关注种子品牌",
+    "sale_channels": [
+      "粮库",
+      "加工厂"
+    ],
+    "irrigation_method": "喷灌",
+    "fertilization_method": "配方施肥",
+    "pest_control_method": "综合防治",
+    "record_keeping": "简单记录",
+    "data_usage": "基本不用",
+    "sustainability_focus": "中等",
+    "innovation_adoption": "观望",
+    "training_attendance": "每年3次",
+    "financial_access": "信用社贷款",
+    "insurance_usage": "政策性保险",
+    "crop_rotation": "小麦-玉米",
+    "soil_type": "褐土",
+    "irrigation_source": "地下水",
+    "labor_source": "家庭+雇工",
+    "equipment_value": "18万元",
+    "market_info_source": "合作社",
+    "annual_income_range_lakh": [
+      12,
+      15
+    ],
+    "learning_frequency_monthly": 4.0,
+    "profile_summary": "陈麦丰是一位来自河北石家庄的经验丰富的小麦种植户，经营280亩土地，采用半机械化耕作方式，技术水平中等。他当前面临水资源短缺和极端天气的挑战，核心需求是节水灌溉技术和抗倒伏品种，同时关注土壤检测和市场预测。他主要通过微信和快手获取信息，偏好短视频教程和专家直播内容。长期目标是提高水资源利用效率和实现订单农业。他参与合作社，关注政策补贴，并采用喷灌、配方施肥和综合防治等现代农业技术。"
+  },
+  {
+    "user_id": "AG102",
+    "name": "黄稻香",
+    "age": 56,
+    "gender": "女",
+    "location": "江西省南昌市",
+    "user_type": "水稻家庭农场",
+    "operation_scale": 120,
+    "main_crop": "水稻",
+    "secondary_crops": [],
+    "farming_method": "传统种植",
+    "experience_years": 28,
+    "education": "小学",
+    "technical_level": "初级",
+    "annual_income": "7-9万元",
+    "main_knowledge_needs": [
+      "有机种植",
+      "生态防控"
+    ],
+    "secondary_knowledge_needs": [
+      "品牌建设",
+      "电商销售"
+    ],
+    "device_usage": [
+      "智能手机"
+    ],
+    "content_preference": [
+      "图文手册",
+      "广播节目"
+    ],
+    "learning_frequency": "1-2次/月",
+    "challenges": [
+      "劳动力老龄化",
+      "生产成本高"
+    ],
+    "development_goals": [
+      "绿色认证",
+      "休闲农业"
+    ],
+    "social_media_usage": [
+      "微信"
+    ],
+    "ecommerce_activity": "尝试微商",
+    "policy_awareness": "一般",
+    "cooperative_member": false,
+    "brand_awareness": "初具意识",
+    "sale_channels": [
+      "本地市场",
+      "微信销售"
+    ],
+    "irrigation_method": "传统漫灌",
+    "fertilization_method": "农家肥+化肥",
+    "pest_control_method": "生物农药",
+    "record_keeping": "简单记录",
+    "data_usage": "不使用",
+    "sustainability_focus": "中等关注",
+    "innovation_adoption": "保守",
+    "training_attendance": "每年1-2次",
+    "financial_access": "储蓄",
+    "insurance_usage": "政策性保险",
+    "crop_rotation": "水稻-休耕",
+    "soil_type": "红壤",
+    "irrigation_source": "河流",
+    "labor_source": "家庭劳动",
+    "equipment_value": "8万元",
+    "market_info_source": "收购商",
+    "annual_income_range_lakh": [
+      7,
+      9
+    ],
+    "learning_frequency_monthly": 1.5,
+    "profile_summary": "黄稻香是一位来自江西南昌的资深水稻种植户，经营120亩土地，采用传统种植方式，技术水平初级。她当前面临劳动力老龄化和生产成本高的挑战，核心需求是有机种植和生态防控技术，长期目标是获得绿色认证和发展休闲农业。她主要通过微信进行社交和微商活动，对品牌建设初具意识，但数据使用和创新能力较为保守。"
+  },
+  {
+    "user_id": "AG103",
+    "name": "刘玉丰",
+    "age": 39,
+    "gender": "男",
+    "location": "辽宁省沈阳市",
+    "user_type": "玉米种植大户",
+    "operation_scale": 600,
+    "main_crop": "玉米",
+    "secondary_crops": [
+      "大豆"
+    ],
+    "farming_method": "全程机械化",
+    "experience_years": 12,
+    "education": "大专",
+    "technical_level": "高级",
+    "annual_income": "25-35万元",
+    "main_knowledge_needs": [
+      "精准农业",
+      "智能农机"
+    ],
+    "secondary_knowledge_needs": [
+      "期货市场",
+      "仓储技术"
+    ],
+    "device_usage": [
+      "平板电脑",
+      "无人机",
+      "物联网"
+    ],
+    "content_preference": [
+      "在线课程",
+      "行业报告"
+    ],
+    "learning_frequency": "12次/月",
+    "challenges": [
+      "土地流转成本",
+      "技术人才缺乏"
+    ],
+    "development_goals": [
+      "全产业链",
+      "出口贸易"
+    ],
+    "social_media_usage": [
+      "微信",
+      "专业APP"
+    ],
+    "ecommerce_activity": "经常采购",
+    "policy_awareness": "高度关注",
+    "cooperative_member": true,
+    "brand_awareness": "重视品牌",
+    "sale_channels": [
+      "深加工企业",
+      "饲料厂"
+    ],
+    "irrigation_method": "滴灌",
+    "fertilization_method": "测土配方",
+    "pest_control_method": "绿色防控",
+    "record_keeping": "数字化系统",
+    "data_usage": "分析应用",
+    "sustainability_focus": "高度关注",
+    "innovation_adoption": "积极尝试",
+    "training_attendance": "季度培训",
+    "financial_access": "银行贷款",
+    "insurance_usage": "商业保险",
+    "crop_rotation": "玉米-大豆",
+    "soil_type": "黑土",
+    "irrigation_source": "水库",
+    "labor_source": "专业团队",
+    "equipment_value": "150万元",
+    "market_info_source": "行业平台",
+    "annual_income_range_lakh": [
+      25,
+      35
+    ],
+    "learning_frequency_monthly": 12.0,
+    "profile_summary": "刘玉丰是一位来自辽宁沈阳的高级技术玉米种植大户，经营600亩土地，采用全程机械化耕作。他年收入25-35万元，核心需求是精准农业和智能农机技术，面临土地流转成本高和技术人才缺乏的挑战。他积极尝试创新技术，目标是实现全产业链发展和出口贸易。"
+  },
+  {
+    "user_id": "AG104",
+    "name": "赵豆源",
+    "age": 47,
+    "gender": "男",
+    "location": "内蒙古自治区呼伦贝尔市",
+    "user_type": "大豆种植户",
+    "operation_scale": 800,
+    "main_crop": "大豆",
+    "secondary_crops": [],
+    "farming_method": "大型机械化",
+    "experience_years": 15,
+    "education": "高中",
+    "technical_level": "高级",
+    "annual_income": "30-40万元",
+    "main_knowledge_needs": [
+      "高产栽培",
+      "轮作体系"
+    ],
+    "secondary_knowledge_needs": [
+      "国际贸易",
+      "期货交易"
+    ],
+    "device_usage": [
+      "智能设备",
+      "大型农机"
+    ],
+    "content_preference": [
+      "专业期刊",
+      "在线课程"
+    ],
+    "learning_frequency": "8次/月",
+    "challenges": [
+      "进口冲击",
+      "气候变化"
+    ],
+    "development_goals": [
+      "有机认证",
+      "深加工"
+    ],
+    "social_media_usage": [
+      "微信",
+      "专业平台"
+    ],
+    "ecommerce_activity": "B2B采购",
+    "policy_awareness": "高度关注",
+    "cooperative_member": true,
+    "brand_awareness": "品牌建设",
+    "sale_channels": [
+      "油脂企业",
+      "出口贸易"
+    ],
+    "irrigation_method": "中心支轴灌溉",
+    "fertilization_method": "科学配方",
+    "pest_control_method": "综合防治",
+    "record_keeping": "数字系统",
+    "data_usage": "分析决策",
+    "sustainability_focus": "高度关注",
+    "innovation_adoption": "前沿技术",
+    "training_attendance": "季度培训",
+    "financial_access": "银行贷款",
+    "insurance_usage": "综合保险",
+    "crop_rotation": "大豆-小麦",
+    "soil_type": "黑钙土",
+    "irrigation_source": "河水",
+    "labor_source": "专业团队",
+    "equipment_value": "200万元",
+    "market_info_source": "国际市场",
+    "annual_income_range_lakh": [
+      30,
+      40
+    ],
+    "learning_frequency_monthly": 8.0,
+    "profile_summary": "赵豆源是一位来自内蒙古呼伦贝尔市的高级技术大豆种植户，经营800亩土地，采用大型机械化耕作方式。他当前面临进口冲击和气候变化的挑战，核心需求是高产栽培技术和轮作体系，长期目标是实现有机认证和深加工。他高度关注市场信息和政策变化，积极参与专业培训，并致力于品牌建设和国际市场拓展。"
+  },
+  {
+    "user_id": "AG105",
+    "name": "周果乐",
+    "age": 52,
+    "gender": "男",
+    "location": "甘肃省天水市",
+    "user_type": "苹果种植户",
+    "operation_scale": 30,
+    "main_crop": "苹果",
+    "secondary_crops": [],
+    "farming_method": "传统种植",
+    "experience_years": 20,
+    "education": "初中",
+    "technical_level": "中级",
+    "annual_income": "8-12万元",
+    "main_knowledge_needs": [
+      "修剪技术",
+      "病虫害防治"
+    ],
+    "secondary_knowledge_needs": [
+      "电商销售",
+      "简易加工"
+    ],
+    "device_usage": [
+      "智能手机"
+    ],
+    "content_preference": [
+      "短视频",
+      "图文手册"
+    ],
+    "learning_frequency": "2次/月",
+    "challenges": [
+      "销售渠道窄",
+      "储存困难"
+    ],
+    "development_goals": [
+      "提高品质",
+      "稳定收入"
+    ],
+    "social_media_usage": [
+      "微信",
+      "抖音"
+    ],
+    "ecommerce_activity": "尝试电商",
+    "policy_awareness": "关注",
+    "cooperative_member": true,
+    "brand_awareness": "初步建立",
+    "sale_channels": [
+      "批发市场",
+      "社区团购"
+    ],
+    "irrigation_method": "沟灌",
+    "fertilization_method": "农家肥+化肥",
+    "pest_control_method": "综合防治",
+    "record_keeping": "简单记录",
+    "data_usage": "基本不用",
+    "sustainability_focus": "一般",
+    "innovation_adoption": "选择性",
+    "training_attendance": "每年3次",
+    "financial_access": "合作社贷款",
+    "insurance_usage": "政策性保险",
+    "crop_rotation": "无",
+    "soil_type": "黄绵土",
+    "irrigation_source": "雨水",
+    "labor_source": "家庭劳动",
+    "equipment_value": "6万元",
+    "market_info_source": "批发商",
+    "annual_income_range_lakh": [
+      8,
+      12
+    ],
+    "learning_frequency_monthly": 2.0,
+    "profile_summary": "周果乐是一位来自甘肃天水的经验丰富的苹果种植户，经营30亩土地，采用传统种植方式，技术水平中等。他当前面临销售渠道窄和储存困难的挑战，核心需求是修剪技术和病虫害防治知识，同时希望拓展电商销售和简易加工技能。长期目标是提高苹果品质和稳定收入来源。"
+  },
+  {
+    "user_id": "AG106",
+    "name": "徐猕新",
+    "age": 34,
+    "gender": "女",
+    "location": "贵州省修文县",
+    "user_type": "猕猴桃合作社经理",
+    "operation_scale": 1200,
+    "main_crop": "猕猴桃",
+    "secondary_crops": [],
+    "farming_method": "标准化种植",
+    "experience_years": 7,
+    "education": "本科",
+    "technical_level": "高级",
+    "annual_income": "15-20万元",
+    "main_knowledge_needs": [
+      "冷链物流",
+      "品牌营销"
+    ],
+    "secondary_knowledge_needs": [
+      "有机认证",
+      "深加工"
+    ],
+    "device_usage": [
+      "智能手机",
+      "平板电脑"
+    ],
+    "content_preference": [
+      "行业报告",
+      "在线课程"
+    ],
+    "learning_frequency": "12次/月",
+    "challenges": [
+      "市场波动",
+      "品质控制"
+    ],
+    "development_goals": [
+      "地理标志",
+      "全产业链"
+    ],
+    "social_media_usage": [
+      "微信",
+      "抖音",
+      "专业平台"
+    ],
+    "ecommerce_activity": "电商销售",
+    "policy_awareness": "高度关注",
+    "cooperative_member": true,
+    "brand_awareness": "品牌建设",
+    "sale_channels": [
+      "电商平台",
+      "高端超市"
+    ],
+    "irrigation_method": "滴灌",
+    "fertilization_method": "有机肥为主",
+    "pest_control_method": "绿色防控",
+    "record_keeping": "数字系统",
+    "data_usage": "分析应用",
+    "sustainability_focus": "高度关注",
+    "innovation_adoption": "积极尝试",
+    "training_attendance": "月度培训",
+    "financial_access": "银行贷款",
+    "insurance_usage": "商业保险",
+    "crop_rotation": "无",
+    "soil_type": "黄壤",
+    "irrigation_source": "水库",
+    "labor_source": "合作社成员",
+    "equipment_value": "80万元",
+    "market_info_source": "行业平台",
+    "annual_income_range_lakh": [
+      15,
+      20
+    ],
+    "learning_frequency_monthly": 12.0,
+    "profile_summary": "徐猕新是一位来自贵州修文县的猕猴桃合作社经理，拥有7年种植经验，经营1200亩标准化猕猴桃种植园，技术水平高级。她当前面临市场波动和品质控制的挑战，核心需求是冷链物流和品牌营销知识，长期目标是实现地理标志认证和全产业链发展。她积极采用数字化管理，高度关注可持续发展和创新技术应用。"
+  },
+  {
+    "user_id": "AG200",
+    "name": "孙稻收",
+    "age": 49,
+    "gender": "男",
+    "location": "安徽省芜湖市",
+    "user_type": "水稻种植大户",
+    "operation_scale": 350,
+    "main_crop": "水稻",
+    "secondary_crops": [
+      "小麦"
+    ],
+    "farming_method": "机械化种植",
+    "experience_years": 22,
+    "education": "高中",
+    "technical_level": "中级",
+    "annual_income": "18-25万元",
+    "main_knowledge_needs": [
+      "轻简化栽培",
+      "优质稻种"
+    ],
+    "secondary_knowledge_needs": [
+      "品牌大米",
+      "加工技术"
+    ],
+    "device_usage": [
+      "智能手机",
+      "无人机"
+    ],
+    "content_preference": [
+      "短视频教程",
+      "专家直播"
+    ],
+    "learning_frequency": "8次/月",
+    "challenges": [
+      "人工成本",
+      "市场竞争"
+    ],
+    "development_goals": [
+      "品质提升",
+      "订单农业"
+    ],
+    "social_media_usage": [
+      "微信",
+      "抖音"
+    ],
+    "ecommerce_activity": "网购农资",
+    "policy_awareness": "关注补贴",
+    "cooperative_member": true,
+    "brand_awareness": "品牌建设",
+    "sale_channels": [
+      "加工企业",
+      "超市"
+    ],
+    "irrigation_method": "节水灌溉",
+    "fertilization_method": "配方施肥",
+    "pest_control_method": "综合防治",
+    "record_keeping": "详细记录",
+    "data_usage": "初步应用",
+    "sustainability_focus": "高度关注",
+    "innovation_adoption": "积极尝试",
+    "training_attendance": "季度培训",
+    "financial_access": "银行贷款",
+    "insurance_usage": "综合保险",
+    "crop_rotation": "水稻-小麦",
+    "soil_type": "水稻土",
+    "irrigation_source": "水库",
+    "labor_source": "家庭+雇工",
+    "equipment_value": "50万元",
+    "market_info_source": "行业协会",
+    "annual_income_range_lakh": [
+      18,
+      25
+    ],
+    "learning_frequency_monthly": 8.0,
+    "profile_summary": "孙稻收是一位来自安徽芜湖的水稻种植大户，拥有22年种植经验，经营350亩土地，采用机械化种植方式。他面临人工成本和市场竞争的挑战，核心需求是轻简化栽培技术和优质稻种，长期目标是提升稻米品质和发展订单农业。他积极应用新技术，关注可持续发展，并定期参加培训以提升种植技能。"
+  },
+  {
+    "user_id": "AG001",
+    "name": "张丰收",
+    "age": 48,
+    "gender": "男",
+    "location": "河南省周口市",
+    "user_type": "小麦种植大户",
+    "operation_scale": 320,
+    "main_crop": "小麦",
+    "secondary_crops": [
+      "玉米",
+      "大豆"
+    ],
+    "farming_method": "机械化种植",
+    "experience_years": 22,
+    "education": "高中",
+    "technical_level": "中级",
+    "annual_income": "15-20万元",
+    "main_knowledge_needs": [
+      "病虫害防治",
+      "高产栽培"
+    ],
+    "secondary_knowledge_needs": [
+      "土壤改良",
+      "水肥管理"
+    ],
+    "device_usage": [
+      "智能手机",
+      "拖拉机",
+      "无人机"
+    ],
+    "content_preference": [
+      "短视频教程",
+      "专家直播"
+    ],
+    "learning_frequency": "8次/月",
+    "challenges": [
+      "气候变化",
+      "病虫害抗性"
+    ],
+    "development_goals": [
+      "提高单产",
+      "品质提升"
+    ],
+    "social_media_usage": [
+      "微信",
+      "抖音"
+    ],
+    "ecommerce_activity": "偶尔网购农资",
+    "policy_awareness": "中等",
+    "cooperative_member": true,
+    "brand_awareness": "关注农资品牌",
+    "sale_channels": [
+      "粮食收购站",
+      "加工企业"
+    ],
+    "irrigation_method": "喷灌",
+    "fertilization_method": "复合肥+有机肥",
+    "pest_control_method": "化学防治为主",
+    "record_keeping": "简单记录",
+    "data_usage": "基本不使用",
+    "sustainability_focus": "一般",
+    "innovation_adoption": "愿意尝试",
+    "training_attendance": "每年3次",
+    "financial_access": "信用贷款",
+    "insurance_usage": "有政策性保险",
+    "crop_rotation": "小麦-玉米",
+    "soil_type": "潮土",
+    "irrigation_source": "地下水",
+    "labor_source": "家庭+雇工",
+    "equipment_value": "15万元",
+    "market_info_source": "收购商",
+    "annual_income_range_lakh": [
+      15,
+      20
+    ],
+    "learning_frequency_monthly": 8.0,
+    "profile_summary": "张丰收是一位来自河南周口的经验丰富的小麦种植大户，经营320亩土地，采用机械化种植方式，技术水平中等。他当前面临气候变化和病虫害抗性的挑战，核心需求是病虫害防治和高产栽培技术，长期目标是提高单产和作物品质。他积极使用现代设备如无人机，并愿意尝试创新技术。"
+  },
+  {
+    "user_id": "AG002",
+    "name": "李水稻",
+    "age": 52,
+    "gender": "男",
+    "location": "湖南省常德市",
+    "user_type": "水稻家庭农场",
+    "operation_scale": 180,
+    "main_crop": "水稻",
+    "secondary_crops": [
+      "油菜"
+    ],
+    "farming_method": "传统精耕",
+    "experience_years": 30,
+    "education": "初中",
+    "technical_level": "初级",
+    "annual_income": "8-12万元",
+    "main_knowledge_needs": [
+      "杂草防治",
+      "节水灌溉"
+    ],
+    "secondary_knowledge_needs": [
+      "优质稻种",
+      "加工技术"
+    ],
+    "device_usage": [
+      "智能手机"
+    ],
+    "content_preference": [
+      "图文手册",
+      "广播节目"
+    ],
+    "learning_frequency": "1次/月",
+    "challenges": [
+      "劳动力短缺",
+      "成本上升"
+    ],
+    "development_goals": [
+      "发展绿色种植",
+      "品牌大米"
+    ],
+    "social_media_usage": [
+      "微信"
+    ],
+    "ecommerce_activity": "很少",
+    "policy_awareness": "较低",
+    "cooperative_member": false,
+    "brand_awareness": "无",
+    "sale_channels": [
+      "粮站",
+      "小商贩"
+    ],
+    "irrigation_method": "漫灌",
+    "fertilization_method": "化肥为主",
+    "pest_control_method": "化学防治",
+    "record_keeping": "无记录",
+    "data_usage": "不使用",
+    "sustainability_focus": "不关注",
+    "innovation_adoption": "保守",
+    "training_attendance": "每年1次",
+    "financial_access": "亲友借款",
+    "insurance_usage": "无保险",
+    "crop_rotation": "水稻-油菜",
+    "soil_type": "水稻土",
+    "irrigation_source": "水库",
+    "labor_source": "家庭劳动",
+    "equipment_value": "5万元",
+    "market_info_source": "邻居",
+    "annual_income_range_lakh": [
+      8,
+      12
+    ],
+    "learning_frequency_monthly": 1.0,
+    "profile_summary": "李水稻是一位来自湖南常德的资深水稻种植户，经营180亩土地，采用传统精耕方式，技术水平初级。他当前面临劳动力短缺和成本上升的挑战，核心需求是杂草防治和节水灌溉技术，长期目标是发展绿色种植和打造品牌大米。"
+  },
+  {
+    "user_id": "AG003",
+    "name": "王玉穗",
+    "age": 38,
+    "gender": "女",
+    "location": "吉林省松原市",
+    "user_type": "玉米合作社技术员",
+    "operation_scale": 5000,
+    "main_crop": "玉米",
+    "secondary_crops": [
+      "大豆"
+    ],
+    "farming_method": "全程机械化",
+    "experience_years": 10,
+    "education": "大专",
+    "technical_level": "高级",
+    "annual_income": "10-15万元",
+    "main_knowledge_needs": [
+      "精准农业",
+      "智慧农机"
+    ],
+    "secondary_knowledge_needs": [
+      "土壤检测",
+      "气象服务"
+    ],
+    "device_usage": [
+      "平板电脑",
+      "无人机",
+      "物联网设备"
+    ],
+    "content_preference": [
+      "在线课程",
+      "技术直播"
+    ],
+    "learning_frequency": "12次/月",
+    "challenges": [
+      "技术推广难",
+      "成本回收慢"
+    ],
+    "development_goals": [
+      "提高生产效率",
+      "降低损耗"
+    ],
+    "social_media_usage": [
+      "微信",
+      "专业APP"
+    ],
+    "ecommerce_activity": "经常网购设备",
+    "policy_awareness": "高度关注",
+    "cooperative_member": true,
+    "brand_awareness": "注重农机品牌",
+    "sale_channels": [
+      "加工企业",
+      "饲料厂"
+    ],
+    "irrigation_method": "滴灌",
+    "fertilization_method": "测土配方",
+    "pest_control_method": "综合防治",
+    "record_keeping": "数字系统",
+    "data_usage": "深度分析",
+    "sustainability_focus": "高度关注",
+    "innovation_adoption": "积极尝试",
+    "training_attendance": "每月1次",
+    "financial_access": "银行贷款",
+    "insurance_usage": "商业保险",
+    "crop_rotation": "玉米-大豆",
+    "soil_type": "黑土",
+    "irrigation_source": "河水",
+    "labor_source": "专业团队",
+    "equipment_value": "120万元",
+    "market_info_source": "行业平台",
+    "annual_income_range_lakh": [
+      10,
+      15
+    ],
+    "learning_frequency_monthly": 12.0,
+    "profile_summary": "王玉穗是一位来自吉林松原的高级玉米合作社技术员，拥有10年农业经验，管理5000亩土地，采用全程机械化耕作。她高度关注精准农业和智慧农机技术，面临技术推广难和成本回收慢的挑战，目标是提高生产效率和降低损耗。她积极使用数字系统和物联网设备，并经常参与技术培训。"
+  },
+  {
+    "user_id": "AG004",
+    "name": "赵豆丰",
+    "age": 44,
+    "gender": "男",
+    "location": "黑龙江省绥化市",
+    "user_type": "大豆种植户",
+    "operation_scale": 450,
+    "main_crop": "大豆",
+    "secondary_crops": [
+      "玉米"
+    ],
+    "farming_method": "半机械化",
+    "experience_years": 15,
+    "education": "高中",
+    "technical_level": "中级",
+    "annual_income": "12-18万元",
+    "main_knowledge_needs": [
+      "轮作技术",
+      "高产品种"
+    ],
+    "secondary_knowledge_needs": [
+      "深加工",
+      "出口标准"
+    ],
+    "device_usage": [
+      "智能手机",
+      "小型农机"
+    ],
+    "content_preference": [
+      "短视频教程",
+      "图文手册"
+    ],
+    "learning_frequency": "4次/月",
+    "challenges": [
+      "价格波动",
+      "进口冲击"
+    ],
+    "development_goals": [
+      "提高品质",
+      "对接食品企业"
+    ],
+    "social_media_usage": [
+      "微信",
+      "快手"
+    ],
+    "ecommerce_activity": "偶尔网购",
+    "policy_awareness": "关注补贴",
+    "cooperative_member": true,
+    "brand_awareness": "一般",
+    "sale_channels": [
+      "收购商",
+      "加工厂"
+    ],
+    "irrigation_method": "沟灌",
+    "fertilization_method": "化肥+有机肥",
+    "pest_control_method": "化学防治",
+    "record_keeping": "简单记录",
+    "data_usage": "基本不用",
+    "sustainability_focus": "中等",
+    "innovation_adoption": "观望态度",
+    "training_attendance": "每年2次",
+    "financial_access": "合作社贷款",
+    "insurance_usage": "政策性保险",
+    "crop_rotation": "大豆-玉米",
+    "soil_type": "黑钙土",
+    "irrigation_source": "雨水",
+    "labor_source": "家庭+临时工",
+    "equipment_value": "20万元",
+    "market_info_source": "收购商",
+    "annual_income_range_lakh": [
+      12,
+      18
+    ],
+    "learning_frequency_monthly": 4.0,
+    "profile_summary": "赵豆丰是一位来自黑龙江绥化的经验丰富的大豆种植户，经营450亩土地，采用半机械化耕作方式，技术水平中等。他当前面临价格波动和进口冲击的挑战，核心需求是轮作技术和高产品种，长期目标是提高大豆品质并直接对接食品企业。他主要通过收购商获取市场信息，并关注政府补贴政策。"
+  },
+  {
+    "user_id": "AG005",
+    "name": "陈果香",
+    "age": 50,
+    "gender": "女",
+    "location": "山东省烟台市",
+    "user_type": "苹果园主",
+    "operation_scale": 80,
+    "main_crop": "苹果",
+    "secondary_crops": [],
+    "farming_method": "精细管理",
+    "experience_years": 25,
+    "education": "初中",
+    "technical_level": "高级",
+    "annual_income": "20-30万元",
+    "main_knowledge_needs": [
+      "病虫害防治",
+      "保鲜技术"
+    ],
+    "secondary_knowledge_needs": [
+      "电商销售",
+      "品牌建设"
+    ],
+    "device_usage": [
+      "智能手机",
+      "小型农机"
+    ],
+    "content_preference": [
+      "专家直播",
+      "短视频"
+    ],
+    "learning_frequency": "4-8次/月",
+    "challenges": [
+      "人工成本高",
+      "市场波动"
+    ],
+    "development_goals": [
+      "发展观光采摘",
+      "有机认证"
+    ],
+    "social_media_usage": [
+      "微信",
+      "抖音"
+    ],
+    "ecommerce_activity": "尝试电商销售",
+    "policy_awareness": "关注",
+    "cooperative_member": true,
+    "brand_awareness": "有品牌意识",
+    "sale_channels": [
+      "批发市场",
+      "超市",
+      "电商"
+    ],
+    "irrigation_method": "滴灌",
+    "fertilization_method": "有机肥为主",
+    "pest_control_method": "生物防治",
+    "record_keeping": "详细记录",
+    "data_usage": "简单分析",
+    "sustainability_focus": "高度关注",
+    "innovation_adoption": "选择性采用",
+    "training_attendance": "每年4次",
+    "financial_access": "银行贷款",
+    "insurance_usage": "商业保险",
+    "crop_rotation": "无",
+    "soil_type": "棕壤",
+    "irrigation_source": "水库",
+    "labor_source": "家庭+季节工",
+    "equipment_value": "25万元",
+    "market_info_source": "行业协会",
+    "annual_income_range_lakh": [
+      20,
+      30
+    ],
+    "learning_frequency_monthly": 6.0,
+    "profile_summary": "陈果香是一位来自山东烟台的高级技术苹果园主，拥有25年种植经验，经营80亩果园，年收入20-30万元。她采用精细管理方法，主要关注病虫害防治和保鲜技术，同时尝试电商销售和品牌建设。面临人工成本高和市场波动的挑战，计划发展观光采摘和有机认证。她高度关注可持续发展，选择性采用新技术，并通过微信和抖音获取信息。"
+  },
+  {
+    "user_id": "AG006",
+    "name": "刘猕源",
+    "age": 36,
+    "gender": "男",
+    "location": "陕西省宝鸡市",
+    "user_type": "猕猴桃企业技术总监",
+    "operation_scale": 2000,
+    "main_crop": "猕猴桃",
+    "secondary_crops": [],
+    "farming_method": "智慧农业",
+    "experience_years": 8,
+    "education": "硕士",
+    "technical_level": "高级",
+    "annual_income": "25-35万元",
+    "main_knowledge_needs": [
+      "采后处理",
+      "冷链物流"
+    ],
+    "secondary_knowledge_needs": [
+      "国际市场",
+      "新品种"
+    ],
+    "device_usage": [
+      "智能设备",
+      "无人机",
+      "物联网"
+    ],
+    "content_preference": [
+      "国际报告",
+      "科研论文"
+    ],
+    "learning_frequency": "30次/月",
+    "challenges": [
+      "保鲜技术",
+      "出口标准"
+    ],
+    "development_goals": [
+      "国际认证",
+      "品牌溢价"
+    ],
+    "social_media_usage": [
+      "专业平台",
+      "LinkedIn"
+    ],
+    "ecommerce_activity": "B2B平台",
+    "policy_awareness": "高度关注",
+    "cooperative_member": false,
+    "brand_awareness": "国际品牌",
+    "sale_channels": [
+      "高端超市",
+      "出口",
+      "电商"
+    ],
+    "irrigation_method": "智能滴灌",
+    "fertilization_method": "精准施肥",
+    "pest_control_method": "绿色防控",
+    "record_keeping": "数字化系统",
+    "data_usage": "大数据分析",
+    "sustainability_focus": "核心战略",
+    "innovation_adoption": "前沿技术",
+    "training_attendance": "每月2次",
+    "financial_access": "风险投资",
+    "insurance_usage": "综合保险",
+    "crop_rotation": "无",
+    "soil_type": "褐土",
+    "irrigation_source": "水库+滴灌",
+    "labor_source": "专业团队",
+    "equipment_value": "500万元",
+    "market_info_source": "全球市场",
+    "annual_income_range_lakh": [
+      25,
+      35
+    ],
+    "learning_frequency_monthly": 30.0,
+    "profile_summary": "刘猕源是一位来自陕西宝鸡的猕猴桃企业技术总监，拥有8年经验，经营2000亩猕猴桃种植园，采用智慧农业技术，技术水平高级。他当前面临保鲜技术和出口标准的挑战，核心需求是采后处理和冷链物流技术，长期目标是获得国际认证和提升品牌溢价。他高度关注政策，使用智能设备和数字化系统进行农业生产，并通过高端超市、出口和电商渠道销售产品。"
+  },
+  {
+    "user_id": "AG500",
+    "name": "黄果农",
+    "age": 57,
+    "gender": "男",
+    "location": "四川省成都市",
+    "user_type": "猕猴桃种植户",
+    "operation_scale": 15,
+    "main_crop": "猕猴桃",
+    "secondary_crops": [
+      "柑橘"
+    ],
+    "farming_method": "传统种植",
+    "experience_years": 18,
+    "education": "小学",
+    "technical_level": "初级",
+    "annual_income": "5-8万元",
+    "main_knowledge_needs": [
+      "病害防治",
+      "修剪技术"
+    ],
+    "secondary_knowledge_needs": [
+      "简易储存",
+      "销售渠道"
+    ],
+    "device_usage": [
+      "智能手机"
+    ],
+    "content_preference": [
+      "广播节目",
+      "图文手册"
+    ],
+    "learning_frequency": "偶尔学习",
+    "challenges": [
+      "技术缺乏",
+      "销售困难"
+    ],
+    "development_goals": [
+      "提高品质",
+      "稳定收入"
+    ],
+    "social_media_usage": [
+      "微信"
+    ],
+    "ecommerce_activity": "不会使用",
+    "policy_awareness": "了解很少",
+    "cooperative_member": false,
+    "brand_awareness": "无",
+    "sale_channels": [
+      "小商贩",
+      "路边销售"
+    ],
+    "irrigation_method": "人工浇灌",
+    "fertilization_method": "化肥为主",
+    "pest_control_method": "传统方法",
+    "record_keeping": "无记录",
+    "data_usage": "不使用",
+    "sustainability_focus": "不关注",
+    "innovation_adoption": "保守",
+    "training_attendance": "很少参加",
+    "financial_access": "亲友借款",
+    "insurance_usage": "无保险",
+    "crop_rotation": "无",
+    "soil_type": "紫色土",
+    "irrigation_source": "山泉水",
+    "labor_source": "家庭劳动",
+    "equipment_value": "1万元",
+    "market_info_source": "邻居",
+    "annual_income_range_lakh": [
+      5,
+      8
+    ],
+    "learning_frequency_monthly": 1.0,
+    "profile_summary": "黄果农是一位来自四川成都的猕猴桃种植户，拥有18年种植经验，经营15亩土地，采用传统种植方式，技术水平初级。他当前面临技术缺乏和销售困难的挑战，核心需求是病害防治和修剪技术，长期目标是提高猕猴桃品质和稳定收入来源。"
+  },
+  {
+    "user_id": "AG201",
+    "name": "钱麦穗",
+    "age": 51,
+    "gender": "男",
+    "location": "河南省驻马店市",
+    "user_type": "小麦种植户",
+    "operation_scale": 180,
+    "main_crop": "小麦",
+    "secondary_crops": [
+      "大豆"
+    ],
+    "farming_method": "半机械化",
+    "experience_years": 25,
+    "education": "初中",
+    "technical_level": "中级",
+    "annual_income": "10-15万元",
+    "main_knowledge_needs": [
+      "赤霉病防治",
+      "优质麦种"
+    ],
+    "secondary_knowledge_needs": [
+      "节水技术",
+      "订单农业"
+    ],
+    "device_usage": [
+      "智能手机",
+      "拖拉机"
+    ],
+    "content_preference": [
+      "短视频教程",
+      "广播节目"
+    ],
+    "learning_frequency": "4次/月",
+    "challenges": [
+      "病害频发",
+      "市场价格波动"
+    ],
+    "development_goals": [
+      "提高品质",
+      "稳定收入"
+    ],
+    "social_media_usage": [
+      "微信"
+    ],
+    "ecommerce_activity": "偶尔网购",
+    "policy_awareness": "关注补贴",
+    "cooperative_member": true,
+    "brand_awareness": "一般",
+    "sale_channels": [
+      "粮站",
+      "加工厂"
+    ],
+    "irrigation_method": "沟灌",
+    "fertilization_method": "化肥为主",
+    "pest_control_method": "化学防治",
+    "record_keeping": "简单记录",
+    "data_usage": "基本不用",
+    "sustainability_focus": "中等",
+    "innovation_adoption": "观望",
+    "training_attendance": "每年2次",
+    "financial_access": "信用社贷款",
+    "insurance_usage": "政策性保险",
+    "crop_rotation": "小麦-大豆",
+    "soil_type": "黄棕壤",
+    "irrigation_source": "地下水",
+    "labor_source": "家庭+雇工",
+    "equipment_value": "12万元",
+    "market_info_source": "收购商",
+    "annual_income_range_lakh": [
+      10,
+      15
+    ],
+    "learning_frequency_monthly": 4.0,
+    "profile_summary": "钱麦穗是一位来自河南驻马店的资深小麦种植户，经营180亩土地，采用半机械化耕作方式，具有25年的丰富经验。他当前面临病害频发和市场价格波动的挑战，核心需求是赤霉病防治技术和优质麦种，长期目标是提高作物品质和稳定收入。他主要通过微信获取信息，偶尔参与网购，并关注农业补贴政策。"
+  },
+  {
+    "user_id": "AG202",
+    "name": "孙水稻",
+    "age": 47,
+    "gender": "女",
+    "location": "湖北省荆州市",
+    "user_type": "水稻种植户",
+    "operation_scale": 95,
+    "main_crop": "水稻",
+    "secondary_crops": [
+      "油菜"
+    ],
+    "farming_method": "传统种植",
+    "experience_years": 20,
+    "education": "初中",
+    "technical_level": "初级",
+    "annual_income": "7-10万元",
+    "main_knowledge_needs": [
+      "病虫害防治",
+      "施肥技术"
+    ],
+    "secondary_knowledge_needs": [
+      "加工增值",
+      "电商销售"
+    ],
+    "device_usage": [
+      "智能手机"
+    ],
+    "content_preference": [
+      "图文手册",
+      "广播"
+    ],
+    "learning_frequency": "1次/月",
+    "challenges": [
+      "人工成本高",
+      "销售渠道单一"
+    ],
+    "development_goals": [
+      "提高亩产",
+      "发展绿色大米"
+    ],
+    "social_media_usage": [
+      "微信"
+    ],
+    "ecommerce_activity": "很少",
+    "policy_awareness": "一般",
+    "cooperative_member": false,
+    "brand_awareness": "无",
+    "sale_channels": [
+      "粮贩",
+      "本地市场"
+    ],
+    "irrigation_method": "漫灌",
+    "fertilization_method": "化肥为主",
+    "pest_control_method": "化学农药",
+    "record_keeping": "无记录",
+    "data_usage": "不使用",
+    "sustainability_focus": "低",
+    "innovation_adoption": "保守",
+    "training_attendance": "每年1次",
+    "financial_access": "储蓄",
+    "insurance_usage": "政策性保险",
+    "crop_rotation": "水稻-油菜",
+    "soil_type": "水稻土",
+    "irrigation_source": "河流",
+    "labor_source": "家庭劳动",
+    "equipment_value": "5万元",
+    "market_info_source": "邻居",
+    "annual_income_range_lakh": [
+      7,
+      10
+    ],
+    "learning_frequency_monthly": 1.0,
+    "profile_summary": "孙水稻是一位来自湖北荆州的传统水稻种植户，拥有20年种植经验，经营95亩土地，技术水平初级。她当前面临人工成本高和销售渠道单一的挑战，核心需求是病虫害防治和施肥技术，长期目标是提高亩产和发展绿色大米。"
+  },
+  {
+    "user_id": "AG203",
+    "name": "李玉米",
+    "age": 35,
+    "gender": "男",
+    "location": "吉林省长春市",
+    "user_type": "玉米种植大户",
+    "operation_scale": 450,
+    "main_crop": "玉米",
+    "secondary_crops": [],
+    "farming_method": "全程机械化",
+    "experience_years": 8,
+    "education": "大专",
+    "technical_level": "高级",
+    "annual_income": "30-40万元",
+    "main_knowledge_needs": [
+      "智能灌溉",
+      "精准施肥"
+    ],
+    "secondary_knowledge_needs": [
+      "期货交易",
+      "仓储管理"
+    ],
+    "device_usage": [
+      "平板电脑",
+      "无人机",
+      "传感器"
+    ],
+    "content_preference": [
+      "在线课程",
+      "技术直播"
+    ],
+    "learning_frequency": "12次/月",
+    "challenges": [
+      "技术更新快",
+      "资金压力"
+    ],
+    "development_goals": [
+      "智慧农场",
+      "品牌建设"
+    ],
+    "social_media_usage": [
+      "专业APP",
+      "微信"
+    ],
+    "ecommerce_activity": "经常采购",
+    "policy_awareness": "高度关注",
+    "cooperative_member": true,
+    "brand_awareness": "注重品牌",
+    "sale_channels": [
+      "饲料厂",
+      "深加工企业"
+    ],
+    "irrigation_method": "滴灌",
+    "fertilization_method": "测土配方",
+    "pest_control_method": "绿色防控",
+    "record_keeping": "数字化系统",
+    "data_usage": "分析决策",
+    "sustainability_focus": "高度关注",
+    "innovation_adoption": "积极尝试",
+    "training_attendance": "季度培训",
+    "financial_access": "银行贷款",
+    "insurance_usage": "商业保险",
+    "crop_rotation": "玉米-大豆",
+    "soil_type": "黑土",
+    "irrigation_source": "水库",
+    "labor_source": "专业团队",
+    "equipment_value": "180万元",
+    "market_info_source": "行业平台",
+    "annual_income_range_lakh": [
+      30,
+      40
+    ],
+    "learning_frequency_monthly": 12.0,
+    "profile_summary": "李玉米是一位来自吉林长春的高级技术玉米种植大户，经营450亩土地，采用全程机械化耕作。他当前面临技术更新快和资金压力的挑战，核心需求是智能灌溉和精准施肥技术，长期目标是建设智慧农场和提升品牌价值。他积极采用新技术，高度关注可持续发展和市场信息，是一位具有前瞻性的现代农业经营者。"
+  },
+  {
+    "user_id": "AG204",
+    "name": "周大豆",
+    "age": 44,
+    "gender": "男",
+    "location": "黑龙江省黑河市",
+    "user_type": "大豆种植户",
+    "operation_scale": 350,
+    "main_crop": "大豆",
+    "secondary_crops": [
+      "小麦"
+    ],
+    "farming_method": "机械化",
+    "experience_years": 12,
+    "education": "高中",
+    "technical_level": "中级",
+    "annual_income": "15-20万元",
+    "main_knowledge_needs": [
+      "高产技术",
+      "轮作体系"
+    ],
+    "secondary_knowledge_needs": [
+      "深加工",
+      "出口标准"
+    ],
+    "device_usage": [
+      "智能手机",
+      "中型农机"
+    ],
+    "content_preference": [
+      "短视频教程",
+      "图文手册"
+    ],
+    "learning_frequency": "4次/月",
+    "challenges": [
+      "进口冲击",
+      "气候变化"
+    ],
+    "development_goals": [
+      "提高单产",
+      "有机认证"
+    ],
+    "social_media_usage": [
+      "微信",
+      "快手"
+    ],
+    "ecommerce_activity": "偶尔网购",
+    "policy_awareness": "关注补贴",
+    "cooperative_member": true,
+    "brand_awareness": "一般",
+    "sale_channels": [
+      "油脂企业",
+      "收购商"
+    ],
+    "irrigation_method": "喷灌",
+    "fertilization_method": "复合肥",
+    "pest_control_method": "化学防治",
+    "record_keeping": "简单记录",
+    "data_usage": "基本不用",
+    "sustainability_focus": "中等",
+    "innovation_adoption": "选择性",
+    "training_attendance": "每年2次",
+    "financial_access": "合作社贷款",
+    "insurance_usage": "政策性保险",
+    "crop_rotation": "大豆-小麦",
+    "soil_type": "黑钙土",
+    "irrigation_source": "雨水",
+    "labor_source": "家庭+雇工",
+    "equipment_value": "35万元",
+    "market_info_source": "收购商",
+    "annual_income_range_lakh": [
+      15,
+      20
+    ],
+    "learning_frequency_monthly": 4.0,
+    "profile_summary": "周大豆是一位来自黑龙江黑河市的大豆种植户，拥有12年种植经验，经营350亩土地，采用机械化耕作方式。他当前面临进口冲击和气候变化的挑战，核心需求是提高单产技术和轮作体系知识，长期目标是获得有机认证。他主要通过微信和快手获取信息，偶尔参与网购，并关注农业补贴政策。"
+  },
+  {
+    "user_id": "AG205",
+    "name": "吴苹果",
+    "age": 53,
+    "gender": "女",
+    "location": "山西省运城市",
+    "user_type": "苹果种植户",
+    "operation_scale": 25,
+    "main_crop": "苹果",
+    "secondary_crops": [],
+    "farming_method": "传统种植",
+    "experience_years": 22,
+    "education": "初中",
+    "technical_level": "初级",
+    "annual_income": "6-9万元",
+    "main_knowledge_needs": [
+      "病虫害防治",
+      "修剪技术"
+    ],
+    "secondary_knowledge_needs": [
+      "简易储存",
+      "直销渠道"
+    ],
+    "device_usage": [
+      "智能手机"
+    ],
+    "content_preference": [
+      "广播节目",
+      "图文手册"
+    ],
+    "learning_frequency": "偶尔学习",
+    "challenges": [
+      "销售困难",
+      "储存损失"
+    ],
+    "development_goals": [
+      "提高品质",
+      "稳定收入"
+    ],
+    "social_media_usage": [
+      "微信"
+    ],
+    "ecommerce_activity": "不会使用",
+    "policy_awareness": "了解很少",
+    "cooperative_member": false,
+    "brand_awareness": "无",
+    "sale_channels": [
+      "小商贩",
+      "路边销售"
+    ],
+    "irrigation_method": "人工浇灌",
+    "fertilization_method": "化肥为主",
+    "pest_control_method": "传统方法",
+    "record_keeping": "无记录",
+    "data_usage": "不使用",
+    "sustainability_focus": "不关注",
+    "innovation_adoption": "保守",
+    "training_attendance": "很少参加",
+    "financial_access": "储蓄",
+    "insurance_usage": "无保险",
+    "crop_rotation": "无",
+    "soil_type": "褐土",
+    "irrigation_source": "井水",
+    "labor_source": "家庭劳动",
+    "equipment_value": "3万元",
+    "market_info_source": "邻居",
+    "annual_income_range_lakh": [
+      6,
+      9
+    ],
+    "learning_frequency_monthly": 1.0,
+    "profile_summary": "吴苹果是一位来自山西运城的经验丰富的苹果种植户，经营25亩土地，采用传统种植方法，技术水平初级。她当前面临销售困难和储存损失的挑战，核心需求是病虫害防治和修剪技术，长期目标是提高苹果品质和稳定收入。她主要通过微信获取信息，学习频率较低，市场销售渠道有限，且缺乏现代农业技术的应用。"
+  },
+  {
+    "user_id": "AG206",
+    "name": "郑猕缘",
+    "age": 41,
+    "gender": "男",
+    "location": "四川省都江堰市",
+    "user_type": "猕猴桃合作社技术员",
+    "operation_scale": 800,
+    "main_crop": "猕猴桃",
+    "secondary_crops": [],
+    "farming_method": "标准化种植",
+    "experience_years": 10,
+    "education": "本科",
+    "technical_level": "高级",
+    "annual_income": "12-18万元",
+    "main_knowledge_needs": [
+      "病虫害防治",
+      "采后处理"
+    ],
+    "secondary_knowledge_needs": [
+      "有机认证",
+      "电商运营"
+    ],
+    "device_usage": [
+      "智能手机",
+      "平板电脑"
+    ],
+    "content_preference": [
+      "在线课程",
+      "技术文章"
+    ],
+    "learning_frequency": "8次/月",
+    "challenges": [
+      "技术推广",
+      "品质控制"
+    ],
+    "development_goals": [
+      "提高优果率",
+      "品牌建设"
+    ],
+    "social_media_usage": [
+      "微信",
+      "专业APP"
+    ],
+    "ecommerce_activity": "网购农资",
+    "policy_awareness": "高度关注",
+    "cooperative_member": true,
+    "brand_awareness": "品牌建设",
+    "sale_channels": [
+      "批发市场",
+      "电商"
+    ],
+    "irrigation_method": "滴灌",
+    "fertilization_method": "有机肥为主",
+    "pest_control_method": "生物防治",
+    "record_keeping": "数字系统",
+    "data_usage": "分析应用",
+    "sustainability_focus": "高度关注",
+    "innovation_adoption": "积极尝试",
+    "training_attendance": "月度培训",
+    "financial_access": "银行贷款",
+    "insurance_usage": "商业保险",
+    "crop_rotation": "无",
+    "soil_type": "紫色土",
+    "irrigation_source": "水库",
+    "labor_source": "合作社成员",
+    "equipment_value": "60万元",
+    "market_info_source": "行业协会",
+    "annual_income_range_lakh": [
+      12,
+      18
+    ],
+    "learning_frequency_monthly": 8.0,
+    "profile_summary": "郑猕缘是一位来自四川都江堰的高级猕猴桃合作社技术员，拥有10年标准化种植经验，经营800亩猕猴桃园。他当前面临技术推广和品质控制的挑战，核心需求是病虫害防治和采后处理技术，长期目标是提高优果率和品牌建设。他积极采用数字系统和生物防治技术，高度关注可持续发展和市场信息。"
+  },
+  {
+    "user_id": "AG207",
+    "name": "王麦香",
+    "age": 49,
+    "gender": "女",
+    "location": "安徽省阜阳市",
+    "user_type": "小麦种植户",
+    "operation_scale": 120,
+    "main_crop": "小麦",
+    "secondary_crops": [
+      "玉米"
+    ],
+    "farming_method": "半机械化",
+    "experience_years": 18,
+    "education": "高中",
+    "technical_level": "中级",
+    "annual_income": "8-12万元",
+    "main_knowledge_needs": [
+      "抗倒伏技术",
+      "节水灌溉"
+    ],
+    "secondary_knowledge_needs": [
+      "土壤改良",
+      "市场信息"
+    ],
+    "device_usage": [
+      "智能手机"
+    ],
+    "content_preference": [
+      "短视频教程",
+      "广播节目"
+    ],
+    "learning_frequency": "4次/月",
+    "challenges": [
+      "水资源短缺",
+      "成本上升"
+    ],
+    "development_goals": [
+      "提高水效",
+      "订单农业"
+    ],
+    "social_media_usage": [
+      "微信"
+    ],
+    "ecommerce_activity": "偶尔网购",
+    "policy_awareness": "关注补贴",
+    "cooperative_member": true,
+    "brand_awareness": "一般",
+    "sale_channels": [
+      "粮站",
+      "加工厂"
+    ],
+    "irrigation_method": "喷灌",
+    "fertilization_method": "复合肥",
+    "pest_control_method": "综合防治",
+    "record_keeping": "简单记录",
+    "data_usage": "基本不用",
+    "sustainability_focus": "中等",
+    "innovation_adoption": "观望",
+    "training_attendance": "每年3次",
+    "financial_access": "信用社贷款",
+    "insurance_usage": "政策性保险",
+    "crop_rotation": "小麦-玉米",
+    "soil_type": "砂姜黑土",
+    "irrigation_source": "地下水",
+    "labor_source": "家庭+雇工",
+    "equipment_value": "15万元",
+    "market_info_source": "合作社",
+    "annual_income_range_lakh": [
+      8,
+      12
+    ],
+    "learning_frequency_monthly": 4.0,
+    "profile_summary": "王麦香是一位来自安徽阜阳的资深小麦种植户，经营120亩土地，采用半机械化耕作方式，具有18年种植经验。她当前面临水资源短缺和成本上升的挑战，核心需求是抗倒伏技术和节水灌溉，长期目标是提高水资源利用效率和实现订单农业。她主要通过智能手机获取农业信息，偏好短视频教程和广播节目，并积极参与合作社活动。"
+  },
+  {
+    "user_id": "AG208",
+    "name": "冯水稻",
+    "age": 58,
+    "gender": "男",
+    "location": "湖南省岳阳市",
+    "user_type": "水稻家庭农场",
+    "operation_scale": 65,
+    "main_crop": "水稻",
+    "secondary_crops": [],
+    "farming_method": "传统种植",
+    "experience_years": 30,
+    "education": "小学",
+    "technical_level": "初级",
+    "annual_income": "5-7万元",
+    "main_knowledge_needs": [
+      "杂草防治",
+      "施肥技术"
+    ],
+    "secondary_knowledge_needs": [
+      "优质稻种",
+      "加工技术"
+    ],
+    "device_usage": [
+      "智能手机"
+    ],
+    "content_preference": [
+      "图文手册",
+      "广播"
+    ],
+    "learning_frequency": "1次/月",
+    "challenges": [
+      "劳动力短缺",
+      "成本上升"
+    ],
+    "development_goals": [
+      "稳定产量",
+      "提高品质"
+    ],
+    "social_media_usage": [
+      "微信"
+    ],
+    "ecommerce_activity": "很少",
+    "policy_awareness": "较低",
+    "cooperative_member": false,
+    "brand_awareness": "无",
+    "sale_channels": [
+      "粮贩",
+      "本地市场"
+    ],
+    "irrigation_method": "漫灌",
+    "fertilization_method": "化肥为主",
+    "pest_control_method": "化学农药",
+    "record_keeping": "无记录",
+    "data_usage": "不使用",
+    "sustainability_focus": "不关注",
+    "innovation_adoption": "保守",
+    "training_attendance": "每年1次",
+    "financial_access": "储蓄",
+    "insurance_usage": "无保险",
+    "crop_rotation": "水稻-休耕",
+    "soil_type": "红壤",
+    "irrigation_source": "池塘",
+    "labor_source": "家庭劳动",
+    "equipment_value": "4万元",
+    "market_info_source": "邻居",
+    "annual_income_range_lakh": [
+      5,
+      7
+    ],
+    "learning_frequency_monthly": 1.0,
+    "profile_summary": "冯水稻是一位来自湖南岳阳的资深水稻种植户，经营65亩土地，采用传统种植方式，技术水平初级。他当前面临劳动力短缺和成本上升的挑战，核心需求是杂草防治和施肥技术，长期目标是稳定产量并提高品质。"
+  },
+  {
+    "user_id": "AG209",
+    "name": "陈玉米",
+    "age": 37,
+    "gender": "男",
+    "location": "辽宁省铁岭市",
+    "user_type": "玉米种植大户",
+    "operation_scale": 600,
+    "main_crop": "玉米",
+    "secondary_crops": [
+      "大豆"
+    ],
+    "farming_method": "全程机械化",
+    "experience_years": 9,
+    "education": "本科",
+    "technical_level": "高级",
+    "annual_income": "35-45万元",
+    "main_knowledge_needs": [
+      "智慧农业",
+      "精准施肥"
+    ],
+    "secondary_knowledge_needs": [
+      "期货交易",
+      "仓储技术"
+    ],
+    "device_usage": [
+      "平板电脑",
+      "无人机",
+      "物联网设备"
+    ],
+    "content_preference": [
+      "在线课程",
+      "行业报告"
+    ],
+    "learning_frequency": "12次/月",
+    "challenges": [
+      "土地成本",
+      "技术人才缺乏"
+    ],
+    "development_goals": [
+      "全产业链",
+      "出口贸易"
+    ],
+    "social_media_usage": [
+      "专业APP",
+      "微信"
+    ],
+    "ecommerce_activity": "经常采购设备",
+    "policy_awareness": "高度关注",
+    "cooperative_member": true,
+    "brand_awareness": "重视品牌",
+    "sale_channels": [
+      "深加工企业",
+      "饲料厂"
+    ],
+    "irrigation_method": "滴灌",
+    "fertilization_method": "测土配方",
+    "pest_control_method": "绿色防控",
+    "record_keeping": "数字化系统",
+    "data_usage": "分析决策",
+    "sustainability_focus": "高度关注",
+    "innovation_adoption": "积极尝试",
+    "training_attendance": "季度培训",
+    "financial_access": "银行贷款",
+    "insurance_usage": "商业保险",
+    "crop_rotation": "玉米-大豆",
+    "soil_type": "黑土",
+    "irrigation_source": "水库",
+    "labor_source": "专业团队",
+    "equipment_value": "200万元",
+    "market_info_source": "行业平台",
+    "annual_income_range_lakh": [
+      35,
+      45
+    ],
+    "learning_frequency_monthly": 12.0,
+    "profile_summary": "陈玉米是一位来自辽宁铁岭的高学历玉米种植大户，经营600亩土地，采用全程机械化作业，技术水平高级。他年收入35-45万元，核心需求是智慧农业和精准施肥技术，同时关注期货交易和仓储技术。面临土地成本高和技术人才缺乏的挑战，长期目标是实现全产业链发展和出口贸易。他积极采用新技术，高度关注可持续发展和政策动向，并定期参加培训提升技能。"
+  },
+  {
+    "user_id": "AG210",
+    "name": "朱大豆",
+    "age": 46,
+    "gender": "男",
+    "location": "黑龙江省佳木斯市",
+    "user_type": "大豆种植户",
+    "operation_scale": 500,
+    "main_crop": "大豆",
+    "secondary_crops": [],
+    "farming_method": "大型机械化",
+    "experience_years": 14,
+    "education": "高中",
+    "technical_level": "高级",
+    "annual_income": "25-35万元",
+    "main_knowledge_needs": [
+      "高产技术",
+      "轮作体系"
+    ],
+    "secondary_knowledge_needs": [
+      "国际贸易",
+      "期货交易"
+    ],
+    "device_usage": [
+      "智能设备",
+      "大型农机"
+    ],
+    "content_preference": [
+      "专业期刊",
+      "在线课程"
+    ],
+    "learning_frequency": "8次/月",
+    "challenges": [
+      "进口冲击",
+      "气候变化"
+    ],
+    "development_goals": [
+      "有机认证",
+      "深加工"
+    ],
+    "social_media_usage": [
+      "微信",
+      "专业平台"
+    ],
+    "ecommerce_activity": "B2B采购",
+    "policy_awareness": "高度关注",
+    "cooperative_member": true,
+    "brand_awareness": "品牌建设",
+    "sale_channels": [
+      "油脂企业",
+      "出口贸易"
+    ],
+    "irrigation_method": "中心支轴灌溉",
+    "fertilization_method": "科学配方",
+    "pest_control_method": "综合防治",
+    "record_keeping": "数字系统",
+    "data_usage": "分析决策",
+    "sustainability_focus": "高度关注",
+    "innovation_adoption": "前沿技术",
+    "training_attendance": "季度培训",
+    "financial_access": "银行贷款",
+    "insurance_usage": "综合保险",
+    "crop_rotation": "大豆-小麦",
+    "soil_type": "黑钙土",
+    "irrigation_source": "河水",
+    "labor_source": "专业团队",
+    "equipment_value": "250万元",
+    "market_info_source": "国际市场",
+    "annual_income_range_lakh": [
+      25,
+      35
+    ],
+    "learning_frequency_monthly": 8.0,
+    "profile_summary": "朱大豆是一位来自黑龙江佳木斯的高级技术大豆种植户，经营500亩土地，采用大型机械化耕作方式。他年收入25-35万元，面临进口冲击和气候变化的挑战，核心需求是提高产量和优化轮作体系，长期目标是获得有机认证和发展深加工业务。他高度关注可持续发展和前沿技术，积极参与培训，并通过数字系统进行农业数据分析和决策。"
+  },
+  {
+    "user_id": "AG291",
+    "name": "林苹果",
+    "age": 55,
+    "gender": "女",
+    "location": "河北省保定市",
+    "user_type": "苹果种植户",
+    "operation_scale": 20,
+    "main_crop": "苹果",
+    "secondary_crops": [],
+    "farming_method": "传统种植",
+    "experience_years": 24,
+    "education": "初中",
+    "technical_level": "初级",
+    "annual_income": "5-8万元",
+    "main_knowledge_needs": [
+      "病虫害防治",
+      "修剪技术"
+    ],
+    "secondary_knowledge_needs": [
+      "直销渠道",
+      "简易加工"
+    ],
+    "device_usage": [
+      "智能手机"
+    ],
+    "content_preference": [
+      "广播节目",
+      "图文手册"
+    ],
+    "learning_frequency": "偶尔学习",
+    "challenges": [
+      "销售困难",
+      "储存损失"
+    ],
+    "development_goals": [
+      "提高品质",
+      "稳定收入"
+    ],
+    "social_media_usage": [
+      "微信"
+    ],
+    "ecommerce_activity": "不会使用",
+    "policy_awareness": "了解很少",
+    "cooperative_member": false,
+    "brand_awareness": "无",
+    "sale_channels": [
+      "小商贩",
+      "路边销售"
+    ],
+    "irrigation_method": "人工浇灌",
+    "fertilization_method": "化肥为主",
+    "pest_control_method": "传统方法",
+    "record_keeping": "无记录",
+    "data_usage": "不使用",
+    "sustainability_focus": "不关注",
+    "innovation_adoption": "保守",
+    "training_attendance": "很少参加",
+    "financial_access": "储蓄",
+    "insurance_usage": "无保险",
+    "crop_rotation": "无",
+    "soil_type": "褐土",
+    "irrigation_source": "井水",
+    "labor_source": "家庭劳动",
+    "equipment_value": "2万元",
+    "market_info_source": "邻居",
+    "annual_income_range_lakh": [
+      5,
+      8
+    ],
+    "learning_frequency_monthly": 1.0,
+    "profile_summary": "林苹果是一位来自河北保定的55岁女性苹果种植户，拥有24年种植经验，采用传统种植方式经营20亩苹果园。她面临销售困难和储存损失等挑战，主要需求是病虫害防治和修剪技术，长期目标是提高苹果品质和稳定收入。她主要通过微信获取信息，销售渠道有限，技术水平和创新意识较为保守。"
+  },
+  {
+    "user_id": "AG292",
+    "name": "马缘",
+    "age": 42,
+    "gender": "男",
+    "location": "陕西省周至县",
+    "user_type": "猕猴桃企业技术总监",
+    "operation_scale": 1500,
+    "main_crop": "猕猴桃",
+    "secondary_crops": [],
+    "farming_method": "智慧农业",
+    "experience_years": 9,
+    "education": "硕士",
+    "technical_level": "高级",
+    "annual_income": "30-40万元",
+    "main_knowledge_needs": [
+      "采后处理",
+      "冷链物流"
+    ],
+    "secondary_knowledge_needs": [
+      "国际市场",
+      "新品种"
+    ],
+    "device_usage": [
+      "智能设备",
+      "无人机",
+      "物联网"
+    ],
+    "content_preference": [
+      "国际报告",
+      "科研论文"
+    ],
+    "learning_frequency": "30次/月",
+    "challenges": [
+      "保鲜技术",
+      "出口标准"
+    ],
+    "development_goals": [
+      "国际认证",
+      "品牌溢价"
+    ],
+    "social_media_usage": [
+      "专业平台",
+      "LinkedIn"
+    ],
+    "ecommerce_activity": "B2B平台",
+    "policy_awareness": "高度关注",
+    "cooperative_member": false,
+    "brand_awareness": "国际品牌",
+    "sale_channels": [
+      "高端超市",
+      "出口",
+      "电商"
+    ],
+    "irrigation_method": "智能滴灌",
+    "fertilization_method": "精准施肥",
+    "pest_control_method": "绿色防控",
+    "record_keeping": "数字化系统",
+    "data_usage": "大数据分析",
+    "sustainability_focus": "核心战略",
+    "innovation_adoption": "前沿技术",
+    "training_attendance": "每月2次",
+    "financial_access": "风险投资",
+    "insurance_usage": "综合保险",
+    "crop_rotation": "无",
+    "soil_type": "褐土",
+    "irrigation_source": "水库+滴灌",
+    "labor_source": "专业团队",
+    "equipment_value": "600万元",
+    "market_info_source": "全球市场",
+    "annual_income_range_lakh": [
+      30,
+      40
+    ],
+    "learning_frequency_monthly": 30.0,
+    "profile_summary": "马缘是一位来自陕西周至县的猕猴桃企业技术总监，拥有9年经验，硕士学历，高级技术水平。他管理1500亩智慧农业园区，年收入30-40万元，主要关注采后处理和冷链物流技术。面临保鲜技术和出口标准的挑战，致力于实现国际认证和品牌溢价。他高度关注政策，使用前沿技术，并通过全球市场获取信息，目标是打造国际品牌。"
+  }
+]
