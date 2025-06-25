@@ -33,24 +33,21 @@ def get_recommendation(user_id):
     print("[1/6] 正在加载用户和知识数据...")
     with open('data/users_processed.json', 'r', encoding='utf-8') as file:
         user_prts = json.load(file)
-    with open('data/cleared_knowledge_processed.json', 'r', encoding='utf-8') as file:
+        # print(type(user_prts))
+            
+    with open('data/knowledge_processed.json', 'r', encoding='utf-8') as file:
         knowledge_prts = json.load(file)
     print("数据加载完毕。")
 
     # --- 2. 加载模型 ---
     print("[2/6] 正在加载Bi-Encoder模型...")
-    # bi_encoder = SentenceTransformer('bert-base-nli-mean-tokens', device='cpu')4
-    # bi_encoder = SentenceTransformer('paraphrase-multilingual-MiniLM-L12-v2', device='cpu')
-    # 中文任务推荐（强烈推荐）
     bi_encoder = SentenceTransformer('shibing624/text2vec-base-chinese', device='cpu')
-
-    
     print("模型加载完毕。")
 
     # --- 3. 准备句子 ---
     print("[3/6] 正在准备用户画像和知识库句子...")
     user_info_raw = values_to_sentence(user_prts[user_id])
-    user_info_enhanced = user_prts[user_id].get('profile_summary', user_info_raw)
+    user_info_enhanced = user_prts[user_id].get('profile_summary') or values_to_sentence(user_prts[user_id])
     print(user_info_enhanced)
 
     cache_sentences_path = os.path.join(CACHE_DIR, 'knowledge_sentences.json')
@@ -63,7 +60,10 @@ def get_recommendation(user_id):
         knowledge_embeddings = np.load(cache_embeddings_path)
     else:
         print("    > 无缓存，开始生成句子和嵌入...")
-        knowledge_sentences = list_to_sentences(knowledge_prts)
+        knowledge_sentences = [
+            item.get('summary') or values_to_sentence(item)
+            for item in knowledge_prts
+        ]
         knowledge_embeddings = bi_encoder.encode(
             knowledge_sentences,
             batch_size=64,
@@ -90,7 +90,7 @@ def get_recommendation(user_id):
     user_embedding_np = bi_encoder.encode([user_info_enhanced], normalize_embeddings=True)
     faiss.normalize_L2(user_embedding_np)
     distances, indices = index.search(user_embedding_np, 20)
-    print(f"召回了 {len(indices[0])} 个候选结果。")
+    print(f"召回了 {(indices)} 个候选结果。")
 
     # --- 6. LLM推荐分类 ---
     print("[6/6] 正在使用LLM生成推荐类别和内容...")
