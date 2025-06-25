@@ -90,7 +90,7 @@ def get_recommendation(user_id):
     user_embedding_np = bi_encoder.encode([user_info_enhanced], normalize_embeddings=True)
     faiss.normalize_L2(user_embedding_np)
     distances, indices = index.search(user_embedding_np, 20)
-    print(f"召回了 {(indices)} 个候选结果。")
+    print(f"召回了 {len(indices[0])} 个候选结果。")
 
     # --- 6. LLM推荐分类 ---
     print("[6/6] 正在使用LLM生成推荐类别和内容...")

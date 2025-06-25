@@ -73,3 +73,4 @@ def llm_categorize_and_recommend(user_info, candidates_with_meta):
         return data
     except (json.JSONDecodeError, AttributeError, KeyError):
         return {}
+

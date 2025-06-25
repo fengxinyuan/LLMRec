@@ -202,29 +202,23 @@ def llm_format_and_enhance_knowledge_resource(resource_json):
         return None
 
 def llm_generate_html_for_knowledge(resource_json):
-    prompt = f"""你是一个专业的前端开发者和内容设计师。你的任务是根据一个知识资源的JSON对象，生成一个结构清晰、内容丰富、适合阅读的HTML页面。
+    prompt = f"""你是一个专业的农业知识内容生成器。你的任务是根据一个知识资源的JSON对象，提取其核心信息，并生成一段结构清晰、内容丰富、适合阅读的纯文本文章正文。
 
 [知识资源JSON]:
 {resource_json}
 
-[HTML生成要求]:
-1.  **结构**: 使用标准的HTML5结构 (`<!DOCTYPE html>`, `<html>`, `<head>`, `<body>`)。
-2.  **标题**: 在`<head>`中设置`<title>`为资源标题，并使用UTF-8编码。
-3.  **样式**: 在`<head>`中嵌入一些基本的CSS样式，使页面美观易读（例如，设置字体、边距、标题样式、标签样式等）。
-4.  **内容**:
-    -   使用`<h1>`展示资源标题 (`title`)。
-    -   使用一个段落`<p>`展示摘要 (`summary`)。
-    -   创建一个“核心信息”区块，使用`<h2>`标题。在此区块中，用`<ul>`和`<li>`列表展示关键信息，如：`resource_type`, `technical_domain`, `target_crops`, `applicable_regions`。使用`<strong>`标签突出显示字段名。
-    -   创建一个“详细描述”区块，使用`<h2>`标题，用`<p>`展示`description`。
-    -   创建一个“标签”区块，使用`<h2>`标题，将`tags`数组中的每个标签用`<span>`包裹，并为其添加样式，使其看起来像标签。
-5.  **完整性**: 确保输出的是一个完整的、可以直接保存为`.html`文件的字符串。
+[文章正文生成要求]:
+1.  **内容提取**: 综合利用 `title`, `summary`, `description`, `target_crops`, `technical_domain`, `applicable_regions`, `tags` 等字段中的信息。
+2.  **结构组织**: 将提取的信息组织成连贯的段落。每个段落必须用 `<p>` 标签包裹。
+3.  **语言风格**: 使用专业、简洁、易懂的语言。
+4.  **HTML输出**: 只输出包含 `<p>` 标签的文章正文内容，不需要完整的HTML文档结构（如 `<html>`, `<head>`, `<body>` 等），也不需要其他额外信息。
 
-请直接输出完整的HTML代码，不要包含任何其他解释或注释。"""
+请直接输出包含 `<p>` 标签的文章正文内容，不要包含任何其他解释或注释。"""
 
     response = client.chat.completions.create(
         model="deepseek-chat",
         messages=[
-            {"role": "system", "content": "You are a professional frontend developer. Your output must be a single, complete HTML string."},
+            {"role": "system", "content": "You are a professional agricultural knowledge content generator. Your output must be a single HTML string containing only paragraph tags."},
             {"role": "user", "content": prompt},
         ],
         stream=False,
