@@ -1,5 +1,6 @@
 import json
 import os
+import time
 import faiss
 import numpy as np
 from llm_api import llm_extend, llm_categorize_and_recommend
@@ -26,29 +27,29 @@ def list_to_sentences(json_list):
     return [values_to_sentence(item) for item in json_list]
 
 def get_recommendation(user_id):
-    print("="*20)
+    print("="*25)
     print(f"开始为用户 {user_id} 生成推荐...")
 
-    # --- 1. 加载数据 ---
+    # === 1. 加载数据 ===
+    start_time = time.time()
     print("[1/6] 正在加载用户和知识数据...")
-    with open('data/users_processed.json', 'r', encoding='utf-8') as file:
+    with open('data/users.json', 'r', encoding='utf-8') as file:
         user_prts = json.load(file)
-        # print(type(user_prts))
-            
-    with open('data/knowledge_processed.json', 'r', encoding='utf-8') as file:
+    with open('data/knowledge.json', 'r', encoding='utf-8') as file:
         knowledge_prts = json.load(file)
-    print("数据加载完毕。")
+    print(f"[1/6] 数据加载完毕，用时：{time.time() - start_time:.2f} 秒")
 
-    # --- 2. 加载模型 ---
+    # === 2. 加载模型 ===
+    start_time = time.time()
     print("[2/6] 正在加载Bi-Encoder模型...")
     bi_encoder = SentenceTransformer('shibing624/text2vec-base-chinese', device='cpu')
-    print("模型加载完毕。")
+    print(f"[2/6] 模型加载完毕，用时：{time.time() - start_time:.2f} 秒")
 
-    # --- 3. 准备句子 ---
+    # === 3. 准备句子 ===
+    start_time = time.time()
     print("[3/6] 正在准备用户画像和知识库句子...")
     user_info_raw = values_to_sentence(user_prts[user_id])
-    user_info_enhanced = user_prts[user_id].get('profile_summary') or values_to_sentence(user_prts[user_id])
-    print(user_info_enhanced)
+    user_info_enhanced = user_prts[user_id].get('profile_summary') or user_info_raw
 
     cache_sentences_path = os.path.join(CACHE_DIR, 'knowledge_sentences.json')
     cache_embeddings_path = os.path.join(CACHE_DIR, 'knowledge_embeddings.npy')
@@ -70,29 +71,31 @@ def get_recommendation(user_id):
             show_progress_bar=True,
             convert_to_numpy=True
         )
-        # 保存缓存
         with open(cache_sentences_path, 'w', encoding='utf-8') as f:
             json.dump(knowledge_sentences, f, ensure_ascii=False, indent=2)
         np.save(cache_embeddings_path, knowledge_embeddings)
         print("    > 缓存已保存。")
-    print("句子准备完毕。")
+    print(f"[3/6] 句子准备完毕，用时：{time.time() - start_time:.2f} 秒")
 
-    # --- 4. 构建Faiss索引 ---
+    # === 4. 构建Faiss索引 ===
+    start_time = time.time()
     print("[4/6] 正在构建Faiss索引...")
     dimension = bi_encoder.get_sentence_embedding_dimension()
     index = faiss.IndexFlatIP(dimension)
     faiss.normalize_L2(knowledge_embeddings)
     index.add(knowledge_embeddings)
-    print("Faiss索引构建完毕。")
+    print(f"[4/6] Faiss索引构建完毕，用时：{time.time() - start_time:.2f} 秒")
 
-    # --- 5. 向量召回 ---
+    # === 5. 向量召回 ===
+    start_time = time.time()
     print("[5/6] 正在进行向量召回...")
     user_embedding_np = bi_encoder.encode([user_info_enhanced], normalize_embeddings=True)
     faiss.normalize_L2(user_embedding_np)
     distances, indices = index.search(user_embedding_np, 20)
-    print(f"召回了 {len(indices[0])} 个候选结果。")
+    print(f"[5/6] 召回完毕（共 {len(indices[0])} 条），用时：{time.time() - start_time:.2f} 秒")
 
-    # --- 6. LLM推荐分类 ---
+    # === 6. LLM推荐分类 ===
+    start_time = time.time()
     print("[6/6] 正在使用LLM生成推荐类别和内容...")
     retrieved_indices = indices[0]
     candidates_with_meta = [
@@ -112,14 +115,13 @@ def get_recommendation(user_id):
             original_knowledge_index = candidates_with_meta[rec_idx]["original_index"]
             final_recommendations[category].append(knowledge_prts[original_knowledge_index])
 
-    print("推荐类别生成完毕。")
-    print("="*20)
+    print(f"[6/6] 推荐类别生成完毕，用时：{time.time() - start_time:.2f} 秒")
+    print("="*25)
 
-    output = {
+    return {
         "user_info": user_info_raw,
         "recommendations": final_recommendations
     }
-    return output
 
 if __name__ == "__main__":
     target_user_id = 1
