@@ -1,7 +1,10 @@
 import json
 from openai import OpenAI
 
-client = OpenAI(api_key="sk-2b56a25ee39a456c9df233a02b73dc88", base_url="https://api.deepseek.com")
+client = OpenAI(
+    api_key="sk-8859f4e64b9c48c282a761f80f313c1e",
+    base_url="https://dashscope.aliyuncs.com/compatible-mode/v1",
+)
 
 def llm_extend(content):
     prompt = f"""你是一位资深的农业技术顾问。请仔细分析以下原始用户画像，并生成一个增强版的摘要。
@@ -17,7 +20,7 @@ def llm_extend(content):
 请直接输出增强后的摘要文本。"""
 
     response = client.chat.completions.create(
-        model="deepseek-chat",
+        model="qwen-turbo-latest",
         messages=[
             {"role": "system", "content": "You are a senior agricultural technology consultant tasked with creating an enhanced, insightful summary of a user profile."},
             {"role": "user", "content": prompt},
@@ -56,7 +59,7 @@ def llm_categorize_and_recommend(user_info, candidates_with_meta):
 请直接输出JSON对象，不要包含任何其他解释或注释。"""
 
     response = client.chat.completions.create(
-        model="deepseek-chat",
+        model="qwen-turbo-latest",
         messages=[
             {"role": "system", "content": "You are a top-tier agricultural knowledge recommendation expert. Your output must be a single, clean JSON object mapping recommended categories to a list of original candidate indices."},
             {"role": "user", "content": prompt},
@@ -67,10 +70,15 @@ def llm_categorize_and_recommend(user_info, candidates_with_meta):
 
     try:
         content = response.choices[0].message.content
+        # 移除可能的markdown代码块标记
         if content.startswith("```json"):
-            content = content[7:-4].strip()
+            content = content[7:].strip()
+        if content.endswith("```"):
+            content = content[:-3].strip()
         data = json.loads(content)
         return data
-    except (json.JSONDecodeError, AttributeError, KeyError):
+    except (json.JSONDecodeError, AttributeError, KeyError) as e:
+        print(f"JSON解析错误或API响应异常: {e}")
+        print(f"原始响应内容: {response.choices[0].message.content}")
         return {}
 
