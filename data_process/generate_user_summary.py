@@ -33,15 +33,15 @@ def generate_html_report(user_profile, articles_dir='articles'):
     # 假设llm_extend返回的是HTML格式的字符串
     html_content = extended_content
 
-    # 生成HTML文件名
-    report_filename = f"NEW_RES_{user_id}.html"
-    report_filepath = os.path.join(articles_dir, report_filename)
+    # # 生成HTML文件名
+    # report_filename = f"NEW_RES_{user_id}.html"
+    # report_filepath = os.path.join(articles_dir, report_filename)
 
-    # 保存HTML文件
-    with open(report_filepath, 'w', encoding='utf-8') as f:
-        f.write(html_content)
+    # # 保存HTML文件
+    # with open(report_filepath, 'w', encoding='utf-8') as f:
+    #     f.write(html_content)
     
-    print(f"成功为用户 {user_id} 生成报告: {report_filepath}")
+    # print(f"成功为用户 {user_id} 生成报告: {report_filepath}")
 
 def main():
     """主函数：加载处理过的用户数据并生成报告"""
